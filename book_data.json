@@ -1,0 +1,4496 @@
+[
+  {
+    "title": "Phantastes",
+    "author": "George MacDonald",
+    "genre": "Fantasy",
+    "cover_url": "https://covers.openlibrary.org/b/id/14358814-M.jpg"
+  },
+  {
+    "title": "The Road to Oz",
+    "author": "L. Frank Baum",
+    "genre": "Fantasy",
+    "cover_url": "https://covers.openlibrary.org/b/id/8243922-M.jpg"
+  },
+  {
+    "title": "The Sea Fairies",
+    "author": "L. Frank Baum",
+    "genre": "Fantasy",
+    "cover_url": "https://covers.openlibrary.org/b/id/1814237-M.jpg"
+  },
+  {
+    "title": "The Silmarillion",
+    "author": "J.R.R. Tolkien",
+    "genre": "Fantasy",
+    "cover_url": "https://covers.openlibrary.org/b/id/14627042-M.jpg"
+  },
+  {
+    "title": "Lilith",
+    "author": "George MacDonald",
+    "genre": "Fantasy",
+    "cover_url": "https://covers.openlibrary.org/b/id/14364546-M.jpg"
+  },
+  {
+    "title": "The Last Battle",
+    "author": "C.S. Lewis",
+    "genre": "Fantasy",
+    "cover_url": "https://covers.openlibrary.org/b/id/6529226-M.jpg"
+  },
+  {
+    "title": "Dorothy and the Wizard in Oz",
+    "author": "L. Frank Baum",
+    "genre": "Fantasy",
+    "cover_url": "https://covers.openlibrary.org/b/id/12648659-M.jpg"
+  },
+  {
+    "title": "Brood of the Witch-Queen",
+    "author": "Sax Rohmer",
+    "genre": "Fantasy",
+    "cover_url": "https://covers.openlibrary.org/b/id/2011286-M.jpg"
+  },
+  {
+    "title": "The Story of the Amulet",
+    "author": "Edith Nesbit",
+    "genre": "Fantasy",
+    "cover_url": "https://covers.openlibrary.org/b/id/13241470-M.jpg"
+  },
+  {
+    "title": "Tik-Tok of Oz",
+    "author": "L. Frank Baum",
+    "genre": "Fantasy",
+    "cover_url": "https://covers.openlibrary.org/b/id/8243277-M.jpg"
+  },
+  {
+    "title": "The Story of Doctor Dolittle",
+    "author": "Hugh Lofting",
+    "genre": "Fantasy",
+    "cover_url": "https://covers.openlibrary.org/b/id/5262289-M.jpg"
+  },
+  {
+    "title": "The Silver Chair",
+    "author": "C.S. Lewis",
+    "genre": "Fantasy",
+    "cover_url": "https://covers.openlibrary.org/b/id/6950992-M.jpg"
+  },
+  {
+    "title": "Ozma of Oz",
+    "author": "L. Frank Baum",
+    "genre": "Fantasy",
+    "cover_url": "https://covers.openlibrary.org/b/id/12648657-M.jpg"
+  },
+  {
+    "title": "The King in Yellow",
+    "author": "Robert W. Chambers",
+    "genre": "Fantasy",
+    "cover_url": "https://covers.openlibrary.org/b/id/4752788-M.jpg"
+  },
+  {
+    "title": "The Hobbit",
+    "author": "J.R.R. Tolkien",
+    "genre": "Fantasy",
+    "cover_url": "https://covers.openlibrary.org/b/id/14627509-M.jpg"
+  },
+  {
+    "title": "The Horse and His Boy",
+    "author": "C.S. Lewis",
+    "genre": "Fantasy",
+    "cover_url": "https://covers.openlibrary.org/b/id/9184792-M.jpg"
+  },
+  {
+    "title": "The Lion, the Witch and the Wardrobe",
+    "author": "C.S. Lewis",
+    "genre": "Fantasy",
+    "cover_url": "https://covers.openlibrary.org/b/id/8441376-M.jpg"
+  },
+  {
+    "title": "The Two Towers",
+    "author": "J.R.R. Tolkien",
+    "genre": "Fantasy",
+    "cover_url": "https://covers.openlibrary.org/b/id/14627564-M.jpg"
+  },
+  {
+    "title": "Prince Caspian",
+    "author": "C.S. Lewis",
+    "genre": "Fantasy",
+    "cover_url": "https://covers.openlibrary.org/b/id/45897-M.jpg"
+  },
+  {
+    "title": "The Fellowship of the Ring",
+    "author": "J.R.R. Tolkien",
+    "genre": "Fantasy",
+    "cover_url": "https://covers.openlibrary.org/b/id/14627060-M.jpg"
+  },
+  {
+    "title": "The Enchanted Castle",
+    "author": "Edith Nesbit",
+    "genre": "Fantasy",
+    "cover_url": "https://covers.openlibrary.org/b/id/6644514-M.jpg"
+  },
+  {
+    "title": "The Marvelous Land of Oz",
+    "author": "L. Frank Baum",
+    "genre": "Fantasy",
+    "cover_url": "https://covers.openlibrary.org/b/id/12648656-M.jpg"
+  },
+  {
+    "title": "The Voyage of the Dawn Treader",
+    "author": "C.S. Lewis",
+    "genre": "Fantasy",
+    "cover_url": "https://covers.openlibrary.org/b/id/9184719-M.jpg"
+  },
+  {
+    "title": "The Magician's Nephew",
+    "author": "C.S. Lewis",
+    "genre": "Fantasy",
+    "cover_url": "https://covers.openlibrary.org/b/id/1072931-M.jpg"
+  },
+  {
+    "title": "The Return of the King",
+    "author": "J.R.R. Tolkien",
+    "genre": "Fantasy",
+    "cover_url": "https://covers.openlibrary.org/b/id/14627062-M.jpg"
+  },
+  {
+    "title": "The Complete Life and Adventures of Santa Claus",
+    "author": "L. Frank Baum",
+    "genre": "Fantasy",
+    "cover_url": "https://covers.openlibrary.org/b/id/1979059-M.jpg"
+  },
+  {
+    "title": "Carmilla",
+    "author": "Joseph Sheridan Le Fanu",
+    "genre": "Fantasy",
+    "cover_url": "https://covers.openlibrary.org/b/id/973851-M.jpg"
+  },
+  {
+    "title": "The Handmaid's Tale",
+    "author": "Margaret Atwood",
+    "genre": "Fantasy",
+    "cover_url": "https://covers.openlibrary.org/b/id/8231851-M.jpg"
+  },
+  {
+    "title": "The Phoenix and the Carpet",
+    "author": "Edith Nesbit",
+    "genre": "Fantasy",
+    "cover_url": "https://covers.openlibrary.org/b/id/902122-M.jpg"
+  },
+  {
+    "title": "The Lord of the Rings",
+    "author": "J.R.R. Tolkien",
+    "genre": "Fantasy",
+    "cover_url": "https://covers.openlibrary.org/b/id/14625765-M.jpg"
+  },
+  {
+    "title": "Peter Pan",
+    "author": "J. M. Barrie",
+    "genre": "Fantasy",
+    "cover_url": "https://covers.openlibrary.org/b/id/8237052-M.jpg"
+  },
+  {
+    "title": "The Subtle Knife",
+    "author": "Philip Pullman",
+    "genre": "Fantasy",
+    "cover_url": "https://covers.openlibrary.org/b/id/12614549-M.jpg"
+  },
+  {
+    "title": "Through the Looking-Glass",
+    "author": "Lewis Carroll",
+    "genre": "Fantasy",
+    "cover_url": "https://covers.openlibrary.org/b/id/11272464-M.jpg"
+  },
+  {
+    "title": "Alice's Adventures in Wonderland / Through the Looking Glass",
+    "author": "Lewis Carroll",
+    "genre": "Fantasy",
+    "cover_url": "https://covers.openlibrary.org/b/id/8595966-M.jpg"
+  },
+  {
+    "title": "Northern Lights",
+    "author": "Philip Pullman",
+    "genre": "Fantasy",
+    "cover_url": "https://covers.openlibrary.org/b/id/8747028-M.jpg"
+  },
+  {
+    "title": "Five Children and It",
+    "author": "Edith Nesbit",
+    "genre": "Fantasy",
+    "cover_url": "https://covers.openlibrary.org/b/id/28174-M.jpg"
+  },
+  {
+    "title": "Harry Potter and the Prisoner of Azkaban",
+    "author": "J. K. Rowling",
+    "genre": "Fantasy",
+    "cover_url": "https://covers.openlibrary.org/b/id/10580435-M.jpg"
+  },
+  {
+    "title": "Alice's Adventures in Wonderland",
+    "author": "Lewis Carroll",
+    "genre": "Fantasy",
+    "cover_url": "https://covers.openlibrary.org/b/id/10527843-M.jpg"
+  },
+  {
+    "title": "Charlie and the Chocolate Factory",
+    "author": "Roald Dahl",
+    "genre": "Fantasy",
+    "cover_url": "https://covers.openlibrary.org/b/id/12459564-M.jpg"
+  },
+  {
+    "title": "A Connecticut Yankee in King Arthur's Court",
+    "author": "Mark Twain",
+    "genre": "Fantasy",
+    "cover_url": "https://covers.openlibrary.org/b/id/9168732-M.jpg"
+  },
+  {
+    "title": "The Lost World",
+    "author": "Arthur Conan Doyle",
+    "genre": "Fantasy",
+    "cover_url": "https://covers.openlibrary.org/b/id/8231444-M.jpg"
+  },
+  {
+    "title": "James and the Giant Peach",
+    "author": "Roald Dahl",
+    "genre": "Fantasy",
+    "cover_url": "https://covers.openlibrary.org/b/id/8252454-M.jpg"
+  },
+  {
+    "title": "The Great God Pan",
+    "author": "Arthur Machen",
+    "genre": "Fantasy",
+    "cover_url": "https://covers.openlibrary.org/b/id/921610-M.jpg"
+  },
+  {
+    "title": "Perfume",
+    "author": "Patrick Süskind",
+    "genre": "Fantasy",
+    "cover_url": "https://covers.openlibrary.org/b/id/10910286-M.jpg"
+  },
+  {
+    "title": "Harry Potter and the Philosopher's Stone",
+    "author": "J. K. Rowling",
+    "genre": "Fantasy",
+    "cover_url": "https://covers.openlibrary.org/b/id/10521270-M.jpg"
+  },
+  {
+    "title": "Harry Potter and the Half-Blood Prince",
+    "author": "J. K. Rowling",
+    "genre": "Fantasy",
+    "cover_url": "https://covers.openlibrary.org/b/id/10716273-M.jpg"
+  },
+  {
+    "title": "The Last Man",
+    "author": "Mary Shelley",
+    "genre": "Fantasy",
+    "cover_url": "https://covers.openlibrary.org/b/id/882662-M.jpg"
+  },
+  {
+    "title": "The Wonderful Wizard of Oz",
+    "author": "L. Frank Baum",
+    "genre": "Fantasy",
+    "cover_url": "https://covers.openlibrary.org/b/id/552443-M.jpg"
+  },
+  {
+    "title": "The Legend of Sleepy Hollow",
+    "author": "Washington Irving",
+    "genre": "Fantasy",
+    "cover_url": "https://covers.openlibrary.org/b/id/8243083-M.jpg"
+  },
+  {
+    "title": "Charlie and the Great Glass Elevator",
+    "author": "Roald Dahl",
+    "genre": "Fantasy",
+    "cover_url": "https://covers.openlibrary.org/b/id/7893583-M.jpg"
+  },
+  {
+    "title": "The BFG",
+    "author": "Roald Dahl",
+    "genre": "Fantasy",
+    "cover_url": "https://covers.openlibrary.org/b/id/9176033-M.jpg"
+  },
+  {
+    "title": "Harry Potter and the Order of the Phoenix",
+    "author": "J. K. Rowling",
+    "genre": "Fantasy",
+    "cover_url": "https://covers.openlibrary.org/b/id/10523466-M.jpg"
+  },
+  {
+    "title": "Flatland",
+    "author": "Edwin Abbott Abbott",
+    "genre": "Fantasy",
+    "cover_url": "https://covers.openlibrary.org/b/id/10069547-M.jpg"
+  },
+  {
+    "title": "Harry Potter and the Chamber of Secrets",
+    "author": "J. K. Rowling",
+    "genre": "Fantasy",
+    "cover_url": "https://covers.openlibrary.org/b/id/8392798-M.jpg"
+  },
+  {
+    "title": "Harry Potter and the Goblet of Fire",
+    "author": "J. K. Rowling",
+    "genre": "Fantasy",
+    "cover_url": "https://covers.openlibrary.org/b/id/12059372-M.jpg"
+  },
+  {
+    "title": "The water-babies",
+    "author": "Charles Kingsley",
+    "genre": "Fantasy",
+    "cover_url": "https://covers.openlibrary.org/b/id/8785097-M.jpg"
+  },
+  {
+    "title": "Fantastic Mr Fox",
+    "author": "Roald Dahl",
+    "genre": "Fantasy",
+    "cover_url": "https://covers.openlibrary.org/b/id/6498519-M.jpg"
+  },
+  {
+    "title": "The Picture of Dorian Gray",
+    "author": "Oscar Wilde",
+    "genre": "Fantasy",
+    "cover_url": "https://covers.openlibrary.org/b/id/14314858-M.jpg"
+  },
+  {
+    "title": "Le avventure di Pinocchio",
+    "author": "Carlo Collodi",
+    "genre": "Fantasy",
+    "cover_url": "https://covers.openlibrary.org/b/id/8597022-M.jpg"
+  },
+  {
+    "title": "Bridge to Terabithia",
+    "author": "Katherine Paterson",
+    "genre": "Fantasy",
+    "cover_url": "https://covers.openlibrary.org/b/id/12627341-M.jpg"
+  },
+  {
+    "title": "Where the Wild Things Are",
+    "author": "Maurice Sendak",
+    "genre": "Fantasy",
+    "cover_url": "https://covers.openlibrary.org/b/id/50842-M.jpg"
+  },
+  {
+    "title": "Harry Potter and the Deathly Hallows",
+    "author": "J. K. Rowling",
+    "genre": "Fantasy",
+    "cover_url": "https://covers.openlibrary.org/b/id/10110415-M.jpg"
+  },
+  {
+    "title": "Dune",
+    "author": "Frank Herbert",
+    "genre": "Fantasy",
+    "cover_url": "https://covers.openlibrary.org/b/id/11481354-M.jpg"
+  },
+  {
+    "title": "Women in Love",
+    "author": "D. H. Lawrence",
+    "genre": "Fantasy",
+    "cover_url": "https://covers.openlibrary.org/b/id/13140934-M.jpg"
+  },
+  {
+    "title": "The Castle of Otranto",
+    "author": "Horace Walpole",
+    "genre": "Fantasy",
+    "cover_url": "https://covers.openlibrary.org/b/id/6468730-M.jpg"
+  },
+  {
+    "title": "Charlotte's Web",
+    "author": "E. B. White",
+    "genre": "Fantasy",
+    "cover_url": "https://covers.openlibrary.org/b/id/8461797-M.jpg"
+  },
+  {
+    "title": "A Wrinkle in Time",
+    "author": "Madeleine L'Engle",
+    "genre": "Fantasy",
+    "cover_url": "https://covers.openlibrary.org/b/id/8709146-M.jpg"
+  },
+  {
+    "title": "Twilight",
+    "author": "Stephenie Meyer",
+    "genre": "Fantasy",
+    "cover_url": "https://covers.openlibrary.org/b/id/12641977-M.jpg"
+  },
+  {
+    "title": "When the Sleeper Awakes",
+    "author": "H. G. Wells",
+    "genre": "Fantasy",
+    "cover_url": "https://covers.openlibrary.org/b/id/574886-M.jpg"
+  },
+  {
+    "title": "Gulliver's Travels",
+    "author": "Jonathan Swift",
+    "genre": "Fantasy",
+    "cover_url": "https://covers.openlibrary.org/b/id/12717083-M.jpg"
+  },
+  {
+    "title": "The War of the Worlds",
+    "author": "H. G. Wells",
+    "genre": "Fantasy",
+    "cover_url": "https://covers.openlibrary.org/b/id/36314-M.jpg"
+  },
+  {
+    "title": "A Princess of Mars",
+    "author": "Edgar Rice Burroughs",
+    "genre": "Fantasy",
+    "cover_url": "https://covers.openlibrary.org/b/id/207226-M.jpg"
+  },
+  {
+    "title": "The Giver",
+    "author": "Lois Lowry",
+    "genre": "Fantasy",
+    "cover_url": "https://covers.openlibrary.org/b/id/8352502-M.jpg"
+  },
+  {
+    "title": "Faerie queene",
+    "author": "Edmund Spenser",
+    "genre": "Fantasy",
+    "cover_url": "https://covers.openlibrary.org/b/id/5804540-M.jpg"
+  },
+  {
+    "title": "Vingt mille lieues sous les mers",
+    "author": "Jules Verne",
+    "genre": "Fantasy",
+    "cover_url": "https://covers.openlibrary.org/b/id/6573517-M.jpg"
+  },
+  {
+    "title": "Le petit prince",
+    "author": "Antoine de Saint-Exupéry",
+    "genre": "Fantasy",
+    "cover_url": "https://covers.openlibrary.org/b/id/10708272-M.jpg"
+  },
+  {
+    "title": "The Man Who Was Thursday",
+    "author": "Gilbert Keith Chesterton",
+    "genre": "Fantasy",
+    "cover_url": "https://covers.openlibrary.org/b/id/8242857-M.jpg"
+  },
+  {
+    "title": "The Witches",
+    "author": "Roald Dahl",
+    "genre": "Fantasy",
+    "cover_url": "https://covers.openlibrary.org/b/id/12374442-M.jpg"
+  },
+  {
+    "title": "Dracula",
+    "author": "Bram Stoker",
+    "genre": "Fantasy",
+    "cover_url": "https://covers.openlibrary.org/b/id/12216503-M.jpg"
+  },
+  {
+    "title": "The Ugly Duckling",
+    "author": "Hans Christian Andersen",
+    "genre": "Fantasy",
+    "cover_url": "https://covers.openlibrary.org/b/id/446546-M.jpg"
+  },
+  {
+    "title": "Voyage au Centre de la Terre",
+    "author": "Jules Verne",
+    "genre": "Fantasy",
+    "cover_url": "https://covers.openlibrary.org/b/id/5890987-M.jpg"
+  },
+  {
+    "title": "Orlando",
+    "author": "Virginia Woolf",
+    "genre": "Fantasy",
+    "cover_url": "https://covers.openlibrary.org/b/id/3240273-M.jpg"
+  },
+  {
+    "title": "The Alchemist",
+    "author": "Paulo Coelho",
+    "genre": "Fantasy",
+    "cover_url": "https://covers.openlibrary.org/b/id/48240-M.jpg"
+  },
+  {
+    "title": "Matilda",
+    "author": "Roald Dahl",
+    "genre": "Fantasy",
+    "cover_url": "https://covers.openlibrary.org/b/id/12889769-M.jpg"
+  },
+  {
+    "title": "Wind in the Willows",
+    "author": "Kenneth Grahame",
+    "genre": "Fantasy",
+    "cover_url": "https://covers.openlibrary.org/b/id/13335427-M.jpg"
+  },
+  {
+    "title": "Le Tour du Monde en Quatre-Vingts Jours",
+    "author": "Jules Verne",
+    "genre": "Fantasy",
+    "cover_url": "https://covers.openlibrary.org/b/id/6976035-M.jpg"
+  },
+  {
+    "title": "The Invisible Man",
+    "author": "H. G. Wells",
+    "genre": "Fantasy",
+    "cover_url": "https://covers.openlibrary.org/b/id/6419199-M.jpg"
+  },
+  {
+    "title": "Le Morte d'Arthur",
+    "author": "Thomas Malory",
+    "genre": "Fantasy",
+    "cover_url": "https://covers.openlibrary.org/b/id/8231834-M.jpg"
+  },
+  {
+    "title": "Fairy Tales and Stories",
+    "author": "Hans Christian Andersen",
+    "genre": "Fantasy",
+    "cover_url": "https://covers.openlibrary.org/b/id/8235356-M.jpg"
+  },
+  {
+    "title": "Moby Dick",
+    "author": "Herman Melville",
+    "genre": "Fantasy",
+    "cover_url": "https://covers.openlibrary.org/b/id/10544254-M.jpg"
+  },
+  {
+    "title": "The Secret Agent",
+    "author": "Joseph Conrad",
+    "genre": "Fantasy",
+    "cover_url": "https://covers.openlibrary.org/b/id/8239401-M.jpg"
+  },
+  {
+    "title": "Of Mice and Men",
+    "author": "John Steinbeck",
+    "genre": "Fantasy",
+    "cover_url": "https://covers.openlibrary.org/b/id/14319003-M.jpg"
+  },
+  {
+    "title": "Anne of Green Gables",
+    "author": "Lucy Maud Montgomery",
+    "genre": "Fantasy",
+    "cover_url": "https://covers.openlibrary.org/b/id/14641084-M.jpg"
+  },
+  {
+    "title": "Die Verwandlung",
+    "author": "Franz Kafka",
+    "genre": "Fantasy",
+    "cover_url": "https://covers.openlibrary.org/b/id/12820198-M.jpg"
+  },
+  {
+    "title": "A Christmas Carol",
+    "author": "Charles Dickens",
+    "genre": "Fantasy",
+    "cover_url": "https://covers.openlibrary.org/b/id/13299222-M.jpg"
+  },
+  {
+    "title": "On The Beach",
+    "author": "Nevil Shute",
+    "genre": "Science Fiction",
+    "cover_url": "https://covers.openlibrary.org/b/id/997896-M.jpg"
+  },
+  {
+    "title": "The food of the gods and how it came to earth",
+    "author": "H. G. Wells",
+    "genre": "Science Fiction",
+    "cover_url": "https://covers.openlibrary.org/b/id/314687-M.jpg"
+  },
+  {
+    "title": "2001",
+    "author": "Arthur C. Clarke",
+    "genre": "Science Fiction",
+    "cover_url": "https://covers.openlibrary.org/b/id/11344400-M.jpg"
+  },
+  {
+    "title": "The Martian Chronicles",
+    "author": "Ray Bradbury",
+    "genre": "Science Fiction",
+    "cover_url": "https://covers.openlibrary.org/b/id/9346537-M.jpg"
+  },
+  {
+    "title": "The Invisible Man",
+    "author": "H. G. Wells",
+    "genre": "Science Fiction",
+    "cover_url": "https://covers.openlibrary.org/b/id/6419199-M.jpg"
+  },
+  {
+    "title": "A Princess of Mars",
+    "author": "Edgar Rice Burroughs",
+    "genre": "Science Fiction",
+    "cover_url": "https://covers.openlibrary.org/b/id/207226-M.jpg"
+  },
+  {
+    "title": "Anthem",
+    "author": "Ayn Rand",
+    "genre": "Science Fiction",
+    "cover_url": "https://covers.openlibrary.org/b/id/802982-M.jpg"
+  },
+  {
+    "title": "The First Men in the Moon",
+    "author": "H. G. Wells",
+    "genre": "Science Fiction",
+    "cover_url": "https://covers.openlibrary.org/b/id/8081288-M.jpg"
+  },
+  {
+    "title": "The book of the damned",
+    "author": "Charles Fort",
+    "genre": "Science Fiction",
+    "cover_url": "https://covers.openlibrary.org/b/id/825884-M.jpg"
+  },
+  {
+    "title": "The Iron Heel",
+    "author": "Jack London",
+    "genre": "Science Fiction",
+    "cover_url": "https://covers.openlibrary.org/b/id/8243314-M.jpg"
+  },
+  {
+    "title": "Dune",
+    "author": "Frank Herbert",
+    "genre": "Science Fiction",
+    "cover_url": "https://covers.openlibrary.org/b/id/11481354-M.jpg"
+  },
+  {
+    "title": "Voyage au Centre de la Terre",
+    "author": "Jules Verne",
+    "genre": "Science Fiction",
+    "cover_url": "https://covers.openlibrary.org/b/id/5890987-M.jpg"
+  },
+  {
+    "title": "Phantastes",
+    "author": "George MacDonald",
+    "genre": "Science Fiction",
+    "cover_url": "https://covers.openlibrary.org/b/id/14358814-M.jpg"
+  },
+  {
+    "title": "The Hitch Hiker's Guide to the Galaxy",
+    "author": "Douglas Adams",
+    "genre": "Science Fiction",
+    "cover_url": "https://covers.openlibrary.org/b/id/12986869-M.jpg"
+  },
+  {
+    "title": "The Time Machine",
+    "author": "H. G. Wells",
+    "genre": "Science Fiction",
+    "cover_url": "https://covers.openlibrary.org/b/id/9009316-M.jpg"
+  },
+  {
+    "title": "Brave New World",
+    "author": "Aldous Huxley",
+    "genre": "Science Fiction",
+    "cover_url": "https://covers.openlibrary.org/b/id/8231823-M.jpg"
+  },
+  {
+    "title": "Flatland",
+    "author": "Edwin Abbott Abbott",
+    "genre": "Science Fiction",
+    "cover_url": "https://covers.openlibrary.org/b/id/10069547-M.jpg"
+  },
+  {
+    "title": "The Complete Life and Adventures of Santa Claus",
+    "author": "L. Frank Baum",
+    "genre": "Science Fiction",
+    "cover_url": "https://covers.openlibrary.org/b/id/1979059-M.jpg"
+  },
+  {
+    "title": "The Last Man",
+    "author": "Mary Shelley",
+    "genre": "Science Fiction",
+    "cover_url": "https://covers.openlibrary.org/b/id/882662-M.jpg"
+  },
+  {
+    "title": "The War of the Worlds",
+    "author": "H. G. Wells",
+    "genre": "Science Fiction",
+    "cover_url": "https://covers.openlibrary.org/b/id/36314-M.jpg"
+  },
+  {
+    "title": "Dorothy and the Wizard in Oz",
+    "author": "L. Frank Baum",
+    "genre": "Science Fiction",
+    "cover_url": "https://covers.openlibrary.org/b/id/12648659-M.jpg"
+  },
+  {
+    "title": "Fahrenheit 451",
+    "author": "Ray Bradbury",
+    "genre": "Science Fiction",
+    "cover_url": "https://covers.openlibrary.org/b/id/12993656-M.jpg"
+  },
+  {
+    "title": "It Can't Happen Here",
+    "author": "Sinclair Lewis",
+    "genre": "Science Fiction",
+    "cover_url": "https://covers.openlibrary.org/b/id/12719018-M.jpg"
+  },
+  {
+    "title": "When the Sleeper Awakes",
+    "author": "H. G. Wells",
+    "genre": "Science Fiction",
+    "cover_url": "https://covers.openlibrary.org/b/id/574886-M.jpg"
+  },
+  {
+    "title": "The Island of Dr. Moreau",
+    "author": "H. G. Wells",
+    "genre": "Science Fiction",
+    "cover_url": "https://covers.openlibrary.org/b/id/968312-M.jpg"
+  },
+  {
+    "title": "Frankenstein or The Modern Prometheus",
+    "author": "Mary Shelley",
+    "genre": "Science Fiction",
+    "cover_url": "https://covers.openlibrary.org/b/id/12356249-M.jpg"
+  },
+  {
+    "title": "The Handmaid's Tale",
+    "author": "Margaret Atwood",
+    "genre": "Science Fiction",
+    "cover_url": "https://covers.openlibrary.org/b/id/8231851-M.jpg"
+  },
+  {
+    "title": "The Last Battle",
+    "author": "C.S. Lewis",
+    "genre": "Science Fiction",
+    "cover_url": "https://covers.openlibrary.org/b/id/6529226-M.jpg"
+  },
+  {
+    "title": "The Silver Chair",
+    "author": "C.S. Lewis",
+    "genre": "Science Fiction",
+    "cover_url": "https://covers.openlibrary.org/b/id/6950992-M.jpg"
+  },
+  {
+    "title": "Vingt mille lieues sous les mers",
+    "author": "Jules Verne",
+    "genre": "Science Fiction",
+    "cover_url": "https://covers.openlibrary.org/b/id/6573517-M.jpg"
+  },
+  {
+    "title": "Charlie and the Great Glass Elevator",
+    "author": "Roald Dahl",
+    "genre": "Science Fiction",
+    "cover_url": "https://covers.openlibrary.org/b/id/7893583-M.jpg"
+  },
+  {
+    "title": "Ender's Game",
+    "author": "Orson Scott Card",
+    "genre": "Science Fiction",
+    "cover_url": "https://covers.openlibrary.org/b/id/12996033-M.jpg"
+  },
+  {
+    "title": "The Lost World",
+    "author": "Arthur Conan Doyle",
+    "genre": "Science Fiction",
+    "cover_url": "https://covers.openlibrary.org/b/id/8231444-M.jpg"
+  },
+  {
+    "title": "Genji monogatari",
+    "author": "Murasaki Shikibu",
+    "genre": "Science Fiction",
+    "cover_url": "https://covers.openlibrary.org/b/id/6614001-M.jpg"
+  },
+  {
+    "title": "The Magician's Nephew",
+    "author": "C.S. Lewis",
+    "genre": "Science Fiction",
+    "cover_url": "https://covers.openlibrary.org/b/id/1072931-M.jpg"
+  },
+  {
+    "title": "Animal Farm",
+    "author": "George Orwell",
+    "genre": "Science Fiction",
+    "cover_url": "https://covers.openlibrary.org/b/id/11261770-M.jpg"
+  },
+  {
+    "title": "Poirot investigates",
+    "author": "Agatha Christie",
+    "genre": "Science Fiction",
+    "cover_url": "https://covers.openlibrary.org/b/id/13670505-M.jpg"
+  },
+  {
+    "title": "Nineteen Eighty-Four",
+    "author": "George Orwell",
+    "genre": "Science Fiction",
+    "cover_url": "https://covers.openlibrary.org/b/id/9267242-M.jpg"
+  },
+  {
+    "title": "The Secret Agent",
+    "author": "Joseph Conrad",
+    "genre": "Science Fiction",
+    "cover_url": "https://covers.openlibrary.org/b/id/8239401-M.jpg"
+  },
+  {
+    "title": "The Lion, the Witch and the Wardrobe",
+    "author": "C.S. Lewis",
+    "genre": "Science Fiction",
+    "cover_url": "https://covers.openlibrary.org/b/id/8441376-M.jpg"
+  },
+  {
+    "title": "The Strange Case of Dr. Jekyll and Mr. Hyde",
+    "author": "Robert Louis Stevenson",
+    "genre": "Science Fiction",
+    "cover_url": "https://covers.openlibrary.org/b/id/295773-M.jpg"
+  },
+  {
+    "title": "The Wonderful Wizard of Oz",
+    "author": "L. Frank Baum",
+    "genre": "Science Fiction",
+    "cover_url": "https://covers.openlibrary.org/b/id/552443-M.jpg"
+  },
+  {
+    "title": "Hard Times",
+    "author": "Charles Dickens",
+    "genre": "Science Fiction",
+    "cover_url": "https://covers.openlibrary.org/b/id/8236916-M.jpg"
+  },
+  {
+    "title": "Northern Lights",
+    "author": "Philip Pullman",
+    "genre": "Science Fiction",
+    "cover_url": "https://covers.openlibrary.org/b/id/8747028-M.jpg"
+  },
+  {
+    "title": "Le Tour du Monde en Quatre-Vingts Jours",
+    "author": "Jules Verne",
+    "genre": "Science Fiction",
+    "cover_url": "https://covers.openlibrary.org/b/id/6976035-M.jpg"
+  },
+  {
+    "title": "Dracula",
+    "author": "Bram Stoker",
+    "genre": "Science Fiction",
+    "cover_url": "https://covers.openlibrary.org/b/id/12216503-M.jpg"
+  },
+  {
+    "title": "The Giver",
+    "author": "Lois Lowry",
+    "genre": "Science Fiction",
+    "cover_url": "https://covers.openlibrary.org/b/id/8352502-M.jpg"
+  },
+  {
+    "title": "Die Verwandlung",
+    "author": "Franz Kafka",
+    "genre": "Science Fiction",
+    "cover_url": "https://covers.openlibrary.org/b/id/12820198-M.jpg"
+  },
+  {
+    "title": "The Lost Symbol",
+    "author": "Dan Brown",
+    "genre": "Science Fiction",
+    "cover_url": "https://covers.openlibrary.org/b/id/8373389-M.jpg"
+  },
+  {
+    "title": "The Two Towers",
+    "author": "J.R.R. Tolkien",
+    "genre": "Science Fiction",
+    "cover_url": "https://covers.openlibrary.org/b/id/14627564-M.jpg"
+  },
+  {
+    "title": "A Wrinkle in Time",
+    "author": "Madeleine L'Engle",
+    "genre": "Science Fiction",
+    "cover_url": "https://covers.openlibrary.org/b/id/8709146-M.jpg"
+  },
+  {
+    "title": "A Clockwork Orange",
+    "author": "Anthony Burgess",
+    "genre": "Science Fiction",
+    "cover_url": "https://covers.openlibrary.org/b/id/13151224-M.jpg"
+  },
+  {
+    "title": "The Hunger Games",
+    "author": "Suzanne Collins",
+    "genre": "Science Fiction",
+    "cover_url": "https://covers.openlibrary.org/b/id/12646537-M.jpg"
+  },
+  {
+    "title": "The Hobbit",
+    "author": "J.R.R. Tolkien",
+    "genre": "Science Fiction",
+    "cover_url": "https://covers.openlibrary.org/b/id/14627509-M.jpg"
+  },
+  {
+    "title": "Harry Potter and the Philosopher's Stone",
+    "author": "J. K. Rowling",
+    "genre": "Science Fiction",
+    "cover_url": "https://covers.openlibrary.org/b/id/10521270-M.jpg"
+  },
+  {
+    "title": "The Subtle Knife",
+    "author": "Philip Pullman",
+    "genre": "Science Fiction",
+    "cover_url": "https://covers.openlibrary.org/b/id/12614549-M.jpg"
+  },
+  {
+    "title": "Carrie",
+    "author": "Stephen King",
+    "genre": "Science Fiction",
+    "cover_url": "https://covers.openlibrary.org/b/id/9256043-M.jpg"
+  },
+  {
+    "title": "Moby Dick",
+    "author": "Herman Melville",
+    "genre": "Science Fiction",
+    "cover_url": "https://covers.openlibrary.org/b/id/10544254-M.jpg"
+  },
+  {
+    "title": "Common Sense",
+    "author": "Thomas Paine",
+    "genre": "Science Fiction",
+    "cover_url": "https://covers.openlibrary.org/b/id/5921030-M.jpg"
+  },
+  {
+    "title": "Twilight",
+    "author": "Stephenie Meyer",
+    "genre": "Science Fiction",
+    "cover_url": "https://covers.openlibrary.org/b/id/12641977-M.jpg"
+  },
+  {
+    "title": "Harry Potter and the Prisoner of Azkaban",
+    "author": "J. K. Rowling",
+    "genre": "Science Fiction",
+    "cover_url": "https://covers.openlibrary.org/b/id/10580435-M.jpg"
+  },
+  {
+    "title": "A Doll's House",
+    "author": "Henrik Ibsen",
+    "genre": "Science Fiction",
+    "cover_url": "https://covers.openlibrary.org/b/id/879914-M.jpg"
+  },
+  {
+    "title": "Utopia",
+    "author": "Thomas More",
+    "genre": "Science Fiction",
+    "cover_url": "https://covers.openlibrary.org/b/id/7222976-M.jpg"
+  },
+  {
+    "title": "Du contrat social",
+    "author": "Jean-Jacques Rousseau",
+    "genre": "Science Fiction",
+    "cover_url": "https://covers.openlibrary.org/b/id/6581958-M.jpg"
+  },
+  {
+    "title": "The Prince",
+    "author": "Niccolò Machiavelli",
+    "genre": "Science Fiction",
+    "cover_url": "https://covers.openlibrary.org/b/id/12726168-M.jpg"
+  },
+  {
+    "title": "The Art of War",
+    "author": "孙武",
+    "genre": "Science Fiction",
+    "cover_url": "https://covers.openlibrary.org/b/id/4849549-M.jpg"
+  },
+  {
+    "title": "Misery",
+    "author": "Stephen King",
+    "genre": "Science Fiction",
+    "cover_url": "https://covers.openlibrary.org/b/id/8259296-M.jpg"
+  },
+  {
+    "title": "Essays",
+    "author": "Francis Bacon",
+    "genre": "Science Fiction",
+    "cover_url": "https://covers.openlibrary.org/b/id/8236351-M.jpg"
+  },
+  {
+    "title": "Faerie queene",
+    "author": "Edmund Spenser",
+    "genre": "Science Fiction",
+    "cover_url": "https://covers.openlibrary.org/b/id/5804540-M.jpg"
+  },
+  {
+    "title": "Alice's Adventures in Wonderland",
+    "author": "Lewis Carroll",
+    "genre": "Science Fiction",
+    "cover_url": "https://covers.openlibrary.org/b/id/10527843-M.jpg"
+  },
+  {
+    "title": "Narrative of the life of Frederick Douglass",
+    "author": "Frederick Douglass",
+    "genre": "Science Fiction",
+    "cover_url": "https://covers.openlibrary.org/b/id/8247724-M.jpg"
+  },
+  {
+    "title": "A Vindication of Rights of Woman",
+    "author": "Mary Wollstonecraft",
+    "genre": "Science Fiction",
+    "cover_url": "https://covers.openlibrary.org/b/id/675852-M.jpg"
+  },
+  {
+    "title": "Much Ado About Nothing",
+    "author": "William Shakespeare",
+    "genre": "Science Fiction",
+    "cover_url": "https://covers.openlibrary.org/b/id/8290853-M.jpg"
+  },
+  {
+    "title": "Life on the Mississippi",
+    "author": "Mark Twain",
+    "genre": "Science Fiction",
+    "cover_url": "https://covers.openlibrary.org/b/id/9164717-M.jpg"
+  },
+  {
+    "title": "History",
+    "author": "Herodotus",
+    "genre": "Science Fiction",
+    "cover_url": "https://covers.openlibrary.org/b/id/9829028-M.jpg"
+  },
+  {
+    "title": "Walden",
+    "author": "Henry David Thoreau",
+    "genre": "Science Fiction",
+    "cover_url": "https://covers.openlibrary.org/b/id/11248037-M.jpg"
+  },
+  {
+    "title": "Catching Fire",
+    "author": "Suzanne Collins",
+    "genre": "Science Fiction",
+    "cover_url": "https://covers.openlibrary.org/b/id/12646539-M.jpg"
+  },
+  {
+    "title": "Sonnets",
+    "author": "William Shakespeare",
+    "genre": "Science Fiction",
+    "cover_url": "https://covers.openlibrary.org/b/id/8222090-M.jpg"
+  },
+  {
+    "title": "Foundation",
+    "author": "Isaac Asimov",
+    "genre": "Science Fiction",
+    "cover_url": "https://covers.openlibrary.org/b/id/14612610-M.jpg"
+  },
+  {
+    "title": "I, Robot",
+    "author": "Isaac Asimov",
+    "genre": "Science Fiction",
+    "cover_url": "https://covers.openlibrary.org/b/id/12385229-M.jpg"
+  },
+  {
+    "title": "The Gunslinger",
+    "author": "Stephen King",
+    "genre": "Science Fiction",
+    "cover_url": "https://covers.openlibrary.org/b/id/8396638-M.jpg"
+  },
+  {
+    "title": "Deception Point",
+    "author": "Dan Brown",
+    "genre": "Science Fiction",
+    "cover_url": "https://covers.openlibrary.org/b/id/14553479-M.jpg"
+  },
+  {
+    "title": "Jurassic Park",
+    "author": "Michael Crichton",
+    "genre": "Science Fiction",
+    "cover_url": "https://covers.openlibrary.org/b/id/12882940-M.jpg"
+  },
+  {
+    "title": "She",
+    "author": "H. Rider Haggard",
+    "genre": "Science Fiction",
+    "cover_url": "https://covers.openlibrary.org/b/id/295537-M.jpg"
+  },
+  {
+    "title": "A Modern Utopia",
+    "author": "H. G. Wells",
+    "genre": "Science Fiction",
+    "cover_url": "https://covers.openlibrary.org/b/id/8232021-M.jpg"
+  },
+  {
+    "title": "Slaughterhouse-Five",
+    "author": "Kurt Vonnegut",
+    "genre": "Science Fiction",
+    "cover_url": "https://covers.openlibrary.org/b/id/12727001-M.jpg"
+  },
+  {
+    "title": "The Restaurant at the End of the Universe",
+    "author": "Douglas Adams",
+    "genre": "Science Fiction",
+    "cover_url": "https://covers.openlibrary.org/b/id/12714921-M.jpg"
+  },
+  {
+    "title": "The Napoleon of Notting Hill",
+    "author": "Gilbert Keith Chesterton",
+    "genre": "Science Fiction",
+    "cover_url": "https://covers.openlibrary.org/b/id/6980094-M.jpg"
+  },
+  {
+    "title": "Do Androids Dream of Electric Sheep?",
+    "author": "Philip K. Dick",
+    "genre": "Science Fiction",
+    "cover_url": "https://covers.openlibrary.org/b/id/207515-M.jpg"
+  },
+  {
+    "title": "Mary Shelley's Frankenstein; or, the Modern Prometheus (1818 text)",
+    "author": "Mary Shelley",
+    "genre": "Science Fiction",
+    "cover_url": "https://covers.openlibrary.org/b/id/7267770-M.jpg"
+  },
+  {
+    "title": "The Blind Assassin",
+    "author": "Margaret Atwood",
+    "genre": "Science Fiction",
+    "cover_url": "https://covers.openlibrary.org/b/id/11041760-M.jpg"
+  },
+  {
+    "title": "Mockingjay",
+    "author": "Suzanne Collins",
+    "genre": "Science Fiction",
+    "cover_url": "https://covers.openlibrary.org/b/id/12646459-M.jpg"
+  },
+  {
+    "title": "The Left Hand of Darkness",
+    "author": "Ursula K. Le Guin",
+    "genre": "Science Fiction",
+    "cover_url": "https://covers.openlibrary.org/b/id/10618463-M.jpg"
+  },
+  {
+    "title": "The Power of Darkness",
+    "author": "Edith Nesbit",
+    "genre": "Horror",
+    "cover_url": "https://covers.openlibrary.org/b/id/882715-M.jpg"
+  },
+  {
+    "title": "The Great God Pan",
+    "author": "Arthur Machen",
+    "genre": "Horror",
+    "cover_url": "https://covers.openlibrary.org/b/id/921610-M.jpg"
+  },
+  {
+    "title": "Brood of the Witch-Queen",
+    "author": "Sax Rohmer",
+    "genre": "Horror",
+    "cover_url": "https://covers.openlibrary.org/b/id/2011286-M.jpg"
+  },
+  {
+    "title": "Misery",
+    "author": "Stephen King",
+    "genre": "Horror",
+    "cover_url": "https://covers.openlibrary.org/b/id/8259296-M.jpg"
+  },
+  {
+    "title": "Carrie",
+    "author": "Stephen King",
+    "genre": "Horror",
+    "cover_url": "https://covers.openlibrary.org/b/id/9256043-M.jpg"
+  },
+  {
+    "title": "Carmilla",
+    "author": "Joseph Sheridan Le Fanu",
+    "genre": "Horror",
+    "cover_url": "https://covers.openlibrary.org/b/id/973851-M.jpg"
+  },
+  {
+    "title": "The King in Yellow",
+    "author": "Robert W. Chambers",
+    "genre": "Horror",
+    "cover_url": "https://covers.openlibrary.org/b/id/4752788-M.jpg"
+  },
+  {
+    "title": "The Jewel of Seven Stars",
+    "author": "Bram Stoker",
+    "genre": "Horror",
+    "cover_url": "https://covers.openlibrary.org/b/id/2760301-M.jpg"
+  },
+  {
+    "title": "Dracula",
+    "author": "Bram Stoker",
+    "genre": "Horror",
+    "cover_url": "https://covers.openlibrary.org/b/id/12216503-M.jpg"
+  },
+  {
+    "title": "The Strange Case of Dr. Jekyll and Mr. Hyde",
+    "author": "Robert Louis Stevenson",
+    "genre": "Horror",
+    "cover_url": "https://covers.openlibrary.org/b/id/295773-M.jpg"
+  },
+  {
+    "title": "The Castle of Otranto",
+    "author": "Horace Walpole",
+    "genre": "Horror",
+    "cover_url": "https://covers.openlibrary.org/b/id/6468730-M.jpg"
+  },
+  {
+    "title": "Frankenstein or The Modern Prometheus",
+    "author": "Mary Shelley",
+    "genre": "Horror",
+    "cover_url": "https://covers.openlibrary.org/b/id/12356249-M.jpg"
+  },
+  {
+    "title": "Northanger Abbey",
+    "author": "Jane Austen",
+    "genre": "Horror",
+    "cover_url": "https://covers.openlibrary.org/b/id/12567961-M.jpg"
+  },
+  {
+    "title": "The Invisible Man",
+    "author": "H. G. Wells",
+    "genre": "Horror",
+    "cover_url": "https://covers.openlibrary.org/b/id/6419199-M.jpg"
+  },
+  {
+    "title": "Twilight",
+    "author": "Stephenie Meyer",
+    "genre": "Horror",
+    "cover_url": "https://covers.openlibrary.org/b/id/12641977-M.jpg"
+  },
+  {
+    "title": "The Picture of Dorian Gray",
+    "author": "Oscar Wilde",
+    "genre": "Horror",
+    "cover_url": "https://covers.openlibrary.org/b/id/14314858-M.jpg"
+  },
+  {
+    "title": "Daisy Miller",
+    "author": "Henry James",
+    "genre": "Horror",
+    "cover_url": "https://covers.openlibrary.org/b/id/6482238-M.jpg"
+  },
+  {
+    "title": "The Magician's Nephew",
+    "author": "C.S. Lewis",
+    "genre": "Horror",
+    "cover_url": "https://covers.openlibrary.org/b/id/1072931-M.jpg"
+  },
+  {
+    "title": "The Legend of Sleepy Hollow",
+    "author": "Washington Irving",
+    "genre": "Horror",
+    "cover_url": "https://covers.openlibrary.org/b/id/8243083-M.jpg"
+  },
+  {
+    "title": "Fahrenheit 451",
+    "author": "Ray Bradbury",
+    "genre": "Horror",
+    "cover_url": "https://covers.openlibrary.org/b/id/12993656-M.jpg"
+  },
+  {
+    "title": "The Island of Dr. Moreau",
+    "author": "H. G. Wells",
+    "genre": "Horror",
+    "cover_url": "https://covers.openlibrary.org/b/id/968312-M.jpg"
+  },
+  {
+    "title": "The Subtle Knife",
+    "author": "Philip Pullman",
+    "genre": "Horror",
+    "cover_url": "https://covers.openlibrary.org/b/id/12614549-M.jpg"
+  },
+  {
+    "title": "The Turn of the Screw",
+    "author": "Henry James",
+    "genre": "Horror",
+    "cover_url": "https://covers.openlibrary.org/b/id/181493-M.jpg"
+  },
+  {
+    "title": "The Hobbit",
+    "author": "J.R.R. Tolkien",
+    "genre": "Horror",
+    "cover_url": "https://covers.openlibrary.org/b/id/14627509-M.jpg"
+  },
+  {
+    "title": "Northern Lights",
+    "author": "Philip Pullman",
+    "genre": "Horror",
+    "cover_url": "https://covers.openlibrary.org/b/id/8747028-M.jpg"
+  },
+  {
+    "title": "A Christmas Carol",
+    "author": "Charles Dickens",
+    "genre": "Horror",
+    "cover_url": "https://covers.openlibrary.org/b/id/13299222-M.jpg"
+  },
+  {
+    "title": "The Shining",
+    "author": "Stephen King",
+    "genre": "Horror",
+    "cover_url": "https://covers.openlibrary.org/b/id/12376585-M.jpg"
+  },
+  {
+    "title": "It",
+    "author": "Stephen King",
+    "genre": "Horror",
+    "cover_url": "https://covers.openlibrary.org/b/id/8569284-M.jpg"
+  },
+  {
+    "title": "The Gunslinger",
+    "author": "Stephen King",
+    "genre": "Horror",
+    "cover_url": "https://covers.openlibrary.org/b/id/8396638-M.jpg"
+  },
+  {
+    "title": "The House of the Seven Gables",
+    "author": "Nathaniel Hawthorne",
+    "genre": "Horror",
+    "cover_url": "https://covers.openlibrary.org/b/id/8241487-M.jpg"
+  },
+  {
+    "title": "The Green Mile",
+    "author": "Stephen King",
+    "genre": "Horror",
+    "cover_url": "https://covers.openlibrary.org/b/id/9334567-M.jpg"
+  },
+  {
+    "title": "Pet Sematary",
+    "author": "Stephen King",
+    "genre": "Horror",
+    "cover_url": "https://covers.openlibrary.org/b/id/12015500-M.jpg"
+  },
+  {
+    "title": "Mary Shelley's Frankenstein; or, the Modern Prometheus (1818 text)",
+    "author": "Mary Shelley",
+    "genre": "Horror",
+    "cover_url": "https://covers.openlibrary.org/b/id/7267770-M.jpg"
+  },
+  {
+    "title": "The Dead Zone",
+    "author": "Stephen King",
+    "genre": "Horror",
+    "cover_url": "https://covers.openlibrary.org/b/id/14653991-M.jpg"
+  },
+  {
+    "title": "New Moon",
+    "author": "Stephenie Meyer",
+    "genre": "Horror",
+    "cover_url": "https://covers.openlibrary.org/b/id/12643406-M.jpg"
+  },
+  {
+    "title": "Breaking Dawn",
+    "author": "Stephenie Meyer",
+    "genre": "Horror",
+    "cover_url": "https://covers.openlibrary.org/b/id/12643419-M.jpg"
+  },
+  {
+    "title": "The Stand",
+    "author": "Stephen King",
+    "genre": "Horror",
+    "cover_url": "https://covers.openlibrary.org/b/id/9255992-M.jpg"
+  },
+  {
+    "title": "Coraline",
+    "author": "Neil Gaiman",
+    "genre": "Horror",
+    "cover_url": "https://covers.openlibrary.org/b/id/14171421-M.jpg"
+  },
+  {
+    "title": "Cujo",
+    "author": "Stephen King",
+    "genre": "Horror",
+    "cover_url": "https://covers.openlibrary.org/b/id/8570003-M.jpg"
+  },
+  {
+    "title": "The Lightning Thief",
+    "author": "Rick Riordan",
+    "genre": "Horror",
+    "cover_url": "https://covers.openlibrary.org/b/id/7239831-M.jpg"
+  },
+  {
+    "title": "The Exorcist",
+    "author": "William Peter Blatty",
+    "genre": "Horror",
+    "cover_url": "https://covers.openlibrary.org/b/id/12715730-M.jpg"
+  },
+  {
+    "title": "Firestarter",
+    "author": "Stephen King",
+    "genre": "Horror",
+    "cover_url": "https://covers.openlibrary.org/b/id/12015446-M.jpg"
+  },
+  {
+    "title": "The Amber Spyglass",
+    "author": "Philip Pullman",
+    "genre": "Horror",
+    "cover_url": "https://covers.openlibrary.org/b/id/12613246-M.jpg"
+  },
+  {
+    "title": "The Illustrated Man",
+    "author": "Ray Bradbury",
+    "genre": "Horror",
+    "cover_url": "https://covers.openlibrary.org/b/id/9345484-M.jpg"
+  },
+  {
+    "title": "The Drawing of the Three",
+    "author": "Stephen King",
+    "genre": "Horror",
+    "cover_url": "https://covers.openlibrary.org/b/id/14651245-M.jpg"
+  },
+  {
+    "title": "Interview With the Vampire",
+    "author": "Anne Rice",
+    "genre": "Horror",
+    "cover_url": "https://covers.openlibrary.org/b/id/8401488-M.jpg"
+  },
+  {
+    "title": "Herland",
+    "author": "Charlotte Perkins Gilman",
+    "genre": "Horror",
+    "cover_url": "https://covers.openlibrary.org/b/id/448130-M.jpg"
+  },
+  {
+    "title": "The Haunted Hotel",
+    "author": "Wilkie Collins",
+    "genre": "Horror",
+    "cover_url": "https://covers.openlibrary.org/b/id/2890291-M.jpg"
+  },
+  {
+    "title": "Bag of Bones",
+    "author": "Stephen King",
+    "genre": "Horror",
+    "cover_url": "https://covers.openlibrary.org/b/id/14653458-M.jpg"
+  },
+  {
+    "title": "Flowers in the Attic",
+    "author": "V. C. Andrews",
+    "genre": "Horror",
+    "cover_url": "https://covers.openlibrary.org/b/id/14598487-M.jpg"
+  },
+  {
+    "title": "Skeleton crew",
+    "author": "Stephen King",
+    "genre": "Horror",
+    "cover_url": "https://covers.openlibrary.org/b/id/14657166-M.jpg"
+  },
+  {
+    "title": "The Empty House and Other Ghost Stories",
+    "author": "Algernon Blackwood",
+    "genre": "Horror",
+    "cover_url": "https://covers.openlibrary.org/b/id/2808629-M.jpg"
+  },
+  {
+    "title": "Witch Wood",
+    "author": "John Buchan",
+    "genre": "Horror",
+    "cover_url": "https://covers.openlibrary.org/b/id/4781924-M.jpg"
+  },
+  {
+    "title": "Wizard and Glass",
+    "author": "Stephen King",
+    "genre": "Horror",
+    "cover_url": "https://covers.openlibrary.org/b/id/14657088-M.jpg"
+  },
+  {
+    "title": "The Waste Lands",
+    "author": "Stephen King",
+    "genre": "Horror",
+    "cover_url": "https://covers.openlibrary.org/b/id/8443630-M.jpg"
+  },
+  {
+    "title": "The Girl Who Loved Tom Gordon",
+    "author": "Stephen King",
+    "genre": "Horror",
+    "cover_url": "https://covers.openlibrary.org/b/id/14653580-M.jpg"
+  },
+  {
+    "title": "On Writing",
+    "author": "Stephen King",
+    "genre": "Horror",
+    "cover_url": "https://covers.openlibrary.org/b/id/9255939-M.jpg"
+  },
+  {
+    "title": "The Haunted Bookshop",
+    "author": "Christopher Morley",
+    "genre": "Horror",
+    "cover_url": "https://covers.openlibrary.org/b/id/935927-M.jpg"
+  },
+  {
+    "title": "The Haunting of Hill House",
+    "author": "Shirley Jackson",
+    "genre": "Horror",
+    "cover_url": "https://covers.openlibrary.org/b/id/4289014-M.jpg"
+  },
+  {
+    "title": "Tales of Terror and Mystery",
+    "author": "Arthur Conan Doyle",
+    "genre": "Horror",
+    "cover_url": "https://covers.openlibrary.org/b/id/8311421-M.jpg"
+  },
+  {
+    "title": "Needful Things",
+    "author": "Stephen King",
+    "genre": "Horror",
+    "cover_url": "https://covers.openlibrary.org/b/id/8404327-M.jpg"
+  },
+  {
+    "title": "The Eyes of the Dragon",
+    "author": "Stephen King",
+    "genre": "Horror",
+    "cover_url": "https://covers.openlibrary.org/b/id/8524085-M.jpg"
+  },
+  {
+    "title": "Four Past Midnight",
+    "author": "Stephen King",
+    "genre": "Horror",
+    "cover_url": "https://covers.openlibrary.org/b/id/8413143-M.jpg"
+  },
+  {
+    "title": "The Road",
+    "author": "Cormac McCarthy",
+    "genre": "Horror",
+    "cover_url": "https://covers.openlibrary.org/b/id/198120-M.jpg"
+  },
+  {
+    "title": "Night Shift",
+    "author": "Stephen King",
+    "genre": "Horror",
+    "cover_url": "https://covers.openlibrary.org/b/id/14651337-M.jpg"
+  },
+  {
+    "title": "The Magician",
+    "author": "William Somerset Maugham",
+    "genre": "Horror",
+    "cover_url": "https://covers.openlibrary.org/b/id/2789948-M.jpg"
+  },
+  {
+    "title": "Christine",
+    "author": "Stephen King",
+    "genre": "Horror",
+    "cover_url": "https://covers.openlibrary.org/b/id/14655985-M.jpg"
+  },
+  {
+    "title": "Poems",
+    "author": "Percy Bysshe Shelley",
+    "genre": "Horror",
+    "cover_url": "https://covers.openlibrary.org/b/id/8231548-M.jpg"
+  },
+  {
+    "title": "Cell",
+    "author": "Stephen King",
+    "genre": "Horror",
+    "cover_url": "https://covers.openlibrary.org/b/id/14654054-M.jpg"
+  },
+  {
+    "title": "The Collector",
+    "author": "John Fowles",
+    "genre": "Horror",
+    "cover_url": "https://covers.openlibrary.org/b/id/3329936-M.jpg"
+  },
+  {
+    "title": "The Dark Half",
+    "author": "Stephen King",
+    "genre": "Horror",
+    "cover_url": "https://covers.openlibrary.org/b/id/8530409-M.jpg"
+  },
+  {
+    "title": "Stuart Little",
+    "author": "E. B. White",
+    "genre": "Horror",
+    "cover_url": "https://covers.openlibrary.org/b/id/10522876-M.jpg"
+  },
+  {
+    "title": "The Day of the Triffids",
+    "author": "John Wyndham",
+    "genre": "Horror",
+    "cover_url": "https://covers.openlibrary.org/b/id/535027-M.jpg"
+  },
+  {
+    "title": "Thinner",
+    "author": "Stephen King",
+    "genre": "Horror",
+    "cover_url": "https://covers.openlibrary.org/b/id/8274288-M.jpg"
+  },
+  {
+    "title": "Everything's Eventual. 14 Dark Tales",
+    "author": "Stephen King",
+    "genre": "Horror",
+    "cover_url": "https://covers.openlibrary.org/b/id/8585782-M.jpg"
+  },
+  {
+    "title": "Petals on the Wind",
+    "author": "V. C. Andrews",
+    "genre": "Horror",
+    "cover_url": "https://covers.openlibrary.org/b/id/9358432-M.jpg"
+  },
+  {
+    "title": "Something Wicked This Way Comes",
+    "author": "Ray Bradbury",
+    "genre": "Horror",
+    "cover_url": "https://covers.openlibrary.org/b/id/9346340-M.jpg"
+  },
+  {
+    "title": "Different Seasons",
+    "author": "Stephen King",
+    "genre": "Horror",
+    "cover_url": "https://covers.openlibrary.org/b/id/14655761-M.jpg"
+  },
+  {
+    "title": "The Tommyknockers",
+    "author": "Stephen King",
+    "genre": "Horror",
+    "cover_url": "https://covers.openlibrary.org/b/id/6997458-M.jpg"
+  },
+  {
+    "title": "Red Dragon",
+    "author": "Thomas Harris",
+    "genre": "Horror",
+    "cover_url": "https://covers.openlibrary.org/b/id/6997898-M.jpg"
+  },
+  {
+    "title": "The Mysteries of Udolpho",
+    "author": "Ann Radcliffe",
+    "genre": "Horror",
+    "cover_url": "https://covers.openlibrary.org/b/id/118207-M.jpg"
+  },
+  {
+    "title": "Insomnia",
+    "author": "Stephen King",
+    "genre": "Horror",
+    "cover_url": "https://covers.openlibrary.org/b/id/7886954-M.jpg"
+  },
+  {
+    "title": "Jaws",
+    "author": "Peter Benchley",
+    "genre": "Horror",
+    "cover_url": "https://covers.openlibrary.org/b/id/8440296-M.jpg"
+  },
+  {
+    "title": "The Silence of the Lambs",
+    "author": "Thomas Harris",
+    "genre": "Horror",
+    "cover_url": "https://covers.openlibrary.org/b/id/8580475-M.jpg"
+  },
+  {
+    "title": "The Vampyre",
+    "author": "John William Polidori",
+    "genre": "Horror",
+    "cover_url": "https://covers.openlibrary.org/b/id/4871001-M.jpg"
+  },
+  {
+    "title": "Gerald's Game",
+    "author": "Stephen King",
+    "genre": "Horror",
+    "cover_url": "https://covers.openlibrary.org/b/id/10705875-M.jpg"
+  },
+  {
+    "title": "Rose Madder",
+    "author": "Stephen King",
+    "genre": "Horror",
+    "cover_url": "https://covers.openlibrary.org/b/id/8578049-M.jpg"
+  },
+  {
+    "title": "Desperation",
+    "author": "Stephen King",
+    "genre": "Horror",
+    "cover_url": "https://covers.openlibrary.org/b/id/8757374-M.jpg"
+  },
+  {
+    "title": "From a Buick 8",
+    "author": "Stephen King",
+    "genre": "Horror",
+    "cover_url": "https://covers.openlibrary.org/b/id/6502777-M.jpg"
+  },
+  {
+    "title": "Dreamcatcher",
+    "author": "Stephen King",
+    "genre": "Horror",
+    "cover_url": "https://covers.openlibrary.org/b/id/14651654-M.jpg"
+  },
+  {
+    "title": "Hearts in Atlantis",
+    "author": "Stephen King",
+    "genre": "Horror",
+    "cover_url": "https://covers.openlibrary.org/b/id/8536326-M.jpg"
+  },
+  {
+    "title": "Nightmare Abbey",
+    "author": "Thomas Love Peacock",
+    "genre": "Horror",
+    "cover_url": "https://covers.openlibrary.org/b/id/1956635-M.jpg"
+  },
+  {
+    "title": "I am Legend",
+    "author": "Richard Matheson",
+    "genre": "Horror",
+    "cover_url": "https://covers.openlibrary.org/b/id/911109-M.jpg"
+  },
+  {
+    "title": "Intensity",
+    "author": "Dean Koontz",
+    "genre": "Horror",
+    "cover_url": "https://covers.openlibrary.org/b/id/12879769-M.jpg"
+  },
+  {
+    "title": "The October Country",
+    "author": "Ray Bradbury",
+    "genre": "Horror",
+    "cover_url": "https://covers.openlibrary.org/b/id/14828135-M.jpg"
+  },
+  {
+    "title": "Lisey's Story",
+    "author": "Stephen King",
+    "genre": "Horror",
+    "cover_url": "https://covers.openlibrary.org/b/id/8387657-M.jpg"
+  },
+  {
+    "title": "If There Be Thorns",
+    "author": "V. C. Andrews",
+    "genre": "Horror",
+    "cover_url": "https://covers.openlibrary.org/b/id/13153196-M.jpg"
+  },
+  {
+    "title": "The Willows",
+    "author": "Algernon Blackwood",
+    "genre": "Horror",
+    "cover_url": "https://covers.openlibrary.org/b/id/2751803-M.jpg"
+  },
+  {
+    "title": "The Man in the Brown Suit",
+    "author": "Agatha Christie",
+    "genre": "Mystery",
+    "cover_url": "https://covers.openlibrary.org/b/id/11153508-M.jpg"
+  },
+  {
+    "title": "The Secret of Chimneys",
+    "author": "Agatha Christie",
+    "genre": "Mystery",
+    "cover_url": "https://covers.openlibrary.org/b/id/12996574-M.jpg"
+  },
+  {
+    "title": "They Do It with Mirrors",
+    "author": "Agatha Christie",
+    "genre": "Mystery",
+    "cover_url": "https://covers.openlibrary.org/b/id/10249524-M.jpg"
+  },
+  {
+    "title": "At Bertram's Hotel",
+    "author": "Agatha Christie",
+    "genre": "Mystery",
+    "cover_url": "https://covers.openlibrary.org/b/id/6379981-M.jpg"
+  },
+  {
+    "title": "4:50 from Paddington",
+    "author": "Agatha Christie",
+    "genre": "Mystery",
+    "cover_url": "https://covers.openlibrary.org/b/id/13151352-M.jpg"
+  },
+  {
+    "title": "The Mirror Crack'd from Side to Side",
+    "author": "Agatha Christie",
+    "genre": "Mystery",
+    "cover_url": "https://covers.openlibrary.org/b/id/10561150-M.jpg"
+  },
+  {
+    "title": "Crooked House",
+    "author": "Agatha Christie",
+    "genre": "Mystery",
+    "cover_url": "https://covers.openlibrary.org/b/id/14570595-M.jpg"
+  },
+  {
+    "title": "After the Funeral",
+    "author": "Agatha Christie",
+    "genre": "Mystery",
+    "cover_url": "https://covers.openlibrary.org/b/id/12996535-M.jpg"
+  },
+  {
+    "title": "Peril at End House",
+    "author": "Agatha Christie",
+    "genre": "Mystery",
+    "cover_url": "https://covers.openlibrary.org/b/id/12996556-M.jpg"
+  },
+  {
+    "title": "Murder in Three Acts",
+    "author": "Agatha Christie",
+    "genre": "Mystery",
+    "cover_url": "https://covers.openlibrary.org/b/id/6874620-M.jpg"
+  },
+  {
+    "title": "Sleeping Murder",
+    "author": "Agatha Christie",
+    "genre": "Mystery",
+    "cover_url": "https://covers.openlibrary.org/b/id/10247294-M.jpg"
+  },
+  {
+    "title": "Five Little Pigs",
+    "author": "Agatha Christie",
+    "genre": "Mystery",
+    "cover_url": "https://covers.openlibrary.org/b/id/14578138-M.jpg"
+  },
+  {
+    "title": "The Big Sleep",
+    "author": "Raymond Chandler",
+    "genre": "Mystery",
+    "cover_url": "https://covers.openlibrary.org/b/id/7268475-M.jpg"
+  },
+  {
+    "title": "The Murder at the Vicarage",
+    "author": "Agatha Christie",
+    "genre": "Mystery",
+    "cover_url": "https://covers.openlibrary.org/b/id/12996560-M.jpg"
+  },
+  {
+    "title": "Poirot investigates",
+    "author": "Agatha Christie",
+    "genre": "Mystery",
+    "cover_url": "https://covers.openlibrary.org/b/id/13670505-M.jpg"
+  },
+  {
+    "title": "The Hollow",
+    "author": "Agatha Christie",
+    "genre": "Mystery",
+    "cover_url": "https://covers.openlibrary.org/b/id/13679064-M.jpg"
+  },
+  {
+    "title": "Curtain",
+    "author": "Agatha Christie",
+    "genre": "Mystery",
+    "cover_url": "https://covers.openlibrary.org/b/id/12387503-M.jpg"
+  },
+  {
+    "title": "The Man Who Knew Too Much",
+    "author": "Gilbert Keith Chesterton",
+    "genre": "Mystery",
+    "cover_url": "https://covers.openlibrary.org/b/id/12897858-M.jpg"
+  },
+  {
+    "title": "Murder on the Links",
+    "author": "Agatha Christie",
+    "genre": "Mystery",
+    "cover_url": "https://covers.openlibrary.org/b/id/14582832-M.jpg"
+  },
+  {
+    "title": "Appointment with Death",
+    "author": "Agatha Christie",
+    "genre": "Mystery",
+    "cover_url": "https://covers.openlibrary.org/b/id/14561660-M.jpg"
+  },
+  {
+    "title": "The moving finger",
+    "author": "Agatha Christie",
+    "genre": "Mystery",
+    "cover_url": "https://covers.openlibrary.org/b/id/13672855-M.jpg"
+  },
+  {
+    "title": "Whose Body?",
+    "author": "Dorothy L. Sayers",
+    "genre": "Mystery",
+    "cover_url": "https://covers.openlibrary.org/b/id/8311819-M.jpg"
+  },
+  {
+    "title": "The Murder of Roger Ackroyd",
+    "author": "Agatha Christie",
+    "genre": "Mystery",
+    "cover_url": "https://covers.openlibrary.org/b/id/13151356-M.jpg"
+  },
+  {
+    "title": "Sparkling Cyanide",
+    "author": "Agatha Christie",
+    "genre": "Mystery",
+    "cover_url": "https://covers.openlibrary.org/b/id/10249704-M.jpg"
+  },
+  {
+    "title": "The Big Four",
+    "author": "Agatha Christie",
+    "genre": "Mystery",
+    "cover_url": "https://covers.openlibrary.org/b/id/12996529-M.jpg"
+  },
+  {
+    "title": "Hercule Poirot's Christmas",
+    "author": "Agatha Christie",
+    "genre": "Mystery",
+    "cover_url": "https://covers.openlibrary.org/b/id/12855074-M.jpg"
+  },
+  {
+    "title": "Evil Under the Sun",
+    "author": "Agatha Christie",
+    "genre": "Mystery",
+    "cover_url": "https://covers.openlibrary.org/b/id/13671433-M.jpg"
+  },
+  {
+    "title": "The Sign of Four",
+    "author": "Arthur Conan Doyle",
+    "genre": "Mystery",
+    "cover_url": "https://covers.openlibrary.org/b/id/9247987-M.jpg"
+  },
+  {
+    "title": "His Last Bow [8 stories]",
+    "author": "Arthur Conan Doyle",
+    "genre": "Mystery",
+    "cover_url": "https://covers.openlibrary.org/b/id/8243267-M.jpg"
+  },
+  {
+    "title": "The Body in the Library",
+    "author": "Agatha Christie",
+    "genre": "Mystery",
+    "cover_url": "https://covers.openlibrary.org/b/id/12855259-M.jpg"
+  },
+  {
+    "title": "Lord Edgware Dies",
+    "author": "Agatha Christie",
+    "genre": "Mystery",
+    "cover_url": "https://covers.openlibrary.org/b/id/9492111-M.jpg"
+  },
+  {
+    "title": "Murder in Mesopotamia",
+    "author": "Agatha Christie",
+    "genre": "Mystery",
+    "cover_url": "https://covers.openlibrary.org/b/id/12855104-M.jpg"
+  },
+  {
+    "title": "Death in the Clouds",
+    "author": "Agatha Christie",
+    "genre": "Mystery",
+    "cover_url": "https://covers.openlibrary.org/b/id/11433305-M.jpg"
+  },
+  {
+    "title": "A Caribbean Mystery",
+    "author": "Agatha Christie",
+    "genre": "Mystery",
+    "cover_url": "https://covers.openlibrary.org/b/id/14578132-M.jpg"
+  },
+  {
+    "title": "The Daughter of Time",
+    "author": "Josephine Tey",
+    "genre": "Mystery",
+    "cover_url": "https://covers.openlibrary.org/b/id/6485299-M.jpg"
+  },
+  {
+    "title": "And Then There Were None",
+    "author": "Agatha Christie",
+    "genre": "Mystery",
+    "cover_url": "https://covers.openlibrary.org/b/id/11172296-M.jpg"
+  },
+  {
+    "title": "Memoirs of Sherlock Holmes [11 stories]",
+    "author": "Arthur Conan Doyle",
+    "genre": "Mystery",
+    "cover_url": "https://covers.openlibrary.org/b/id/9246429-M.jpg"
+  },
+  {
+    "title": "Nemesis",
+    "author": "Agatha Christie",
+    "genre": "Mystery",
+    "cover_url": "https://covers.openlibrary.org/b/id/10249139-M.jpg"
+  },
+  {
+    "title": "The Secret Adversary",
+    "author": "Agatha Christie",
+    "genre": "Mystery",
+    "cover_url": "https://covers.openlibrary.org/b/id/14590159-M.jpg"
+  },
+  {
+    "title": "The Valley of Fear",
+    "author": "Arthur Conan Doyle",
+    "genre": "Mystery",
+    "cover_url": "https://covers.openlibrary.org/b/id/8350377-M.jpg"
+  },
+  {
+    "title": "A Study in Scarlet",
+    "author": "Arthur Conan Doyle",
+    "genre": "Mystery",
+    "cover_url": "https://covers.openlibrary.org/b/id/13405534-M.jpg"
+  },
+  {
+    "title": "A Murder Is Announced",
+    "author": "Agatha Christie",
+    "genre": "Mystery",
+    "cover_url": "https://covers.openlibrary.org/b/id/14578204-M.jpg"
+  },
+  {
+    "title": "The Mystery of the Blue Train",
+    "author": "Agatha Christie",
+    "genre": "Mystery",
+    "cover_url": "https://covers.openlibrary.org/b/id/14575533-M.jpg"
+  },
+  {
+    "title": "The Case-Book of Sherlock Holmes",
+    "author": "Arthur Conan Doyle",
+    "genre": "Mystery",
+    "cover_url": "https://covers.openlibrary.org/b/id/8350410-M.jpg"
+  },
+  {
+    "title": "The Man Who Was Thursday",
+    "author": "Gilbert Keith Chesterton",
+    "genre": "Mystery",
+    "cover_url": "https://covers.openlibrary.org/b/id/8242857-M.jpg"
+  },
+  {
+    "title": "The A.B.C. Murders",
+    "author": "Agatha Christie",
+    "genre": "Mystery",
+    "cover_url": "https://covers.openlibrary.org/b/id/14573514-M.jpg"
+  },
+  {
+    "title": "The Moonstone",
+    "author": "Wilkie Collins",
+    "genre": "Mystery",
+    "cover_url": "https://covers.openlibrary.org/b/id/8237041-M.jpg"
+  },
+  {
+    "title": "The Adventures of Sherlock Holmes [12 stories]",
+    "author": "Arthur Conan Doyle",
+    "genre": "Mystery",
+    "cover_url": "https://covers.openlibrary.org/b/id/6717853-M.jpg"
+  },
+  {
+    "title": "Death on the Nile",
+    "author": "Agatha Christie",
+    "genre": "Mystery",
+    "cover_url": "https://covers.openlibrary.org/b/id/14066646-M.jpg"
+  },
+  {
+    "title": "Murder on the Orient Express",
+    "author": "Agatha Christie",
+    "genre": "Mystery",
+    "cover_url": "https://covers.openlibrary.org/b/id/11100465-M.jpg"
+  },
+  {
+    "title": "The Return of Sherlock Holmes",
+    "author": "Arthur Conan Doyle",
+    "genre": "Mystery",
+    "cover_url": "https://covers.openlibrary.org/b/id/9246467-M.jpg"
+  },
+  {
+    "title": "The Murders in the Rue Morgue",
+    "author": "Edgar Allan Poe",
+    "genre": "Mystery",
+    "cover_url": "https://covers.openlibrary.org/b/id/11774455-M.jpg"
+  },
+  {
+    "title": "The Mysterious Affair at Styles",
+    "author": "Agatha Christie",
+    "genre": "Mystery",
+    "cover_url": "https://covers.openlibrary.org/b/id/13699667-M.jpg"
+  },
+  {
+    "title": "The Hound of the Baskervilles",
+    "author": "Arthur Conan Doyle",
+    "genre": "Mystery",
+    "cover_url": "https://covers.openlibrary.org/b/id/8063264-M.jpg"
+  },
+  {
+    "title": "Tom Sawyer, Detective",
+    "author": "Mark Twain",
+    "genre": "Mystery",
+    "cover_url": "https://covers.openlibrary.org/b/id/8923621-M.jpg"
+  },
+  {
+    "title": "The Complete Sherlock Holmes [4 novels, 56 stories]",
+    "author": "Arthur Conan Doyle",
+    "genre": "Mystery",
+    "cover_url": "https://covers.openlibrary.org/b/id/12501284-M.jpg"
+  },
+  {
+    "title": "Elephants Can Remember",
+    "author": "Agatha Christie",
+    "genre": "Mystery",
+    "cover_url": "https://covers.openlibrary.org/b/id/11165070-M.jpg"
+  },
+  {
+    "title": "The Da Vinci Code",
+    "author": "Dan Brown",
+    "genre": "Mystery",
+    "cover_url": "https://covers.openlibrary.org/b/id/9255229-M.jpg"
+  },
+  {
+    "title": "The Godfather",
+    "author": "Mario Puzo",
+    "genre": "Mystery",
+    "cover_url": "https://covers.openlibrary.org/b/id/6507069-M.jpg"
+  },
+  {
+    "title": "The Woman in White",
+    "author": "Wilkie Collins",
+    "genre": "Mystery",
+    "cover_url": "https://covers.openlibrary.org/b/id/4684227-M.jpg"
+  },
+  {
+    "title": "Il nome della rosa",
+    "author": "Umberto Eco",
+    "genre": "Mystery",
+    "cover_url": "https://covers.openlibrary.org/b/id/8598263-M.jpg"
+  },
+  {
+    "title": "The Curious Incident of the Dog in the Night-Time",
+    "author": "Mark Haddon",
+    "genre": "Mystery",
+    "cover_url": "https://covers.openlibrary.org/b/id/7890719-M.jpg"
+  },
+  {
+    "title": "Perfume",
+    "author": "Patrick Süskind",
+    "genre": "Mystery",
+    "cover_url": "https://covers.openlibrary.org/b/id/10910286-M.jpg"
+  },
+  {
+    "title": "The Secret Agent",
+    "author": "Joseph Conrad",
+    "genre": "Mystery",
+    "cover_url": "https://covers.openlibrary.org/b/id/8239401-M.jpg"
+  },
+  {
+    "title": "An American Tragedy",
+    "author": "Theodore Dreiser",
+    "genre": "Mystery",
+    "cover_url": "https://covers.openlibrary.org/b/id/12728401-M.jpg"
+  },
+  {
+    "title": "Carmilla",
+    "author": "Joseph Sheridan Le Fanu",
+    "genre": "Mystery",
+    "cover_url": "https://covers.openlibrary.org/b/id/973851-M.jpg"
+  },
+  {
+    "title": "The Thirty-Nine Steps",
+    "author": "John Buchan",
+    "genre": "Mystery",
+    "cover_url": "https://covers.openlibrary.org/b/id/93020-M.jpg"
+  },
+  {
+    "title": "The Lost Symbol",
+    "author": "Dan Brown",
+    "genre": "Mystery",
+    "cover_url": "https://covers.openlibrary.org/b/id/8373389-M.jpg"
+  },
+  {
+    "title": "The Story of the Amulet",
+    "author": "Edith Nesbit",
+    "genre": "Mystery",
+    "cover_url": "https://covers.openlibrary.org/b/id/13241470-M.jpg"
+  },
+  {
+    "title": "The Castle of Otranto",
+    "author": "Horace Walpole",
+    "genre": "Mystery",
+    "cover_url": "https://covers.openlibrary.org/b/id/6468730-M.jpg"
+  },
+  {
+    "title": "The Secret Garden",
+    "author": "Frances Hodgson Burnett",
+    "genre": "Mystery",
+    "cover_url": "https://covers.openlibrary.org/b/id/12622062-M.jpg"
+  },
+  {
+    "title": "The Riddle of the Sands",
+    "author": "Erskine Childers",
+    "genre": "Mystery",
+    "cover_url": "https://covers.openlibrary.org/b/id/2293974-M.jpg"
+  },
+  {
+    "title": "In Cold Blood",
+    "author": "Truman Capote",
+    "genre": "Mystery",
+    "cover_url": "https://covers.openlibrary.org/b/id/228066-M.jpg"
+  },
+  {
+    "title": "The Invisible Man",
+    "author": "H. G. Wells",
+    "genre": "Mystery",
+    "cover_url": "https://covers.openlibrary.org/b/id/6419199-M.jpg"
+  },
+  {
+    "title": "Heart of Darkness",
+    "author": "Joseph Conrad",
+    "genre": "Mystery",
+    "cover_url": "https://covers.openlibrary.org/b/id/12307847-M.jpg"
+  },
+  {
+    "title": "A Connecticut Yankee in King Arthur's Court",
+    "author": "Mark Twain",
+    "genre": "Mystery",
+    "cover_url": "https://covers.openlibrary.org/b/id/9168732-M.jpg"
+  },
+  {
+    "title": "The Lost World",
+    "author": "Arthur Conan Doyle",
+    "genre": "Mystery",
+    "cover_url": "https://covers.openlibrary.org/b/id/8231444-M.jpg"
+  },
+  {
+    "title": "Angels & Demons",
+    "author": "Dan Brown",
+    "genre": "Mystery",
+    "cover_url": "https://covers.openlibrary.org/b/id/11408459-M.jpg"
+  },
+  {
+    "title": "Harry Potter and the Half-Blood Prince",
+    "author": "J. K. Rowling",
+    "genre": "Mystery",
+    "cover_url": "https://covers.openlibrary.org/b/id/10716273-M.jpg"
+  },
+  {
+    "title": "Kidnapped",
+    "author": "Robert Louis Stevenson",
+    "genre": "Mystery",
+    "cover_url": "https://covers.openlibrary.org/b/id/8267822-M.jpg"
+  },
+  {
+    "title": "Oliver Twist",
+    "author": "Charles Dickens",
+    "genre": "Mystery",
+    "cover_url": "https://covers.openlibrary.org/b/id/13300802-M.jpg"
+  },
+  {
+    "title": "Harry Potter and the Goblet of Fire",
+    "author": "J. K. Rowling",
+    "genre": "Mystery",
+    "cover_url": "https://covers.openlibrary.org/b/id/12059372-M.jpg"
+  },
+  {
+    "title": "Harry Potter and the Deathly Hallows",
+    "author": "J. K. Rowling",
+    "genre": "Mystery",
+    "cover_url": "https://covers.openlibrary.org/b/id/10110415-M.jpg"
+  },
+  {
+    "title": "The Strange Case of Dr. Jekyll and Mr. Hyde",
+    "author": "Robert Louis Stevenson",
+    "genre": "Mystery",
+    "cover_url": "https://covers.openlibrary.org/b/id/295773-M.jpg"
+  },
+  {
+    "title": "Middlemarch",
+    "author": "George Eliot",
+    "genre": "Mystery",
+    "cover_url": "https://covers.openlibrary.org/b/id/252882-M.jpg"
+  },
+  {
+    "title": "Harry Potter and the Philosopher's Stone",
+    "author": "J. K. Rowling",
+    "genre": "Mystery",
+    "cover_url": "https://covers.openlibrary.org/b/id/10521270-M.jpg"
+  },
+  {
+    "title": "The Club of Queer Trades",
+    "author": "Gilbert Keith Chesterton",
+    "genre": "Mystery",
+    "cover_url": "https://covers.openlibrary.org/b/id/8242288-M.jpg"
+  },
+  {
+    "title": "One, Two, Buckle My Shoe",
+    "author": "Agatha Christie",
+    "genre": "Mystery",
+    "cover_url": "https://covers.openlibrary.org/b/id/14586349-M.jpg"
+  },
+  {
+    "title": "Cards on the Table",
+    "author": "Agatha Christie",
+    "genre": "Mystery",
+    "cover_url": "https://covers.openlibrary.org/b/id/6469172-M.jpg"
+  },
+  {
+    "title": "Jamaica Inn",
+    "author": "Daphne du Maurier",
+    "genre": "Mystery",
+    "cover_url": "https://covers.openlibrary.org/b/id/8765960-M.jpg"
+  },
+  {
+    "title": "Ordeal by Innocence",
+    "author": "Agatha Christie",
+    "genre": "Mystery",
+    "cover_url": "https://covers.openlibrary.org/b/id/14586345-M.jpg"
+  },
+  {
+    "title": "Hallowe'en Party",
+    "author": "Agatha Christie",
+    "genre": "Mystery",
+    "cover_url": "https://covers.openlibrary.org/b/id/11160095-M.jpg"
+  },
+  {
+    "title": "The Firm",
+    "author": "John Grisham",
+    "genre": "Mystery",
+    "cover_url": "https://covers.openlibrary.org/b/id/9330593-M.jpg"
+  },
+  {
+    "title": "They Came to Baghdad",
+    "author": "Agatha Christie",
+    "genre": "Mystery",
+    "cover_url": "https://covers.openlibrary.org/b/id/12846782-M.jpg"
+  },
+  {
+    "title": "La sombra del viento",
+    "author": "Carlos Ruiz Zafón",
+    "genre": "Mystery",
+    "cover_url": "https://covers.openlibrary.org/b/id/10107644-M.jpg"
+  },
+  {
+    "title": "The Clocks",
+    "author": "Agatha Christie",
+    "genre": "Mystery",
+    "cover_url": "https://covers.openlibrary.org/b/id/12996554-M.jpg"
+  },
+  {
+    "title": "Deception Point",
+    "author": "Dan Brown",
+    "genre": "Mystery",
+    "cover_url": "https://covers.openlibrary.org/b/id/14553479-M.jpg"
+  },
+  {
+    "title": "Murder is Easy",
+    "author": "Agatha Christie",
+    "genre": "Mystery",
+    "cover_url": "https://covers.openlibrary.org/b/id/14575757-M.jpg"
+  },
+  {
+    "title": "Dumb Witness",
+    "author": "Agatha Christie",
+    "genre": "Mystery",
+    "cover_url": "https://covers.openlibrary.org/b/id/14578123-M.jpg"
+  },
+  {
+    "title": "The blue castle",
+    "author": "Lucy Maud Montgomery",
+    "genre": "Romance",
+    "cover_url": "https://covers.openlibrary.org/b/id/14640067-M.jpg"
+  },
+  {
+    "title": "Age of fable",
+    "author": "Thomas Bulfinch",
+    "genre": "Romance",
+    "cover_url": "https://covers.openlibrary.org/b/id/419378-M.jpg"
+  },
+  {
+    "title": "Far From the Madding Crowd",
+    "author": "Thomas Hardy",
+    "genre": "Romance",
+    "cover_url": "https://covers.openlibrary.org/b/id/902038-M.jpg"
+  },
+  {
+    "title": "Le Morte d'Arthur",
+    "author": "Thomas Malory",
+    "genre": "Romance",
+    "cover_url": "https://covers.openlibrary.org/b/id/8231834-M.jpg"
+  },
+  {
+    "title": "Lilith",
+    "author": "George MacDonald",
+    "genre": "Romance",
+    "cover_url": "https://covers.openlibrary.org/b/id/14364546-M.jpg"
+  },
+  {
+    "title": "An American Tragedy",
+    "author": "Theodore Dreiser",
+    "genre": "Romance",
+    "cover_url": "https://covers.openlibrary.org/b/id/12728401-M.jpg"
+  },
+  {
+    "title": "Women in Love",
+    "author": "D. H. Lawrence",
+    "genre": "Romance",
+    "cover_url": "https://covers.openlibrary.org/b/id/13140934-M.jpg"
+  },
+  {
+    "title": "La Peste",
+    "author": "Albert Camus",
+    "genre": "Romance",
+    "cover_url": "https://covers.openlibrary.org/b/id/13151272-M.jpg"
+  },
+  {
+    "title": "Phantastes",
+    "author": "George MacDonald",
+    "genre": "Romance",
+    "cover_url": "https://covers.openlibrary.org/b/id/14358814-M.jpg"
+  },
+  {
+    "title": "Le rouge et le noir",
+    "author": "Stendhal",
+    "genre": "Romance",
+    "cover_url": "https://covers.openlibrary.org/b/id/8231413-M.jpg"
+  },
+  {
+    "title": "Northanger Abbey",
+    "author": "Jane Austen",
+    "genre": "Romance",
+    "cover_url": "https://covers.openlibrary.org/b/id/12567961-M.jpg"
+  },
+  {
+    "title": "A Room with a View",
+    "author": "Edward Morgan Forster",
+    "genre": "Romance",
+    "cover_url": "https://covers.openlibrary.org/b/id/1748132-M.jpg"
+  },
+  {
+    "title": "The Beautiful and Damned",
+    "author": "F. Scott Fitzgerald",
+    "genre": "Romance",
+    "cover_url": "https://covers.openlibrary.org/b/id/7152019-M.jpg"
+  },
+  {
+    "title": "Les Liaisons dangereuses",
+    "author": "Pierre Choderlos de Laclos",
+    "genre": "Romance",
+    "cover_url": "https://covers.openlibrary.org/b/id/5258265-M.jpg"
+  },
+  {
+    "title": "Anna Karenina",
+    "author": "Лев Толстой",
+    "genre": "Romance",
+    "cover_url": "https://covers.openlibrary.org/b/id/2560652-M.jpg"
+  },
+  {
+    "title": "Anne of the Island",
+    "author": "Lucy Maud Montgomery",
+    "genre": "Romance",
+    "cover_url": "https://covers.openlibrary.org/b/id/14639028-M.jpg"
+  },
+  {
+    "title": "La Chute",
+    "author": "Albert Camus",
+    "genre": "Romance",
+    "cover_url": "https://covers.openlibrary.org/b/id/8296477-M.jpg"
+  },
+  {
+    "title": "Fifty Shades of Grey",
+    "author": "E. L. James",
+    "genre": "Romance",
+    "cover_url": "https://covers.openlibrary.org/b/id/12648183-M.jpg"
+  },
+  {
+    "title": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "genre": "Romance",
+    "cover_url": "https://covers.openlibrary.org/b/id/14348537-M.jpg"
+  },
+  {
+    "title": "A Connecticut Yankee in King Arthur's Court",
+    "author": "Mark Twain",
+    "genre": "Romance",
+    "cover_url": "https://covers.openlibrary.org/b/id/9168732-M.jpg"
+  },
+  {
+    "title": "Tender is the Night",
+    "author": "F. Scott Fitzgerald",
+    "genre": "Romance",
+    "cover_url": "https://covers.openlibrary.org/b/id/6984433-M.jpg"
+  },
+  {
+    "title": "The Mirror Crack'd from Side to Side",
+    "author": "Agatha Christie",
+    "genre": "Romance",
+    "cover_url": "https://covers.openlibrary.org/b/id/10561150-M.jpg"
+  },
+  {
+    "title": "Daddy-Long-Legs",
+    "author": "Jean Webster",
+    "genre": "Romance",
+    "cover_url": "https://covers.openlibrary.org/b/id/8266414-M.jpg"
+  },
+  {
+    "title": "This Side of Paradise",
+    "author": "F. Scott Fitzgerald",
+    "genre": "Romance",
+    "cover_url": "https://covers.openlibrary.org/b/id/8243609-M.jpg"
+  },
+  {
+    "title": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "genre": "Romance",
+    "cover_url": "https://covers.openlibrary.org/b/id/10590366-M.jpg"
+  },
+  {
+    "title": "The Portrait of a Lady",
+    "author": "Henry James",
+    "genre": "Romance",
+    "cover_url": "https://covers.openlibrary.org/b/id/8236992-M.jpg"
+  },
+  {
+    "title": "Le petit prince",
+    "author": "Antoine de Saint-Exupéry",
+    "genre": "Romance",
+    "cover_url": "https://covers.openlibrary.org/b/id/10708272-M.jpg"
+  },
+  {
+    "title": "Lady Susan",
+    "author": "Jane Austen",
+    "genre": "Romance",
+    "cover_url": "https://covers.openlibrary.org/b/id/12641526-M.jpg"
+  },
+  {
+    "title": "The Return of the Native",
+    "author": "Thomas Hardy",
+    "genre": "Romance",
+    "cover_url": "https://covers.openlibrary.org/b/id/8162989-M.jpg"
+  },
+  {
+    "title": "The Godfather",
+    "author": "Mario Puzo",
+    "genre": "Romance",
+    "cover_url": "https://covers.openlibrary.org/b/id/6507069-M.jpg"
+  },
+  {
+    "title": "Sense and Sensibility",
+    "author": "Jane Austen",
+    "genre": "Romance",
+    "cover_url": "https://covers.openlibrary.org/b/id/9278292-M.jpg"
+  },
+  {
+    "title": "Murder in Three Acts",
+    "author": "Agatha Christie",
+    "genre": "Romance",
+    "cover_url": "https://covers.openlibrary.org/b/id/6874620-M.jpg"
+  },
+  {
+    "title": "Genji monogatari",
+    "author": "Murasaki Shikibu",
+    "genre": "Romance",
+    "cover_url": "https://covers.openlibrary.org/b/id/6614001-M.jpg"
+  },
+  {
+    "title": "Wuthering Heights",
+    "author": "Emily Brontë",
+    "genre": "Romance",
+    "cover_url": "https://covers.openlibrary.org/b/id/12818862-M.jpg"
+  },
+  {
+    "title": "Lolita",
+    "author": "Vladimir Nabokov",
+    "genre": "Romance",
+    "cover_url": "https://covers.openlibrary.org/b/id/12984540-M.jpg"
+  },
+  {
+    "title": "The Secret Agent",
+    "author": "Joseph Conrad",
+    "genre": "Romance",
+    "cover_url": "https://covers.openlibrary.org/b/id/8239401-M.jpg"
+  },
+  {
+    "title": "The Age of Innocence",
+    "author": "Edith Wharton",
+    "genre": "Romance",
+    "cover_url": "https://covers.openlibrary.org/b/id/11196262-M.jpg"
+  },
+  {
+    "title": "Die Blechtrommel",
+    "author": "Günter Grass",
+    "genre": "Romance",
+    "cover_url": "https://covers.openlibrary.org/b/id/419922-M.jpg"
+  },
+  {
+    "title": "Eva Luna",
+    "author": "Isabel Allende",
+    "genre": "Romance",
+    "cover_url": "https://covers.openlibrary.org/b/id/3205240-M.jpg"
+  },
+  {
+    "title": "The Awakening",
+    "author": "Kate Chopin",
+    "genre": "Romance",
+    "cover_url": "https://covers.openlibrary.org/b/id/8750241-M.jpg"
+  },
+  {
+    "title": "Ethan Frome",
+    "author": "Edith Wharton",
+    "genre": "Romance",
+    "cover_url": "https://covers.openlibrary.org/b/id/8303480-M.jpg"
+  },
+  {
+    "title": "Le Comte de Monte Cristo",
+    "author": "Alexandre Dumas",
+    "genre": "Romance",
+    "cover_url": "https://covers.openlibrary.org/b/id/14566393-M.jpg"
+  },
+  {
+    "title": "Les Trois Mousquetaires",
+    "author": "Alexandre Dumas",
+    "genre": "Romance",
+    "cover_url": "https://covers.openlibrary.org/b/id/11929973-M.jpg"
+  },
+  {
+    "title": "Twilight",
+    "author": "Stephenie Meyer",
+    "genre": "Romance",
+    "cover_url": "https://covers.openlibrary.org/b/id/12641977-M.jpg"
+  },
+  {
+    "title": "Breakfast at Tiffany's",
+    "author": "Truman Capote",
+    "genre": "Romance",
+    "cover_url": "https://covers.openlibrary.org/b/id/100108-M.jpg"
+  },
+  {
+    "title": "A Princess of Mars",
+    "author": "Edgar Rice Burroughs",
+    "genre": "Romance",
+    "cover_url": "https://covers.openlibrary.org/b/id/207226-M.jpg"
+  },
+  {
+    "title": "Don Quixote",
+    "author": "Miguel de Cervantes Saavedra",
+    "genre": "Romance",
+    "cover_url": "https://covers.openlibrary.org/b/id/14428305-M.jpg"
+  },
+  {
+    "title": "Emma",
+    "author": "Jane Austen",
+    "genre": "Romance",
+    "cover_url": "https://covers.openlibrary.org/b/id/9278312-M.jpg"
+  },
+  {
+    "title": "Daisy Miller",
+    "author": "Henry James",
+    "genre": "Romance",
+    "cover_url": "https://covers.openlibrary.org/b/id/6482238-M.jpg"
+  },
+  {
+    "title": "The Magician's Nephew",
+    "author": "C.S. Lewis",
+    "genre": "Romance",
+    "cover_url": "https://covers.openlibrary.org/b/id/1072931-M.jpg"
+  },
+  {
+    "title": "The House of Mirth",
+    "author": "Edith Wharton",
+    "genre": "Romance",
+    "cover_url": "https://covers.openlibrary.org/b/id/9329539-M.jpg"
+  },
+  {
+    "title": "Under the Greenwood Tree or, The Mellstock quire",
+    "author": "Thomas Hardy",
+    "genre": "Romance",
+    "cover_url": "https://covers.openlibrary.org/b/id/902186-M.jpg"
+  },
+  {
+    "title": "Rebecca",
+    "author": "Daphne du Maurier",
+    "genre": "Romance",
+    "cover_url": "https://covers.openlibrary.org/b/id/8238729-M.jpg"
+  },
+  {
+    "title": "Guess How Much I Love You",
+    "author": "Sam McBratney",
+    "genre": "Romance",
+    "cover_url": "https://covers.openlibrary.org/b/id/13282906-M.jpg"
+  },
+  {
+    "title": "A Midsummer Night's Dream",
+    "author": "William Shakespeare",
+    "genre": "Romance",
+    "cover_url": "https://covers.openlibrary.org/b/id/7205924-M.jpg"
+  },
+  {
+    "title": "Les fleurs du mal",
+    "author": "Charles Baudelaire",
+    "genre": "Romance",
+    "cover_url": "https://covers.openlibrary.org/b/id/8236412-M.jpg"
+  },
+  {
+    "title": "Poirot investigates",
+    "author": "Agatha Christie",
+    "genre": "Romance",
+    "cover_url": "https://covers.openlibrary.org/b/id/13670505-M.jpg"
+  },
+  {
+    "title": "Ivanhoe",
+    "author": "Sir Walter Scott",
+    "genre": "Romance",
+    "cover_url": "https://covers.openlibrary.org/b/id/314235-M.jpg"
+  },
+  {
+    "title": "Persuasion",
+    "author": "Jane Austen",
+    "genre": "Romance",
+    "cover_url": "https://covers.openlibrary.org/b/id/12824691-M.jpg"
+  },
+  {
+    "title": "Death on the Nile",
+    "author": "Agatha Christie",
+    "genre": "Romance",
+    "cover_url": "https://covers.openlibrary.org/b/id/14066646-M.jpg"
+  },
+  {
+    "title": "Cranford",
+    "author": "Elizabeth Cleghorn Gaskell",
+    "genre": "Romance",
+    "cover_url": "https://covers.openlibrary.org/b/id/5188445-M.jpg"
+  },
+  {
+    "title": "In Cold Blood",
+    "author": "Truman Capote",
+    "genre": "Romance",
+    "cover_url": "https://covers.openlibrary.org/b/id/228066-M.jpg"
+  },
+  {
+    "title": "The Turn of the Screw",
+    "author": "Henry James",
+    "genre": "Romance",
+    "cover_url": "https://covers.openlibrary.org/b/id/181493-M.jpg"
+  },
+  {
+    "title": "Black Beauty",
+    "author": "Anna Sewell",
+    "genre": "Romance",
+    "cover_url": "https://covers.openlibrary.org/b/id/5007492-M.jpg"
+  },
+  {
+    "title": "The Mystery of the Blue Train",
+    "author": "Agatha Christie",
+    "genre": "Romance",
+    "cover_url": "https://covers.openlibrary.org/b/id/14575533-M.jpg"
+  },
+  {
+    "title": "A Clockwork Orange",
+    "author": "Anthony Burgess",
+    "genre": "Romance",
+    "cover_url": "https://covers.openlibrary.org/b/id/13151224-M.jpg"
+  },
+  {
+    "title": "A Farewell to Arms",
+    "author": "Ernest Hemingway",
+    "genre": "Romance",
+    "cover_url": "https://covers.openlibrary.org/b/id/7226599-M.jpg"
+  },
+  {
+    "title": "A Portrait of the Artist as a Young Man",
+    "author": "James Joyce",
+    "genre": "Romance",
+    "cover_url": "https://covers.openlibrary.org/b/id/9328410-M.jpg"
+  },
+  {
+    "title": "The Scarlet Letter",
+    "author": "Nathaniel Hawthorne",
+    "genre": "Romance",
+    "cover_url": "https://covers.openlibrary.org/b/id/5654516-M.jpg"
+  },
+  {
+    "title": "Mrs. Dalloway",
+    "author": "Virginia Woolf",
+    "genre": "Romance",
+    "cover_url": "https://covers.openlibrary.org/b/id/6397580-M.jpg"
+  },
+  {
+    "title": "The Hunchback of Notre Dame",
+    "author": "Victor Hugo",
+    "genre": "Romance",
+    "cover_url": "https://covers.openlibrary.org/b/id/2626880-M.jpg"
+  },
+  {
+    "title": "Heart of Darkness",
+    "author": "Joseph Conrad",
+    "genre": "Romance",
+    "cover_url": "https://covers.openlibrary.org/b/id/12307847-M.jpg"
+  },
+  {
+    "title": "A la recherche du temps perdu",
+    "author": "Marcel Proust",
+    "genre": "Romance",
+    "cover_url": "https://covers.openlibrary.org/b/id/12332709-M.jpg"
+  },
+  {
+    "title": "The Woman in White",
+    "author": "Wilkie Collins",
+    "genre": "Romance",
+    "cover_url": "https://covers.openlibrary.org/b/id/4684227-M.jpg"
+  },
+  {
+    "title": "The War of the Worlds",
+    "author": "H. G. Wells",
+    "genre": "Romance",
+    "cover_url": "https://covers.openlibrary.org/b/id/36314-M.jpg"
+  },
+  {
+    "title": "Uncle Tom's Cabin",
+    "author": "Harriet Beecher Stowe",
+    "genre": "Romance",
+    "cover_url": "https://covers.openlibrary.org/b/id/12728198-M.jpg"
+  },
+  {
+    "title": "Little Women",
+    "author": "Louisa May Alcott",
+    "genre": "Romance",
+    "cover_url": "https://covers.openlibrary.org/b/id/8775559-M.jpg"
+  },
+  {
+    "title": "Vingt mille lieues sous les mers",
+    "author": "Jules Verne",
+    "genre": "Romance",
+    "cover_url": "https://covers.openlibrary.org/b/id/6573517-M.jpg"
+  },
+  {
+    "title": "The Moonstone",
+    "author": "Wilkie Collins",
+    "genre": "Romance",
+    "cover_url": "https://covers.openlibrary.org/b/id/8237041-M.jpg"
+  },
+  {
+    "title": "Inferno",
+    "author": "Dante Alighieri",
+    "genre": "Romance",
+    "cover_url": "https://covers.openlibrary.org/b/id/6387077-M.jpg"
+  },
+  {
+    "title": "Madame Bovary",
+    "author": "Gustave Flaubert",
+    "genre": "Romance",
+    "cover_url": "https://covers.openlibrary.org/b/id/12993424-M.jpg"
+  },
+  {
+    "title": "Gone With the Wind",
+    "author": "Margaret Mitchell",
+    "genre": "Romance",
+    "cover_url": "https://covers.openlibrary.org/b/id/14817133-M.jpg"
+  },
+  {
+    "title": "Plays (36)",
+    "author": "William Shakespeare",
+    "genre": "Romance",
+    "cover_url": "https://covers.openlibrary.org/b/id/9023411-M.jpg"
+  },
+  {
+    "title": "Candide",
+    "author": "Voltaire",
+    "genre": "Romance",
+    "cover_url": "https://covers.openlibrary.org/b/id/12736044-M.jpg"
+  },
+  {
+    "title": "David Copperfield",
+    "author": "Charles Dickens",
+    "genre": "Romance",
+    "cover_url": "https://covers.openlibrary.org/b/id/1048892-M.jpg"
+  },
+  {
+    "title": "Le Tour du Monde en Quatre-Vingts Jours",
+    "author": "Jules Verne",
+    "genre": "Romance",
+    "cover_url": "https://covers.openlibrary.org/b/id/6976035-M.jpg"
+  },
+  {
+    "title": "Works [37 plays, 6 poems, sonnets]",
+    "author": "William Shakespeare",
+    "genre": "Romance",
+    "cover_url": "https://covers.openlibrary.org/b/id/8779054-M.jpg"
+  },
+  {
+    "title": "Jane Eyre",
+    "author": "Charlotte Brontë",
+    "genre": "Romance",
+    "cover_url": "https://covers.openlibrary.org/b/id/8235363-M.jpg"
+  },
+  {
+    "title": "The Sea Fairies",
+    "author": "L. Frank Baum",
+    "genre": "Historical Fiction",
+    "cover_url": "https://covers.openlibrary.org/b/id/1814237-M.jpg"
+  },
+  {
+    "title": "The blue castle",
+    "author": "Lucy Maud Montgomery",
+    "genre": "Historical Fiction",
+    "cover_url": "https://covers.openlibrary.org/b/id/14640067-M.jpg"
+  },
+  {
+    "title": "Brood of the Witch-Queen",
+    "author": "Sax Rohmer",
+    "genre": "Historical Fiction",
+    "cover_url": "https://covers.openlibrary.org/b/id/2011286-M.jpg"
+  },
+  {
+    "title": "Die Blechtrommel",
+    "author": "Günter Grass",
+    "genre": "Historical Fiction",
+    "cover_url": "https://covers.openlibrary.org/b/id/419922-M.jpg"
+  },
+  {
+    "title": "The Iron Heel",
+    "author": "Jack London",
+    "genre": "Historical Fiction",
+    "cover_url": "https://covers.openlibrary.org/b/id/8243314-M.jpg"
+  },
+  {
+    "title": "Perfume",
+    "author": "Patrick Süskind",
+    "genre": "Historical Fiction",
+    "cover_url": "https://covers.openlibrary.org/b/id/10910286-M.jpg"
+  },
+  {
+    "title": "Ivanhoe",
+    "author": "Sir Walter Scott",
+    "genre": "Historical Fiction",
+    "cover_url": "https://covers.openlibrary.org/b/id/314235-M.jpg"
+  },
+  {
+    "title": "Under the Greenwood Tree or, The Mellstock quire",
+    "author": "Thomas Hardy",
+    "genre": "Historical Fiction",
+    "cover_url": "https://covers.openlibrary.org/b/id/902186-M.jpg"
+  },
+  {
+    "title": "Le Comte de Monte Cristo",
+    "author": "Alexandre Dumas",
+    "genre": "Historical Fiction",
+    "cover_url": "https://covers.openlibrary.org/b/id/14566393-M.jpg"
+  },
+  {
+    "title": "The Scarlet Pimpernel",
+    "author": "Emmuska Orczy, Baroness Orczy",
+    "genre": "Historical Fiction",
+    "cover_url": "https://covers.openlibrary.org/b/id/479102-M.jpg"
+  },
+  {
+    "title": "Les Trois Mousquetaires",
+    "author": "Alexandre Dumas",
+    "genre": "Historical Fiction",
+    "cover_url": "https://covers.openlibrary.org/b/id/11929973-M.jpg"
+  },
+  {
+    "title": "Anthem",
+    "author": "Ayn Rand",
+    "genre": "Historical Fiction",
+    "cover_url": "https://covers.openlibrary.org/b/id/802982-M.jpg"
+  },
+  {
+    "title": "Pollyanna",
+    "author": "Eleanor Hodgman Porter",
+    "genre": "Historical Fiction",
+    "cover_url": "https://covers.openlibrary.org/b/id/902113-M.jpg"
+  },
+  {
+    "title": "Genji monogatari",
+    "author": "Murasaki Shikibu",
+    "genre": "Historical Fiction",
+    "cover_url": "https://covers.openlibrary.org/b/id/6614001-M.jpg"
+  },
+  {
+    "title": "Kidnapped",
+    "author": "Robert Louis Stevenson",
+    "genre": "Historical Fiction",
+    "cover_url": "https://covers.openlibrary.org/b/id/8267822-M.jpg"
+  },
+  {
+    "title": "Tik-Tok of Oz",
+    "author": "L. Frank Baum",
+    "genre": "Historical Fiction",
+    "cover_url": "https://covers.openlibrary.org/b/id/8243277-M.jpg"
+  },
+  {
+    "title": "Kim",
+    "author": "Rudyard Kipling",
+    "genre": "Historical Fiction",
+    "cover_url": "https://covers.openlibrary.org/b/id/1053011-M.jpg"
+  },
+  {
+    "title": "The Prince and the Pauper",
+    "author": "Mark Twain",
+    "genre": "Historical Fiction",
+    "cover_url": "https://covers.openlibrary.org/b/id/8221267-M.jpg"
+  },
+  {
+    "title": "The Enchanted Castle",
+    "author": "Edith Nesbit",
+    "genre": "Historical Fiction",
+    "cover_url": "https://covers.openlibrary.org/b/id/6644514-M.jpg"
+  },
+  {
+    "title": "It Can't Happen Here",
+    "author": "Sinclair Lewis",
+    "genre": "Historical Fiction",
+    "cover_url": "https://covers.openlibrary.org/b/id/12719018-M.jpg"
+  },
+  {
+    "title": "Poirot investigates",
+    "author": "Agatha Christie",
+    "genre": "Historical Fiction",
+    "cover_url": "https://covers.openlibrary.org/b/id/13670505-M.jpg"
+  },
+  {
+    "title": "White Fang",
+    "author": "Jack London",
+    "genre": "Historical Fiction",
+    "cover_url": "https://covers.openlibrary.org/b/id/8236920-M.jpg"
+  },
+  {
+    "title": "The Daughter of Time",
+    "author": "Josephine Tey",
+    "genre": "Historical Fiction",
+    "cover_url": "https://covers.openlibrary.org/b/id/6485299-M.jpg"
+  },
+  {
+    "title": "The Secret of Chimneys",
+    "author": "Agatha Christie",
+    "genre": "Historical Fiction",
+    "cover_url": "https://covers.openlibrary.org/b/id/12996574-M.jpg"
+  },
+  {
+    "title": "Noli Me Tangere",
+    "author": "José Rizal",
+    "genre": "Historical Fiction",
+    "cover_url": "https://covers.openlibrary.org/b/id/5738053-M.jpg"
+  },
+  {
+    "title": "Murder on the Links",
+    "author": "Agatha Christie",
+    "genre": "Historical Fiction",
+    "cover_url": "https://covers.openlibrary.org/b/id/14582832-M.jpg"
+  },
+  {
+    "title": "The Sun Also Rises",
+    "author": "Ernest Hemingway",
+    "genre": "Historical Fiction",
+    "cover_url": "https://covers.openlibrary.org/b/id/78741-M.jpg"
+  },
+  {
+    "title": "A Little Princess",
+    "author": "Frances Hodgson Burnett",
+    "genre": "Historical Fiction",
+    "cover_url": "https://covers.openlibrary.org/b/id/2328315-M.jpg"
+  },
+  {
+    "title": "Beloved",
+    "author": "Toni Morrison",
+    "genre": "Historical Fiction",
+    "cover_url": "https://covers.openlibrary.org/b/id/8261367-M.jpg"
+  },
+  {
+    "title": "The House of Mirth",
+    "author": "Edith Wharton",
+    "genre": "Historical Fiction",
+    "cover_url": "https://covers.openlibrary.org/b/id/9329539-M.jpg"
+  },
+  {
+    "title": "An American Tragedy",
+    "author": "Theodore Dreiser",
+    "genre": "Historical Fiction",
+    "cover_url": "https://covers.openlibrary.org/b/id/12728401-M.jpg"
+  },
+  {
+    "title": "The Grapes of Wrath",
+    "author": "John Steinbeck",
+    "genre": "Historical Fiction",
+    "cover_url": "https://covers.openlibrary.org/b/id/12715902-M.jpg"
+  },
+  {
+    "title": "A Room with a View",
+    "author": "Edward Morgan Forster",
+    "genre": "Historical Fiction",
+    "cover_url": "https://covers.openlibrary.org/b/id/1748132-M.jpg"
+  },
+  {
+    "title": "The Mystery of the Blue Train",
+    "author": "Agatha Christie",
+    "genre": "Historical Fiction",
+    "cover_url": "https://covers.openlibrary.org/b/id/14575533-M.jpg"
+  },
+  {
+    "title": "The Pearl",
+    "author": "John Steinbeck",
+    "genre": "Historical Fiction",
+    "cover_url": "https://covers.openlibrary.org/b/id/9292332-M.jpg"
+  },
+  {
+    "title": "Little men",
+    "author": "Louisa May Alcott",
+    "genre": "Historical Fiction",
+    "cover_url": "https://covers.openlibrary.org/b/id/8043576-M.jpg"
+  },
+  {
+    "title": "A Connecticut Yankee in King Arthur's Court",
+    "author": "Mark Twain",
+    "genre": "Historical Fiction",
+    "cover_url": "https://covers.openlibrary.org/b/id/9168732-M.jpg"
+  },
+  {
+    "title": "Far From the Madding Crowd",
+    "author": "Thomas Hardy",
+    "genre": "Historical Fiction",
+    "cover_url": "https://covers.openlibrary.org/b/id/902038-M.jpg"
+  },
+  {
+    "title": "Der Steppenwolf",
+    "author": "Hermann Hesse",
+    "genre": "Historical Fiction",
+    "cover_url": "https://covers.openlibrary.org/b/id/3221083-M.jpg"
+  },
+  {
+    "title": "The Legend of Sleepy Hollow",
+    "author": "Washington Irving",
+    "genre": "Historical Fiction",
+    "cover_url": "https://covers.openlibrary.org/b/id/8243083-M.jpg"
+  },
+  {
+    "title": "Bleak House",
+    "author": "Charles Dickens",
+    "genre": "Historical Fiction",
+    "cover_url": "https://covers.openlibrary.org/b/id/9279273-M.jpg"
+  },
+  {
+    "title": "War and Peace",
+    "author": "Лев Толстой",
+    "genre": "Historical Fiction",
+    "cover_url": "https://covers.openlibrary.org/b/id/12621906-M.jpg"
+  },
+  {
+    "title": "Finnegans Wake",
+    "author": "James Joyce",
+    "genre": "Historical Fiction",
+    "cover_url": "https://covers.openlibrary.org/b/id/6609259-M.jpg"
+  },
+  {
+    "title": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "genre": "Historical Fiction",
+    "cover_url": "https://covers.openlibrary.org/b/id/10590366-M.jpg"
+  },
+  {
+    "title": "The Picture of Dorian Gray",
+    "author": "Oscar Wilde",
+    "genre": "Historical Fiction",
+    "cover_url": "https://covers.openlibrary.org/b/id/14314858-M.jpg"
+  },
+  {
+    "title": "The Invisible Man",
+    "author": "H. G. Wells",
+    "genre": "Historical Fiction",
+    "cover_url": "https://covers.openlibrary.org/b/id/6419199-M.jpg"
+  },
+  {
+    "title": "Gone With the Wind",
+    "author": "Margaret Mitchell",
+    "genre": "Historical Fiction",
+    "cover_url": "https://covers.openlibrary.org/b/id/14817133-M.jpg"
+  },
+  {
+    "title": "Les Liaisons dangereuses",
+    "author": "Pierre Choderlos de Laclos",
+    "genre": "Historical Fiction",
+    "cover_url": "https://covers.openlibrary.org/b/id/5258265-M.jpg"
+  },
+  {
+    "title": "His Last Bow [8 stories]",
+    "author": "Arthur Conan Doyle",
+    "genre": "Historical Fiction",
+    "cover_url": "https://covers.openlibrary.org/b/id/8243267-M.jpg"
+  },
+  {
+    "title": "Pickwick Papers",
+    "author": "Charles Dickens",
+    "genre": "Historical Fiction",
+    "cover_url": "https://covers.openlibrary.org/b/id/13130696-M.jpg"
+  },
+  {
+    "title": "Im Westen nichts Neues",
+    "author": "Erich Maria Remarque",
+    "genre": "Historical Fiction",
+    "cover_url": "https://covers.openlibrary.org/b/id/12706822-M.jpg"
+  },
+  {
+    "title": "The Castle of Otranto",
+    "author": "Horace Walpole",
+    "genre": "Historical Fiction",
+    "cover_url": "https://covers.openlibrary.org/b/id/6468730-M.jpg"
+  },
+  {
+    "title": "The Hunchback of Notre Dame",
+    "author": "Victor Hugo",
+    "genre": "Historical Fiction",
+    "cover_url": "https://covers.openlibrary.org/b/id/2626880-M.jpg"
+  },
+  {
+    "title": "Daisy Miller",
+    "author": "Henry James",
+    "genre": "Historical Fiction",
+    "cover_url": "https://covers.openlibrary.org/b/id/6482238-M.jpg"
+  },
+  {
+    "title": "The Scarlet Letter",
+    "author": "Nathaniel Hawthorne",
+    "genre": "Historical Fiction",
+    "cover_url": "https://covers.openlibrary.org/b/id/5654516-M.jpg"
+  },
+  {
+    "title": "Emma",
+    "author": "Jane Austen",
+    "genre": "Historical Fiction",
+    "cover_url": "https://covers.openlibrary.org/b/id/9278312-M.jpg"
+  },
+  {
+    "title": "The Last of the Mohicans",
+    "author": "James Fenimore Cooper",
+    "genre": "Historical Fiction",
+    "cover_url": "https://covers.openlibrary.org/b/id/8236937-M.jpg"
+  },
+  {
+    "title": "Three Men in a Boat (to say nothing of the dog)",
+    "author": "Jerome Klapka Jerome",
+    "genre": "Historical Fiction",
+    "cover_url": "https://covers.openlibrary.org/b/id/8243006-M.jpg"
+  },
+  {
+    "title": "Orlando",
+    "author": "Virginia Woolf",
+    "genre": "Historical Fiction",
+    "cover_url": "https://covers.openlibrary.org/b/id/3240273-M.jpg"
+  },
+  {
+    "title": "The Lost World",
+    "author": "Arthur Conan Doyle",
+    "genre": "Historical Fiction",
+    "cover_url": "https://covers.openlibrary.org/b/id/8231444-M.jpg"
+  },
+  {
+    "title": "Tender is the Night",
+    "author": "F. Scott Fitzgerald",
+    "genre": "Historical Fiction",
+    "cover_url": "https://covers.openlibrary.org/b/id/6984433-M.jpg"
+  },
+  {
+    "title": "Persuasion",
+    "author": "Jane Austen",
+    "genre": "Historical Fiction",
+    "cover_url": "https://covers.openlibrary.org/b/id/12824691-M.jpg"
+  },
+  {
+    "title": "The Portrait of a Lady",
+    "author": "Henry James",
+    "genre": "Historical Fiction",
+    "cover_url": "https://covers.openlibrary.org/b/id/8236992-M.jpg"
+  },
+  {
+    "title": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "genre": "Historical Fiction",
+    "cover_url": "https://covers.openlibrary.org/b/id/14348537-M.jpg"
+  },
+  {
+    "title": "Uncle Tom's Cabin",
+    "author": "Harriet Beecher Stowe",
+    "genre": "Historical Fiction",
+    "cover_url": "https://covers.openlibrary.org/b/id/12728198-M.jpg"
+  },
+  {
+    "title": "Oliver Twist",
+    "author": "Charles Dickens",
+    "genre": "Historical Fiction",
+    "cover_url": "https://covers.openlibrary.org/b/id/13300802-M.jpg"
+  },
+  {
+    "title": "Flatland",
+    "author": "Edwin Abbott Abbott",
+    "genre": "Historical Fiction",
+    "cover_url": "https://covers.openlibrary.org/b/id/10069547-M.jpg"
+  },
+  {
+    "title": "The Secret Agent",
+    "author": "Joseph Conrad",
+    "genre": "Historical Fiction",
+    "cover_url": "https://covers.openlibrary.org/b/id/8239401-M.jpg"
+  },
+  {
+    "title": "The Woman in White",
+    "author": "Wilkie Collins",
+    "genre": "Historical Fiction",
+    "cover_url": "https://covers.openlibrary.org/b/id/4684227-M.jpg"
+  },
+  {
+    "title": "This Side of Paradise",
+    "author": "F. Scott Fitzgerald",
+    "genre": "Historical Fiction",
+    "cover_url": "https://covers.openlibrary.org/b/id/8243609-M.jpg"
+  },
+  {
+    "title": "Siddhartha",
+    "author": "Hermann Hesse",
+    "genre": "Historical Fiction",
+    "cover_url": "https://covers.openlibrary.org/b/id/6562535-M.jpg"
+  },
+  {
+    "title": "The Time Machine",
+    "author": "H. G. Wells",
+    "genre": "Historical Fiction",
+    "cover_url": "https://covers.openlibrary.org/b/id/9009316-M.jpg"
+  },
+  {
+    "title": "The Jungle",
+    "author": "Upton Sinclair",
+    "genre": "Historical Fiction",
+    "cover_url": "https://covers.openlibrary.org/b/id/8231790-M.jpg"
+  },
+  {
+    "title": "Heidi",
+    "author": "Johanna Spyri",
+    "genre": "Historical Fiction",
+    "cover_url": "https://covers.openlibrary.org/b/id/2668686-M.jpg"
+  },
+  {
+    "title": "Anna Karenina",
+    "author": "Лев Толстой",
+    "genre": "Historical Fiction",
+    "cover_url": "https://covers.openlibrary.org/b/id/2560652-M.jpg"
+  },
+  {
+    "title": "Ethan Frome",
+    "author": "Edith Wharton",
+    "genre": "Historical Fiction",
+    "cover_url": "https://covers.openlibrary.org/b/id/8303480-M.jpg"
+  },
+  {
+    "title": "The Murder of Roger Ackroyd",
+    "author": "Agatha Christie",
+    "genre": "Historical Fiction",
+    "cover_url": "https://covers.openlibrary.org/b/id/13151356-M.jpg"
+  },
+  {
+    "title": "David Copperfield",
+    "author": "Charles Dickens",
+    "genre": "Historical Fiction",
+    "cover_url": "https://covers.openlibrary.org/b/id/1048892-M.jpg"
+  },
+  {
+    "title": "The Railway Children",
+    "author": "Edith Nesbit",
+    "genre": "Historical Fiction",
+    "cover_url": "https://covers.openlibrary.org/b/id/13241123-M.jpg"
+  },
+  {
+    "title": "And Then There Were None",
+    "author": "Agatha Christie",
+    "genre": "Historical Fiction",
+    "cover_url": "https://covers.openlibrary.org/b/id/11172296-M.jpg"
+  },
+  {
+    "title": "A Tale of Two Cities",
+    "author": "Charles Dickens",
+    "genre": "Historical Fiction",
+    "cover_url": "https://covers.openlibrary.org/b/id/13301713-M.jpg"
+  },
+  {
+    "title": "Sense and Sensibility",
+    "author": "Jane Austen",
+    "genre": "Historical Fiction",
+    "cover_url": "https://covers.openlibrary.org/b/id/9278292-M.jpg"
+  },
+  {
+    "title": "Black Beauty",
+    "author": "Anna Sewell",
+    "genre": "Historical Fiction",
+    "cover_url": "https://covers.openlibrary.org/b/id/5007492-M.jpg"
+  },
+  {
+    "title": "Nineteen Eighty-Four",
+    "author": "George Orwell",
+    "genre": "Historical Fiction",
+    "cover_url": "https://covers.openlibrary.org/b/id/9267242-M.jpg"
+  },
+  {
+    "title": "A Christmas Carol",
+    "author": "Charles Dickens",
+    "genre": "Historical Fiction",
+    "cover_url": "https://covers.openlibrary.org/b/id/13299222-M.jpg"
+  },
+  {
+    "title": "To the Lighthouse",
+    "author": "Virginia Woolf",
+    "genre": "Historical Fiction",
+    "cover_url": "https://covers.openlibrary.org/b/id/8231846-M.jpg"
+  },
+  {
+    "title": "Death on the Nile",
+    "author": "Agatha Christie",
+    "genre": "Historical Fiction",
+    "cover_url": "https://covers.openlibrary.org/b/id/14066646-M.jpg"
+  },
+  {
+    "title": "Il nome della rosa",
+    "author": "Umberto Eco",
+    "genre": "Historical Fiction",
+    "cover_url": "https://covers.openlibrary.org/b/id/8598263-M.jpg"
+  },
+  {
+    "title": "Wuthering Heights",
+    "author": "Emily Brontë",
+    "genre": "Historical Fiction",
+    "cover_url": "https://covers.openlibrary.org/b/id/12818862-M.jpg"
+  },
+  {
+    "title": "The life of Olaudah Equiano, or Gustavus Vassa, the African",
+    "author": "Olaudah Equiano",
+    "genre": "Biography",
+    "cover_url": "https://covers.openlibrary.org/b/id/2074044-M.jpg"
+  },
+  {
+    "title": "Autobiography of a Yogi",
+    "author": "Yogananda Paramahansa",
+    "genre": "Biography",
+    "cover_url": "https://covers.openlibrary.org/b/id/805448-M.jpg"
+  },
+  {
+    "title": "Lives",
+    "author": "Plutarch",
+    "genre": "Biography",
+    "cover_url": "https://covers.openlibrary.org/b/id/10679669-M.jpg"
+  },
+  {
+    "title": "Narrative of the life of Frederick Douglass",
+    "author": "Frederick Douglass",
+    "genre": "Biography",
+    "cover_url": "https://covers.openlibrary.org/b/id/8247724-M.jpg"
+  },
+  {
+    "title": "Les confessions",
+    "author": "Jean-Jacques Rousseau",
+    "genre": "Biography",
+    "cover_url": "https://covers.openlibrary.org/b/id/6371045-M.jpg"
+  },
+  {
+    "title": "Autobiography",
+    "author": "Benjamin Franklin",
+    "genre": "Biography",
+    "cover_url": "https://covers.openlibrary.org/b/id/5647361-M.jpg"
+  },
+  {
+    "title": "Up from Slavery",
+    "author": "Booker T. Washington",
+    "genre": "Biography",
+    "cover_url": "https://covers.openlibrary.org/b/id/119317-M.jpg"
+  },
+  {
+    "title": "Incidents in the life of a slave girl",
+    "author": "Harriet A. Jacobs",
+    "genre": "Biography",
+    "cover_url": "https://covers.openlibrary.org/b/id/411542-M.jpg"
+  },
+  {
+    "title": "An autobiography",
+    "author": "Mohandas Karamchand Gandhi",
+    "genre": "Biography",
+    "cover_url": "https://covers.openlibrary.org/b/id/108086-M.jpg"
+  },
+  {
+    "title": "Twelve years a slave",
+    "author": "Solomon Northup",
+    "genre": "Biography",
+    "cover_url": "https://covers.openlibrary.org/b/id/14856045-M.jpg"
+  },
+  {
+    "title": "Confessions",
+    "author": "Augustine of Hippo",
+    "genre": "Biography",
+    "cover_url": "https://covers.openlibrary.org/b/id/9022521-M.jpg"
+  },
+  {
+    "title": "Tuesdays with Morrie",
+    "author": "Mitch Albom",
+    "genre": "Biography",
+    "cover_url": "https://covers.openlibrary.org/b/id/12560417-M.jpg"
+  },
+  {
+    "title": "A Mind That Found Itself",
+    "author": "Clifford Whittingham Beers",
+    "genre": "Biography",
+    "cover_url": "https://covers.openlibrary.org/b/id/10857476-M.jpg"
+  },
+  {
+    "title": "Eyewitness",
+    "author": "DK Publishing",
+    "genre": "Biography",
+    "cover_url": "https://covers.openlibrary.org/b/id/552862-M.jpg"
+  },
+  {
+    "title": "Homage to Catalonia",
+    "author": "George Orwell",
+    "genre": "Biography",
+    "cover_url": "https://covers.openlibrary.org/b/id/7282177-M.jpg"
+  },
+  {
+    "title": "Walden",
+    "author": "Henry David Thoreau",
+    "genre": "Biography",
+    "cover_url": "https://covers.openlibrary.org/b/id/11248037-M.jpg"
+  },
+  {
+    "title": "Good wives",
+    "author": "Louisa May Alcott",
+    "genre": "Biography",
+    "cover_url": "https://covers.openlibrary.org/b/id/12147640-M.jpg"
+  },
+  {
+    "title": "... Trotzdem Ja zum Leben sagen",
+    "author": "Viktor E. Frankl",
+    "genre": "Biography",
+    "cover_url": "https://covers.openlibrary.org/b/id/8516506-M.jpg"
+  },
+  {
+    "title": "Poems by John Keats",
+    "author": "John Keats",
+    "genre": "Biography",
+    "cover_url": "https://covers.openlibrary.org/b/id/5635209-M.jpg"
+  },
+  {
+    "title": "The Pilgrim's Progress",
+    "author": "John Bunyan",
+    "genre": "Biography",
+    "cover_url": "https://covers.openlibrary.org/b/id/8229224-M.jpg"
+  },
+  {
+    "title": "Mein Kampf",
+    "author": "Adolf Hitler",
+    "genre": "Biography",
+    "cover_url": "https://covers.openlibrary.org/b/id/12724015-M.jpg"
+  },
+  {
+    "title": "Moralia",
+    "author": "Plutarch",
+    "genre": "Biography",
+    "cover_url": "https://covers.openlibrary.org/b/id/5788251-M.jpg"
+  },
+  {
+    "title": "Het Achterhuis",
+    "author": "Anne Frank",
+    "genre": "Biography",
+    "cover_url": "https://covers.openlibrary.org/b/id/8584021-M.jpg"
+  },
+  {
+    "title": "The Complete Life and Adventures of Santa Claus",
+    "author": "L. Frank Baum",
+    "genre": "Biography",
+    "cover_url": "https://covers.openlibrary.org/b/id/1979059-M.jpg"
+  },
+  {
+    "title": "The Razor's Edge",
+    "author": "William Somerset Maugham",
+    "genre": "Biography",
+    "cover_url": "https://covers.openlibrary.org/b/id/97505-M.jpg"
+  },
+  {
+    "title": "Tom Sawyer, Detective",
+    "author": "Mark Twain",
+    "genre": "Biography",
+    "cover_url": "https://covers.openlibrary.org/b/id/8923621-M.jpg"
+  },
+  {
+    "title": "Vincent van Gogh",
+    "author": "Vincent van Gogh",
+    "genre": "Biography",
+    "cover_url": "https://covers.openlibrary.org/b/id/4703873-M.jpg"
+  },
+  {
+    "title": "The Second World War",
+    "author": "Winston S. Churchill",
+    "genre": "Biography",
+    "cover_url": "https://covers.openlibrary.org/b/id/7347623-M.jpg"
+  },
+  {
+    "title": "Life on the Mississippi",
+    "author": "Mark Twain",
+    "genre": "Biography",
+    "cover_url": "https://covers.openlibrary.org/b/id/9164717-M.jpg"
+  },
+  {
+    "title": "Dubliners",
+    "author": "James Joyce",
+    "genre": "Biography",
+    "cover_url": "https://covers.openlibrary.org/b/id/8216412-M.jpg"
+  },
+  {
+    "title": "The Souls of Black Folk",
+    "author": "W. E. B. Du Bois",
+    "genre": "Biography",
+    "cover_url": "https://covers.openlibrary.org/b/id/6564090-M.jpg"
+  },
+  {
+    "title": "Max Ernst",
+    "author": "Max Ernst",
+    "genre": "Biography",
+    "cover_url": "https://covers.openlibrary.org/b/id/7879121-M.jpg"
+  },
+  {
+    "title": "Henry Moore",
+    "author": "David Sylvester",
+    "genre": "Biography",
+    "cover_url": "https://covers.openlibrary.org/b/id/1604103-M.jpg"
+  },
+  {
+    "title": "Bambi (First Colouring Tall)",
+    "author": "Felix Salten",
+    "genre": "Biography",
+    "cover_url": "https://covers.openlibrary.org/b/id/7153939-M.jpg"
+  },
+  {
+    "title": "Paradise Lost",
+    "author": "John Milton",
+    "genre": "Biography",
+    "cover_url": "https://covers.openlibrary.org/b/id/5992814-M.jpg"
+  },
+  {
+    "title": "Little House in the Big Woods",
+    "author": "Laura Ingalls Wilder",
+    "genre": "Biography",
+    "cover_url": "https://covers.openlibrary.org/b/id/28677-M.jpg"
+  },
+  {
+    "title": "The Travels of Marco Polo",
+    "author": "Marco Polo",
+    "genre": "Biography",
+    "cover_url": "https://covers.openlibrary.org/b/id/8237917-M.jpg"
+  },
+  {
+    "title": "Les fleurs du mal",
+    "author": "Charles Baudelaire",
+    "genre": "Biography",
+    "cover_url": "https://covers.openlibrary.org/b/id/8236412-M.jpg"
+  },
+  {
+    "title": "Sonnets",
+    "author": "William Shakespeare",
+    "genre": "Biography",
+    "cover_url": "https://covers.openlibrary.org/b/id/8222090-M.jpg"
+  },
+  {
+    "title": "King Henry V",
+    "author": "William Shakespeare",
+    "genre": "Biography",
+    "cover_url": "https://covers.openlibrary.org/b/id/7420215-M.jpg"
+  },
+  {
+    "title": "Manifest der Kommunistischen Partei",
+    "author": "Karl Marx",
+    "genre": "Biography",
+    "cover_url": "https://covers.openlibrary.org/b/id/11048623-M.jpg"
+  },
+  {
+    "title": "Black Beauty",
+    "author": "Anna Sewell",
+    "genre": "Biography",
+    "cover_url": "https://covers.openlibrary.org/b/id/5007492-M.jpg"
+  },
+  {
+    "title": "John Donne Poetry",
+    "author": "John Donne",
+    "genre": "Biography",
+    "cover_url": "https://covers.openlibrary.org/b/id/8238738-M.jpg"
+  },
+  {
+    "title": "Paul Klee",
+    "author": "Paul Klee",
+    "genre": "Biography",
+    "cover_url": "https://covers.openlibrary.org/b/id/13174486-M.jpg"
+  },
+  {
+    "title": "Ab urbe condita",
+    "author": "Titus Livius",
+    "genre": "Biography",
+    "cover_url": "https://covers.openlibrary.org/b/id/6657951-M.jpg"
+  },
+  {
+    "title": "A Farewell to Arms",
+    "author": "Ernest Hemingway",
+    "genre": "Biography",
+    "cover_url": "https://covers.openlibrary.org/b/id/7226599-M.jpg"
+  },
+  {
+    "title": "Anne of Green Gables",
+    "author": "Lucy Maud Montgomery",
+    "genre": "Biography",
+    "cover_url": "https://covers.openlibrary.org/b/id/14641084-M.jpg"
+  },
+  {
+    "title": "Leaves of Grass",
+    "author": "Walt Whitman",
+    "genre": "Biography",
+    "cover_url": "https://covers.openlibrary.org/b/id/9000447-M.jpg"
+  },
+  {
+    "title": "The Jungle Book",
+    "author": "Rudyard Kipling",
+    "genre": "Biography",
+    "cover_url": "https://covers.openlibrary.org/b/id/3344204-M.jpg"
+  },
+  {
+    "title": "Plays (36)",
+    "author": "William Shakespeare",
+    "genre": "Biography",
+    "cover_url": "https://covers.openlibrary.org/b/id/9023411-M.jpg"
+  },
+  {
+    "title": "Picasso",
+    "author": "Pablo Picasso",
+    "genre": "Biography",
+    "cover_url": "https://covers.openlibrary.org/b/id/2238306-M.jpg"
+  },
+  {
+    "title": "The Canterbury Tales",
+    "author": "Geoffrey Chaucer",
+    "genre": "Biography",
+    "cover_url": "https://covers.openlibrary.org/b/id/5767180-M.jpg"
+  },
+  {
+    "title": "Works [37 plays, 6 poems, sonnets]",
+    "author": "William Shakespeare",
+    "genre": "Biography",
+    "cover_url": "https://covers.openlibrary.org/b/id/8779054-M.jpg"
+  },
+  {
+    "title": "Don Quixote",
+    "author": "Miguel de Cervantes Saavedra",
+    "genre": "Biography",
+    "cover_url": "https://covers.openlibrary.org/b/id/14428305-M.jpg"
+  },
+  {
+    "title": "The Prince",
+    "author": "Niccolò Machiavelli",
+    "genre": "Biography",
+    "cover_url": "https://covers.openlibrary.org/b/id/12726168-M.jpg"
+  },
+  {
+    "title": "Julius Caesar",
+    "author": "William Shakespeare",
+    "genre": "Biography",
+    "cover_url": "https://covers.openlibrary.org/b/id/7901303-M.jpg"
+  },
+  {
+    "title": "Gulliver's Travels",
+    "author": "Jonathan Swift",
+    "genre": "Biography",
+    "cover_url": "https://covers.openlibrary.org/b/id/12717083-M.jpg"
+  },
+  {
+    "title": "Bible",
+    "author": "Bible",
+    "genre": "Biography",
+    "cover_url": "https://covers.openlibrary.org/b/id/12707846-M.jpg"
+  },
+  {
+    "title": "Gorin no sho",
+    "author": "Miyamoto Musashi",
+    "genre": "Biography",
+    "cover_url": "https://covers.openlibrary.org/b/id/6621293-M.jpg"
+  },
+  {
+    "title": "Essais",
+    "author": "Montaigne, Michel de",
+    "genre": "Biography",
+    "cover_url": "https://covers.openlibrary.org/b/id/104154-M.jpg"
+  },
+  {
+    "title": "American notes",
+    "author": "Charles Dickens",
+    "genre": "Biography",
+    "cover_url": "https://covers.openlibrary.org/b/id/8236357-M.jpg"
+  },
+  {
+    "title": "Lord Jim",
+    "author": "Joseph Conrad",
+    "genre": "Biography",
+    "cover_url": "https://covers.openlibrary.org/b/id/8236295-M.jpg"
+  },
+  {
+    "title": "Van Gogh",
+    "author": "Federico Zeri",
+    "genre": "Biography",
+    "cover_url": "https://covers.openlibrary.org/b/id/773443-M.jpg"
+  },
+  {
+    "title": "The works of Washington Irving",
+    "author": "Washington Irving",
+    "genre": "Biography",
+    "cover_url": "https://covers.openlibrary.org/b/id/8242347-M.jpg"
+  },
+  {
+    "title": "Leonardo",
+    "author": "Leonardo da Vinci",
+    "genre": "Biography",
+    "cover_url": "https://covers.openlibrary.org/b/id/919361-M.jpg"
+  },
+  {
+    "title": "Way to wealth",
+    "author": "Benjamin Franklin",
+    "genre": "Biography",
+    "cover_url": "https://covers.openlibrary.org/b/id/6112107-M.jpg"
+  },
+  {
+    "title": "Diary",
+    "author": "Samuel Pepys",
+    "genre": "Biography",
+    "cover_url": "https://covers.openlibrary.org/b/id/12742285-M.jpg"
+  },
+  {
+    "title": "Goethe's Werke",
+    "author": "Johann Wolfgang von Goethe",
+    "genre": "Biography",
+    "cover_url": "https://covers.openlibrary.org/b/id/5760460-M.jpg"
+  },
+  {
+    "title": "Briefe an einen jungen Dichter",
+    "author": "Rainer Maria Rilke",
+    "genre": "Biography",
+    "cover_url": "https://covers.openlibrary.org/b/id/6874224-M.jpg"
+  },
+  {
+    "title": "Roughing It",
+    "author": "Mark Twain",
+    "genre": "Biography",
+    "cover_url": "https://covers.openlibrary.org/b/id/9165528-M.jpg"
+  },
+  {
+    "title": "Briefe an Milena",
+    "author": "Franz Kafka",
+    "genre": "Biography",
+    "cover_url": "https://covers.openlibrary.org/b/id/4066124-M.jpg"
+  },
+  {
+    "title": "Andy Warhol",
+    "author": "Andy Warhol",
+    "genre": "Biography",
+    "cover_url": "https://covers.openlibrary.org/b/id/1027207-M.jpg"
+  },
+  {
+    "title": "Marc Chagall",
+    "author": "Marc Chagall",
+    "genre": "Biography",
+    "cover_url": "https://covers.openlibrary.org/b/id/723472-M.jpg"
+  },
+  {
+    "title": "Terre des hommes",
+    "author": "Antoine de Saint-Exupéry",
+    "genre": "Biography",
+    "cover_url": "https://covers.openlibrary.org/b/id/967072-M.jpg"
+  },
+  {
+    "title": "The Crucible",
+    "author": "Arthur Miller",
+    "genre": "Biography",
+    "cover_url": "https://covers.openlibrary.org/b/id/8431392-M.jpg"
+  },
+  {
+    "title": "Ben Hur",
+    "author": "Lew Wallace",
+    "genre": "Biography",
+    "cover_url": "https://covers.openlibrary.org/b/id/6456470-M.jpg"
+  },
+  {
+    "title": "Vol de nuit",
+    "author": "Antoine de Saint-Exupéry",
+    "genre": "Biography",
+    "cover_url": "https://covers.openlibrary.org/b/id/116397-M.jpg"
+  },
+  {
+    "title": "Picasso",
+    "author": "William S. Lieberman",
+    "genre": "Biography",
+    "cover_url": "https://covers.openlibrary.org/b/id/2238081-M.jpg"
+  },
+  {
+    "title": "The Tenant of Wildfell Hall",
+    "author": "Anne Brontë",
+    "genre": "Biography",
+    "cover_url": "https://covers.openlibrary.org/b/id/1023552-M.jpg"
+  },
+  {
+    "title": "Exercitia spiritualia",
+    "author": "Saint Ignatius of Loyola",
+    "genre": "Biography",
+    "cover_url": "https://covers.openlibrary.org/b/id/8027976-M.jpg"
+  },
+  {
+    "title": "Zen and the Art of Motorcycle Maintenance",
+    "author": "Robert M. Pirsig",
+    "genre": "Biography",
+    "cover_url": "https://covers.openlibrary.org/b/id/10673266-M.jpg"
+  },
+  {
+    "title": "Captains Courageous",
+    "author": "Rudyard Kipling",
+    "genre": "Biography",
+    "cover_url": "https://covers.openlibrary.org/b/id/12819857-M.jpg"
+  },
+  {
+    "title": "Saint Francis of Assisi",
+    "author": "Gilbert Keith Chesterton",
+    "genre": "Biography",
+    "cover_url": "https://covers.openlibrary.org/b/id/502618-M.jpg"
+  },
+  {
+    "title": "Edvard Munch",
+    "author": "Edvard Munch",
+    "genre": "Biography",
+    "cover_url": "https://covers.openlibrary.org/b/id/6748093-M.jpg"
+  },
+  {
+    "title": "I Know Why the Caged Bird Sings",
+    "author": "Maya Angelou",
+    "genre": "Biography",
+    "cover_url": "https://covers.openlibrary.org/b/id/9367075-M.jpg"
+  },
+  {
+    "title": "Abraham Lincoln",
+    "author": "Carl Sandburg",
+    "genre": "Biography",
+    "cover_url": "https://covers.openlibrary.org/b/id/2560515-M.jpg"
+  },
+  {
+    "title": "The complete poetical works",
+    "author": "Robert Burns",
+    "genre": "Biography",
+    "cover_url": "https://covers.openlibrary.org/b/id/9048263-M.jpg"
+  },
+  {
+    "title": "Boy",
+    "author": "Roald Dahl",
+    "genre": "Biography",
+    "cover_url": "https://covers.openlibrary.org/b/id/8232489-M.jpg"
+  },
+  {
+    "title": "On Writing",
+    "author": "Stephen King",
+    "genre": "Biography",
+    "cover_url": "https://covers.openlibrary.org/b/id/9255939-M.jpg"
+  },
+  {
+    "title": "Quo Vadis?",
+    "author": "Henryk Sienkiewicz",
+    "genre": "Biography",
+    "cover_url": "https://covers.openlibrary.org/b/id/8238855-M.jpg"
+  },
+  {
+    "title": "A Tramp Abroad",
+    "author": "Mark Twain",
+    "genre": "Biography",
+    "cover_url": "https://covers.openlibrary.org/b/id/9168741-M.jpg"
+  },
+  {
+    "title": "Down and Out in Paris and London",
+    "author": "George Orwell",
+    "genre": "Biography",
+    "cover_url": "https://covers.openlibrary.org/b/id/5539329-M.jpg"
+  },
+  {
+    "title": "Heretics",
+    "author": "Gilbert Keith Chesterton",
+    "genre": "Biography",
+    "cover_url": "https://covers.openlibrary.org/b/id/1754959-M.jpg"
+  },
+  {
+    "title": "The Magician",
+    "author": "William Somerset Maugham",
+    "genre": "Biography",
+    "cover_url": "https://covers.openlibrary.org/b/id/2789948-M.jpg"
+  },
+  {
+    "title": "Robin Hood",
+    "author": "Howard Pyle",
+    "genre": "Adventure",
+    "cover_url": "https://covers.openlibrary.org/b/id/5913135-M.jpg"
+  },
+  {
+    "title": "Voyage au Centre de la Terre",
+    "author": "Jules Verne",
+    "genre": "Adventure",
+    "cover_url": "https://covers.openlibrary.org/b/id/5890987-M.jpg"
+  },
+  {
+    "title": "King Solomon's Mines",
+    "author": "H. Rider Haggard",
+    "genre": "Adventure",
+    "cover_url": "https://covers.openlibrary.org/b/id/6861197-M.jpg"
+  },
+  {
+    "title": "Tom Sawyer, Detective",
+    "author": "Mark Twain",
+    "genre": "Adventure",
+    "cover_url": "https://covers.openlibrary.org/b/id/8923621-M.jpg"
+  },
+  {
+    "title": "Kidnapped",
+    "author": "Robert Louis Stevenson",
+    "genre": "Adventure",
+    "cover_url": "https://covers.openlibrary.org/b/id/8267822-M.jpg"
+  },
+  {
+    "title": "The Scarlet Pimpernel",
+    "author": "Emmuska Orczy, Baroness Orczy",
+    "genre": "Adventure",
+    "cover_url": "https://covers.openlibrary.org/b/id/479102-M.jpg"
+  },
+  {
+    "title": "Le Comte de Monte Cristo",
+    "author": "Alexandre Dumas",
+    "genre": "Adventure",
+    "cover_url": "https://covers.openlibrary.org/b/id/14566393-M.jpg"
+  },
+  {
+    "title": "Les Trois Mousquetaires",
+    "author": "Alexandre Dumas",
+    "genre": "Adventure",
+    "cover_url": "https://covers.openlibrary.org/b/id/11929973-M.jpg"
+  },
+  {
+    "title": "Kim",
+    "author": "Rudyard Kipling",
+    "genre": "Adventure",
+    "cover_url": "https://covers.openlibrary.org/b/id/1053011-M.jpg"
+  },
+  {
+    "title": "Just So Stories",
+    "author": "Rudyard Kipling",
+    "genre": "Adventure",
+    "cover_url": "https://covers.openlibrary.org/b/id/36215-M.jpg"
+  },
+  {
+    "title": "The Prince and the Pauper",
+    "author": "Mark Twain",
+    "genre": "Adventure",
+    "cover_url": "https://covers.openlibrary.org/b/id/8221267-M.jpg"
+  },
+  {
+    "title": "The First Men in the Moon",
+    "author": "H. G. Wells",
+    "genre": "Adventure",
+    "cover_url": "https://covers.openlibrary.org/b/id/8081288-M.jpg"
+  },
+  {
+    "title": "The Silver Chair",
+    "author": "C.S. Lewis",
+    "genre": "Adventure",
+    "cover_url": "https://covers.openlibrary.org/b/id/6950992-M.jpg"
+  },
+  {
+    "title": "Treasure Island",
+    "author": "Robert Louis Stevenson",
+    "genre": "Adventure",
+    "cover_url": "https://covers.openlibrary.org/b/id/13859660-M.jpg"
+  },
+  {
+    "title": "White Fang",
+    "author": "Jack London",
+    "genre": "Adventure",
+    "cover_url": "https://covers.openlibrary.org/b/id/8236920-M.jpg"
+  },
+  {
+    "title": "Tik-Tok of Oz",
+    "author": "L. Frank Baum",
+    "genre": "Adventure",
+    "cover_url": "https://covers.openlibrary.org/b/id/8243277-M.jpg"
+  },
+  {
+    "title": "Vingt mille lieues sous les mers",
+    "author": "Jules Verne",
+    "genre": "Adventure",
+    "cover_url": "https://covers.openlibrary.org/b/id/6573517-M.jpg"
+  },
+  {
+    "title": "Robinson Crusoe",
+    "author": "Daniel Defoe",
+    "genre": "Adventure",
+    "cover_url": "https://covers.openlibrary.org/b/id/8783768-M.jpg"
+  },
+  {
+    "title": "The Adventures of Tom Sawyer",
+    "author": "Mark Twain",
+    "genre": "Adventure",
+    "cover_url": "https://covers.openlibrary.org/b/id/12043351-M.jpg"
+  },
+  {
+    "title": "Pickwick Papers",
+    "author": "Charles Dickens",
+    "genre": "Adventure",
+    "cover_url": "https://covers.openlibrary.org/b/id/13130696-M.jpg"
+  },
+  {
+    "title": "Le Tour du Monde en Quatre-Vingts Jours",
+    "author": "Jules Verne",
+    "genre": "Adventure",
+    "cover_url": "https://covers.openlibrary.org/b/id/6976035-M.jpg"
+  },
+  {
+    "title": "The water-babies",
+    "author": "Charles Kingsley",
+    "genre": "Adventure",
+    "cover_url": "https://covers.openlibrary.org/b/id/8785097-M.jpg"
+  },
+  {
+    "title": "The Hitch Hiker's Guide to the Galaxy",
+    "author": "Douglas Adams",
+    "genre": "Adventure",
+    "cover_url": "https://covers.openlibrary.org/b/id/12986869-M.jpg"
+  },
+  {
+    "title": "The Lion, the Witch and the Wardrobe",
+    "author": "C.S. Lewis",
+    "genre": "Adventure",
+    "cover_url": "https://covers.openlibrary.org/b/id/8441376-M.jpg"
+  },
+  {
+    "title": "Alice's Adventures in Wonderland / Through the Looking Glass",
+    "author": "Lewis Carroll",
+    "genre": "Adventure",
+    "cover_url": "https://covers.openlibrary.org/b/id/8595966-M.jpg"
+  },
+  {
+    "title": "The Voyage of the Dawn Treader",
+    "author": "C.S. Lewis",
+    "genre": "Adventure",
+    "cover_url": "https://covers.openlibrary.org/b/id/9184719-M.jpg"
+  },
+  {
+    "title": "The Horse and His Boy",
+    "author": "C.S. Lewis",
+    "genre": "Adventure",
+    "cover_url": "https://covers.openlibrary.org/b/id/9184792-M.jpg"
+  },
+  {
+    "title": "The Lost World",
+    "author": "Arthur Conan Doyle",
+    "genre": "Adventure",
+    "cover_url": "https://covers.openlibrary.org/b/id/8231444-M.jpg"
+  },
+  {
+    "title": "The Jungle Book",
+    "author": "Rudyard Kipling",
+    "genre": "Adventure",
+    "cover_url": "https://covers.openlibrary.org/b/id/3344204-M.jpg"
+  },
+  {
+    "title": "The Last Battle",
+    "author": "C.S. Lewis",
+    "genre": "Adventure",
+    "cover_url": "https://covers.openlibrary.org/b/id/6529226-M.jpg"
+  },
+  {
+    "title": "The Call of the Wild",
+    "author": "Jack London",
+    "genre": "Adventure",
+    "cover_url": "https://covers.openlibrary.org/b/id/12393037-M.jpg"
+  },
+  {
+    "title": "The Devil's Dictionary",
+    "author": "Ambrose Bierce",
+    "genre": "Adventure",
+    "cover_url": "https://covers.openlibrary.org/b/id/12671319-M.jpg"
+  },
+  {
+    "title": "The Last of the Mohicans",
+    "author": "James Fenimore Cooper",
+    "genre": "Adventure",
+    "cover_url": "https://covers.openlibrary.org/b/id/8236937-M.jpg"
+  },
+  {
+    "title": "We're Going on a Bear Hunt",
+    "author": "Michael Rosen",
+    "genre": "Adventure",
+    "cover_url": "https://covers.openlibrary.org/b/id/433694-M.jpg"
+  },
+  {
+    "title": "The Story of the Amulet",
+    "author": "Edith Nesbit",
+    "genre": "Adventure",
+    "cover_url": "https://covers.openlibrary.org/b/id/13241470-M.jpg"
+  },
+  {
+    "title": "Where the Wild Things Are",
+    "author": "Maurice Sendak",
+    "genre": "Adventure",
+    "cover_url": "https://covers.openlibrary.org/b/id/50842-M.jpg"
+  },
+  {
+    "title": "The Riddle of the Sands",
+    "author": "Erskine Childers",
+    "genre": "Adventure",
+    "cover_url": "https://covers.openlibrary.org/b/id/2293974-M.jpg"
+  },
+  {
+    "title": "Moby Dick",
+    "author": "Herman Melville",
+    "genre": "Adventure",
+    "cover_url": "https://covers.openlibrary.org/b/id/10544254-M.jpg"
+  },
+  {
+    "title": "Prince Caspian",
+    "author": "C.S. Lewis",
+    "genre": "Adventure",
+    "cover_url": "https://covers.openlibrary.org/b/id/45897-M.jpg"
+  },
+  {
+    "title": "Adventures of Huckleberry Finn",
+    "author": "Mark Twain",
+    "genre": "Adventure",
+    "cover_url": "https://covers.openlibrary.org/b/id/8157718-M.jpg"
+  },
+  {
+    "title": "Lord of the Flies",
+    "author": "William Golding",
+    "genre": "Adventure",
+    "cover_url": "https://covers.openlibrary.org/b/id/8684447-M.jpg"
+  },
+  {
+    "title": "The War of the Worlds",
+    "author": "H. G. Wells",
+    "genre": "Adventure",
+    "cover_url": "https://covers.openlibrary.org/b/id/36314-M.jpg"
+  },
+  {
+    "title": "A Princess of Mars",
+    "author": "Edgar Rice Burroughs",
+    "genre": "Adventure",
+    "cover_url": "https://covers.openlibrary.org/b/id/207226-M.jpg"
+  },
+  {
+    "title": "The Giver",
+    "author": "Lois Lowry",
+    "genre": "Adventure",
+    "cover_url": "https://covers.openlibrary.org/b/id/8352502-M.jpg"
+  },
+  {
+    "title": "Daisy Miller",
+    "author": "Henry James",
+    "genre": "Adventure",
+    "cover_url": "https://covers.openlibrary.org/b/id/6482238-M.jpg"
+  },
+  {
+    "title": "The Magician's Nephew",
+    "author": "C.S. Lewis",
+    "genre": "Adventure",
+    "cover_url": "https://covers.openlibrary.org/b/id/1072931-M.jpg"
+  },
+  {
+    "title": "The Lost Symbol",
+    "author": "Dan Brown",
+    "genre": "Adventure",
+    "cover_url": "https://covers.openlibrary.org/b/id/8373389-M.jpg"
+  },
+  {
+    "title": "Through the Looking-Glass",
+    "author": "Lewis Carroll",
+    "genre": "Adventure",
+    "cover_url": "https://covers.openlibrary.org/b/id/11272464-M.jpg"
+  },
+  {
+    "title": "Alice's Adventures in Wonderland",
+    "author": "Lewis Carroll",
+    "genre": "Adventure",
+    "cover_url": "https://covers.openlibrary.org/b/id/10527843-M.jpg"
+  },
+  {
+    "title": "Charlie and the Great Glass Elevator",
+    "author": "Roald Dahl",
+    "genre": "Adventure",
+    "cover_url": "https://covers.openlibrary.org/b/id/7893583-M.jpg"
+  },
+  {
+    "title": "The Complete Life and Adventures of Santa Claus",
+    "author": "L. Frank Baum",
+    "genre": "Adventure",
+    "cover_url": "https://covers.openlibrary.org/b/id/1979059-M.jpg"
+  },
+  {
+    "title": "The Witches",
+    "author": "Roald Dahl",
+    "genre": "Adventure",
+    "cover_url": "https://covers.openlibrary.org/b/id/12374442-M.jpg"
+  },
+  {
+    "title": "The Wonderful Wizard of Oz",
+    "author": "L. Frank Baum",
+    "genre": "Adventure",
+    "cover_url": "https://covers.openlibrary.org/b/id/552443-M.jpg"
+  },
+  {
+    "title": "Pollyanna",
+    "author": "Eleanor Hodgman Porter",
+    "genre": "Adventure",
+    "cover_url": "https://covers.openlibrary.org/b/id/902113-M.jpg"
+  },
+  {
+    "title": "Northern Lights",
+    "author": "Philip Pullman",
+    "genre": "Adventure",
+    "cover_url": "https://covers.openlibrary.org/b/id/8747028-M.jpg"
+  },
+  {
+    "title": "Dorothy and the Wizard in Oz",
+    "author": "L. Frank Baum",
+    "genre": "Adventure",
+    "cover_url": "https://covers.openlibrary.org/b/id/12648659-M.jpg"
+  },
+  {
+    "title": "Angels & Demons",
+    "author": "Dan Brown",
+    "genre": "Adventure",
+    "cover_url": "https://covers.openlibrary.org/b/id/11408459-M.jpg"
+  },
+  {
+    "title": "Black Beauty",
+    "author": "Anna Sewell",
+    "genre": "Adventure",
+    "cover_url": "https://covers.openlibrary.org/b/id/5007492-M.jpg"
+  },
+  {
+    "title": "The Silmarillion",
+    "author": "J.R.R. Tolkien",
+    "genre": "Adventure",
+    "cover_url": "https://covers.openlibrary.org/b/id/14627042-M.jpg"
+  },
+  {
+    "title": "Peter Pan",
+    "author": "J. M. Barrie",
+    "genre": "Adventure",
+    "cover_url": "https://covers.openlibrary.org/b/id/8237052-M.jpg"
+  },
+  {
+    "title": "The Secret Adversary",
+    "author": "Agatha Christie",
+    "genre": "Adventure",
+    "cover_url": "https://covers.openlibrary.org/b/id/14590159-M.jpg"
+  },
+  {
+    "title": "The Fellowship of the Ring",
+    "author": "J.R.R. Tolkien",
+    "genre": "Adventure",
+    "cover_url": "https://covers.openlibrary.org/b/id/14627060-M.jpg"
+  },
+  {
+    "title": "Le petit prince",
+    "author": "Antoine de Saint-Exupéry",
+    "genre": "Adventure",
+    "cover_url": "https://covers.openlibrary.org/b/id/10708272-M.jpg"
+  },
+  {
+    "title": "The Man in the Brown Suit",
+    "author": "Agatha Christie",
+    "genre": "Adventure",
+    "cover_url": "https://covers.openlibrary.org/b/id/11153508-M.jpg"
+  },
+  {
+    "title": "Wind in the Willows",
+    "author": "Kenneth Grahame",
+    "genre": "Adventure",
+    "cover_url": "https://covers.openlibrary.org/b/id/13335427-M.jpg"
+  },
+  {
+    "title": "Harry Potter and the Philosopher's Stone",
+    "author": "J. K. Rowling",
+    "genre": "Adventure",
+    "cover_url": "https://covers.openlibrary.org/b/id/10521270-M.jpg"
+  },
+  {
+    "title": "Gulliver's Travels",
+    "author": "Jonathan Swift",
+    "genre": "Adventure",
+    "cover_url": "https://covers.openlibrary.org/b/id/12717083-M.jpg"
+  },
+  {
+    "title": "The Marvelous Land of Oz",
+    "author": "L. Frank Baum",
+    "genre": "Adventure",
+    "cover_url": "https://covers.openlibrary.org/b/id/12648656-M.jpg"
+  },
+  {
+    "title": "Don Quixote",
+    "author": "Miguel de Cervantes Saavedra",
+    "genre": "Adventure",
+    "cover_url": "https://covers.openlibrary.org/b/id/14428305-M.jpg"
+  },
+  {
+    "title": "Harry Potter and the Chamber of Secrets",
+    "author": "J. K. Rowling",
+    "genre": "Adventure",
+    "cover_url": "https://covers.openlibrary.org/b/id/8392798-M.jpg"
+  },
+  {
+    "title": "Harry Potter and the Goblet of Fire",
+    "author": "J. K. Rowling",
+    "genre": "Adventure",
+    "cover_url": "https://covers.openlibrary.org/b/id/12059372-M.jpg"
+  },
+  {
+    "title": "The Railway Children",
+    "author": "Edith Nesbit",
+    "genre": "Adventure",
+    "cover_url": "https://covers.openlibrary.org/b/id/13241123-M.jpg"
+  },
+  {
+    "title": "The Tale of Peter Rabbit",
+    "author": "Beatrix Potter",
+    "genre": "Adventure",
+    "cover_url": "https://covers.openlibrary.org/b/id/2557658-M.jpg"
+  },
+  {
+    "title": "A Wrinkle in Time",
+    "author": "Madeleine L'Engle",
+    "genre": "Adventure",
+    "cover_url": "https://covers.openlibrary.org/b/id/8709146-M.jpg"
+  },
+  {
+    "title": "Harry Potter and the Prisoner of Azkaban",
+    "author": "J. K. Rowling",
+    "genre": "Adventure",
+    "cover_url": "https://covers.openlibrary.org/b/id/10580435-M.jpg"
+  },
+  {
+    "title": "The Thirty-Nine Steps",
+    "author": "John Buchan",
+    "genre": "Adventure",
+    "cover_url": "https://covers.openlibrary.org/b/id/93020-M.jpg"
+  },
+  {
+    "title": "Le avventure di Pinocchio",
+    "author": "Carlo Collodi",
+    "genre": "Adventure",
+    "cover_url": "https://covers.openlibrary.org/b/id/8597022-M.jpg"
+  },
+  {
+    "title": "The Valley of Fear",
+    "author": "Arthur Conan Doyle",
+    "genre": "Adventure",
+    "cover_url": "https://covers.openlibrary.org/b/id/8350377-M.jpg"
+  },
+  {
+    "title": "A Study in Scarlet",
+    "author": "Arthur Conan Doyle",
+    "genre": "Adventure",
+    "cover_url": "https://covers.openlibrary.org/b/id/13405534-M.jpg"
+  },
+  {
+    "title": "Guess How Much I Love You",
+    "author": "Sam McBratney",
+    "genre": "Adventure",
+    "cover_url": "https://covers.openlibrary.org/b/id/13282906-M.jpg"
+  },
+  {
+    "title": "The BFG",
+    "author": "Roald Dahl",
+    "genre": "Adventure",
+    "cover_url": "https://covers.openlibrary.org/b/id/9176033-M.jpg"
+  },
+  {
+    "title": "His Last Bow [8 stories]",
+    "author": "Arthur Conan Doyle",
+    "genre": "Adventure",
+    "cover_url": "https://covers.openlibrary.org/b/id/8243267-M.jpg"
+  },
+  {
+    "title": "Les confessions",
+    "author": "Jean-Jacques Rousseau",
+    "genre": "Adventure",
+    "cover_url": "https://covers.openlibrary.org/b/id/6371045-M.jpg"
+  },
+  {
+    "title": "Flatland",
+    "author": "Edwin Abbott Abbott",
+    "genre": "Adventure",
+    "cover_url": "https://covers.openlibrary.org/b/id/10069547-M.jpg"
+  },
+  {
+    "title": "Five Children and It",
+    "author": "Edith Nesbit",
+    "genre": "Adventure",
+    "cover_url": "https://covers.openlibrary.org/b/id/28174-M.jpg"
+  },
+  {
+    "title": "The Turn of the Screw",
+    "author": "Henry James",
+    "genre": "Adventure",
+    "cover_url": "https://covers.openlibrary.org/b/id/181493-M.jpg"
+  },
+  {
+    "title": "The Hunger Games",
+    "author": "Suzanne Collins",
+    "genre": "Adventure",
+    "cover_url": "https://covers.openlibrary.org/b/id/12646537-M.jpg"
+  },
+  {
+    "title": "The Pilgrim's Progress",
+    "author": "John Bunyan",
+    "genre": "Adventure",
+    "cover_url": "https://covers.openlibrary.org/b/id/8229224-M.jpg"
+  },
+  {
+    "title": "The Return of the King",
+    "author": "J.R.R. Tolkien",
+    "genre": "Adventure",
+    "cover_url": "https://covers.openlibrary.org/b/id/14627062-M.jpg"
+  },
+  {
+    "title": "Charlie and the Chocolate Factory",
+    "author": "Roald Dahl",
+    "genre": "Adventure",
+    "cover_url": "https://covers.openlibrary.org/b/id/12459564-M.jpg"
+  },
+  {
+    "title": "Little Women",
+    "author": "Louisa May Alcott",
+    "genre": "Adventure",
+    "cover_url": "https://covers.openlibrary.org/b/id/8775559-M.jpg"
+  },
+  {
+    "title": "Three Men in a Boat (to say nothing of the dog)",
+    "author": "Jerome Klapka Jerome",
+    "genre": "Adventure",
+    "cover_url": "https://covers.openlibrary.org/b/id/8243006-M.jpg"
+  },
+  {
+    "title": "Harry Potter and the Order of the Phoenix",
+    "author": "J. K. Rowling",
+    "genre": "Adventure",
+    "cover_url": "https://covers.openlibrary.org/b/id/10523466-M.jpg"
+  }
+]

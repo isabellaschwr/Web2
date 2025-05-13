@@ -1,6 +1,7 @@
 # Web2
 
 Bücher Datenbank
+https://openlibrary.org/search.json?subject=sciencefiction&limit=100
 
 ## Setup
 
