@@ -1,9 +1,52 @@
-# Web2
+# Book Platform
 
-Bücher Datenbank
-https://openlibrary.org/search.json?subject=sciencefiction&limit=100
+## Project Structure
 
-## Setup
+WEB2/
+├── frontend/                     # Frontend client 
+│   ├── node_modules/              # Installed packages (npm install)
+│   ├── public/                    # Publicly accessible  files 
+│   ├── src/                       # Frontend source code
+│   ├── package.json               # List of frontend dependencies and scripts
+│
+├── mybooks/                       # Java Spring Boot backend API
+│   ├── .mvn/                      # Maven wrapper files
+│   ├── src/
+│   │   ├── main/
+│   │   │   ├── java/com/isabella/mybooks/
+│   │   │   │   ├── controller/    # API routes (e.g., /books, /add_user)
+│   │   │   │   ├── model/         # Data models (e.g., Book, User)
+│   │   │   │   ├── repository/    # Database access 
+│   │   │   │   │   ├── UserRepository.java         # Save and find users
+│   │   │   │   │   ├── ReviewRepository.java       # Save and get reviews by book title
+│   │   │   │   │   ├── ShelfEntryRepository.java   # Save and get shelf entries by username
+│   │   │   │   ├── service/                        # Business logic  
+│   │   │   │   │   ├── UserService.java            # Manage user creation and lookup
+│   │   │   │   │   ├── ReviewService.java          # Add and list reviews for books
+│   │   │   │   │   ├── ShelfEntryService.java      # Add and list books on user shelves
+│   │   │   │   └── MybooksApplication.java         # Main application entry point
+│   │   ├── resources/
+│   │   │   ├── application.properties     # Backend configuration (e.g., database connection)
+│   │   └── test/                          # Automated tests
+│   ├── pom.xml                            # Maven dependencies and project configuration
+│   └── README.md                          # Setup and usage instructions for the backend
+│
+├── data/                                  # Shared static data 
+│   └── book_data.json
+│
+└── README.md                              # Overview and instructions
+
+### How to Run the Backend
+
+1. Open a terminal.
+2. Navigate to `/mybooks/`.
+3. Run:
+   ```bash
+   ./mvnw spring-boot:run
+
+
+## Git
+
 
 1. Repository clonen
 
@@ -54,24 +97,6 @@ https://openlibrary.org/search.json?subject=sciencefiction&limit=100
 
 1. `http://localhost:3000` im Browser
 
-## Projektstruktur
-
-```text
-webapp/
-├── node_modules/        # Hier werden alle installierten Pakete gespeichert (automatisch durch npm install)
-├── src/
-│   ├── middleware/      # Programm-Module die vor jeder Anfrage ausgeführt werden (z.B. Login-Prüfung)
-│   ├── public/          # Öffentliche Dateien, die direkt im Browser verfügbar sind
-│   │   ├── css/         # Design-Dateien für das Aussehen der Webseite
-│   │   ├── js/          # Browser-Javascript für Interaktionen auf der Webseite
-│   │   └── images/      # Bilder und andere Medien für die Webseite
-│   ├── routes/          # Die verschiedenen Seiten/URLs der Webseite
-│   └── views/           # Wiederverwendbare Seitenvorlagen (z.B. für Kopf- und Fußzeilen)
-├── server.js            # Hauptdatei zum Starten des Servers und Festlegen der Webseiten-Adressen
-├── package.json         # Liste aller benötigten Programme/Pakete für das Projekt
-└── README.md            # Die Datei hier
-```
-
 ## Pushing to master
 
 1. Changes in den Commit adden
@@ -98,4 +123,76 @@ webapp/
     git push --force origin master
     ```
 
-    Origin ist der für die Remote-Connection und master ist der Branch, zu dem gepusht werden soll.
+Origin ist der für die Remote-Connection und master ist der Branch, zu dem gepusht werden soll.
+
+---
+
+## Running and Testing the Backend
+
+### Starting the Backend
+
+1. Open a terminal.
+2. Navigate to `/mybooks/`. (cd mybooks)
+3. Run the server:
+   ```bash
+   ./mvnw spring-boot:run
+   ```
+
+### If Port 8080 Is Blocked
+
+1. Check which process is using port 8080:
+   ```bash
+   lsof -i :8080
+   ```
+2. Find the **PID** in the second column.
+3. Kill the process:
+   ```bash
+   kill -9 <PID>
+   ```
+4. Restart the server:
+   ```bash
+   ./mvnw spring-boot:run
+   ```
+
+### Testing the API
+
+> Make sure the server is running. Open a **new terminal** for these commands.
+
+#### Add a User
+```bash
+curl -X POST http://localhost:8080/users \
+-H "Content-Type: application/json" \
+-d '{"username": "isabella", "email": "isa@example.com"}'
+```
+
+#### List All Users
+Visit in your browser:
+```
+http://localhost:8080/users
+```
+
+#### Post a Review
+```bash
+curl -X POST "http://localhost:8080/reviews?username=isabella" \
+-H "Content-Type: application/json" \
+-d '{"bookTitle": "1984", "rating": 5, "reviewText": "Loved it!"}'
+```
+
+#### List Reviews for a Book
+Visit in your browser:
+```
+http://localhost:8080/reviews/1984
+```
+
+#### Add a Book to a User’s Shelf
+```bash
+curl -X POST "http://localhost:8080/shelves?username=isabella" \
+-H "Content-Type: application/json" \
+-d '{"bookTitle": "1984", "shelfType": "want_to_read"}'
+```
+
+#### List User’s Shelf
+Visit in your browser:
+```
+http://localhost:8080/shelves/isabella
+```
