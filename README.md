@@ -3,38 +3,35 @@
 ## Project Structure
 
 WEB2/
-├── frontend/                     # Frontend client 
-│   ├── node_modules/              # Installed packages (npm install)
-│   ├── public/                    # Publicly accessible  files 
-│   ├── src/                       # Frontend source code
-│   ├── package.json               # List of frontend dependencies and scripts
-│
-├── mybooks/                       # Java Spring Boot backend API
-│   ├── .mvn/                      # Maven wrapper files
+├── frontend/                     # Frontend client
+│   ├── node_modules/             # Installed packages (npm install)
+│   ├── public/                   # Publicly accessible files
+│   ├── src/                      # Frontend source code
+│   └── package.json              # List of frontend dependencies and scripts
+├── mybooks/                      # Java Spring Boot backend API
+│   ├── .mvn/                     # Maven wrapper files
 │   ├── src/
 │   │   ├── main/
 │   │   │   ├── java/com/isabella/mybooks/
-│   │   │   │   ├── controller/    # API routes (e.g., /books, /add_user)
-│   │   │   │   ├── model/         # Data models (e.g., Book, User)
-│   │   │   │   ├── repository/    # Database access 
-│   │   │   │   │   ├── UserRepository.java         # Save and find users
-│   │   │   │   │   ├── ReviewRepository.java       # Save and get reviews by book title
-│   │   │   │   │   ├── ShelfEntryRepository.java   # Save and get shelf entries by username
-│   │   │   │   ├── service/                        # Business logic  
-│   │   │   │   │   ├── UserService.java            # Manage user creation and lookup
-│   │   │   │   │   ├── ReviewService.java          # Add and list reviews for books
-│   │   │   │   │   ├── ShelfEntryService.java      # Add and list books on user shelves
-│   │   │   │   └── MybooksApplication.java         # Main application entry point
-│   │   ├── resources/
-│   │   │   ├── application.properties     # Backend configuration (e.g., database connection)
-│   │   └── test/                          # Automated tests
-│   ├── pom.xml                            # Maven dependencies and project configuration
-│   └── README.md                          # Setup and usage instructions for the backend
-│
-├── data/                                  # Shared static data 
+│   │   │   │   ├── controller/               # API routes (e.g., /books, /add_user)
+│   │   │   │   ├── model/                    # Data models (e.g., Book, User)
+│   │   │   │   ├── repository/               # Database access
+│   │   │   │   │   ├── UserRepository.java   # Save and find users
+│   │   │   │   │   ├── ReviewRepository.java # Save and get reviews by book title
+│   │   │   │   │   └── ShelfEntryRepository.java # Save and get shelf entries by username
+│   │   │   │   ├── service/                  # Business logic
+│   │   │   │   │   ├── UserService.java      # Manage user creation and lookup
+│   │   │   │   │   ├── ReviewService.java    # Add and list reviews for books
+│   │   │   │   │   └── ShelfEntryService.java# Add and list books on user shelves
+│   │   │   │   └── MybooksApplication.java   # Main application entry point
+│   │   │   └── resources/
+│   │   │       └── application.properties    # Backend configuration (e.g., database connection)
+│   │   └── test/                             # Automated tests
+│   ├── pom.xml                               # Maven dependencies and project configuration
+│   └── README.md                             # Setup and usage instructions for the backend
+├── data/                                     # Shared static data
 │   └── book_data.json
-│
-└── README.md                              # Overview and instructions
+└── README.md                                 # Overview and instructions
 
 ### How to Run the Backend
 
