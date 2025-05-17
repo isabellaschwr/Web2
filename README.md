@@ -2,6 +2,7 @@
 
 ## Project Structure
 
+```text
 WEB2/
 ├── frontend/                     # Frontend client
 │   ├── node_modules/             # Installed packages (npm install)
@@ -32,6 +33,7 @@ WEB2/
 ├── data/                                     # Shared static data
 │   └── book_data.json
 └── README.md                                 # Overview and instructions
+```
 
 ### How to Run the Backend
 
