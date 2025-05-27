@@ -18,7 +18,7 @@ public class BookController {
         this.bookService = bookService;
     }
 
-    // Retrieve all books
+    // Show all books
     @GetMapping
     public List<Book> getAllBooks() {
         return bookService.getAllBooks();
@@ -30,7 +30,7 @@ public class BookController {
         return bookService.addBook(book);
     }
 
-    // Search and load books based on a search entry
+    // Search and load books based on a search entry (query)
     @GetMapping("/load-books")
     public List<Book> loadBooks(@RequestParam String query) {
         return bookService.loadBooksFromExternal(query);
