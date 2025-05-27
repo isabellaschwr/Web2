@@ -50,7 +50,7 @@ public List<Book> loadBooksFromExternal(String query) {
 
         if (coverUrl == null) continue;
         
-        Book book = new Book(title, author, publishYear, coverUrl, null);
+        Book book = new Book(title, author, publishYear, coverUrl, null, coverUrl);
         bookRepository.save(book);
         loadedBooks.add(book);
     }
