@@ -1,4 +1,7 @@
 import React from "react"
+import { getCurrentUsername } from "../../services/api"; 
+
+const username = getCurrentUsername();
 
 export const Heading = ({ title }) => {
   return (

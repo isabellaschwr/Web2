@@ -1,57 +1,45 @@
-import React, { useState } from "react";
+import React, { useEffect, useState } from "react";
 import { Heading } from "../common/Heading";
-import { books } from "../data/datas";
+import { fetchShelf, getCurrentUsername } from "../../services/api";
 
 export const Readlist = () => {
   const [readlist, setReadlist] = useState([]);
+  const username = getCurrentUsername();
 
-  const addToReadlist = (book) => {
-    if (!readlist.find((item) => item.id === book.id)) {
-      setReadlist([...readlist, book]);
+  useEffect(() => {
+    if (!username) {
+      console.warn("No username found. Please log in.");
+      return;
     }
-  };
+
+    fetchShelf(username)
+      .then(setReadlist)
+      .catch((err) => console.error("Failed to load shelf:", err));
+  }, [username]);
 
   return (
-    <>
-      <section className="about"
-      style={{
-          backgroundColor: "black",
-          backgroundSize: "cover",
-          backgroundRepeat: "no-repeat",
-          backgroundPosition: "center",
-          backgroundAttachment: "fixed",
-          height: "100vh",
-          width: "100%",
-          display: "flex",
-          justifyContent: "center",
-          alignItems: "center",
-          position: "relative",
-        }}>
-          
-
-        <div className="readlist-box1" style={{ flex: 1 }}>
-          <Heading title="Books" />
-        </div>
-
-
-        <div className="readlist-box2" style={{ flex: 1 }}>
-          <Heading title="Meine Readlist" />
-          {readlist.length === 0 ? (
-            <p>Keine Bücher hinzugefügt...</p>
-          ) : (
-            <ul>
-              {readlist.map((book) => (
-                <li key={book.id}>
-                  {book.title} von {book.author}
-                </li>
-              ))}
-            </ul>
-          )}
-        </div>
-      </section>
-    </>
+    <section className="about" style={{
+      backgroundColor: "black",
+      height: "100vh",
+      color: "white",
+      padding: "2rem"
+    }}>
+      <div className="readlist-box1">
+        <Heading title={`📚 ${username}'s Readlist`} />
+        {readlist.length === 0 ? (
+          <p>Keine Bücher hinzugefügt...</p>
+        ) : (
+          <ul>
+            {readlist.map((entry) => (
+              <li key={entry.id}>
+                {entry.bookTitle} — <i>{entry.shelfType}</i>
+              </li>
+            ))}
+          </ul>
+        )}
+      </div>
+    </section>
   );
 };
 
 export default Readlist;
-

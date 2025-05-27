@@ -3,6 +3,9 @@ import React, { useState } from "react"
 import { Link } from "react-router-dom"
 import { navlink } from "../data/datas"
 import logo from "../data/images/logo.PNG"
+import { getCurrentUsername } from "../../services/api"; 
+
+const username = getCurrentUsername();
 
 export const Header = () => {
   const [responsive, setResponsive] = useState(false)

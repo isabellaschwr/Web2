@@ -1,5 +1,8 @@
 import React from "react"
 import { social } from "../data/datas"
+import { getCurrentUsername } from "../../services/api"; 
+
+const username = getCurrentUsername();
 
 const Footer = () => {
   return (

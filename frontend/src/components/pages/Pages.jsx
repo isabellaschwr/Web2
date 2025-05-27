@@ -6,6 +6,9 @@ import { Home } from "../home/Home";
 import { About } from "./About";
 import { Readlist } from "./Readlist";
 import { Score } from "./Score";
+import { getCurrentUsername } from "../../services/api"; 
+
+const username = getCurrentUsername();
 
 const Pages = () => {
   return (

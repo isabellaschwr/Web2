@@ -1,6 +1,9 @@
 import React from "react";
 import { Heading } from "../common/Heading";
 import Typewriter from "typewriter-effect";
+import { getCurrentUsername } from "../../services/api"; 
+
+const username = getCurrentUsername();
 
 export const Score = () => {
 

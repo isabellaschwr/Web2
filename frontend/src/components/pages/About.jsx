@@ -2,6 +2,9 @@ import React from "react";
 import { useHistory } from "react-router-dom";
 import { Heading } from "../common/Heading";
 import { about } from "../data/datas";
+import { getCurrentUsername } from "../../services/api"; 
+
+const username = getCurrentUsername();
 
 export const About = () => {
   const history = useHistory();

@@ -1,4 +1,7 @@
 import { Settings, CropRotate, ViewInAr, PieChart, Code, BarChart, CloudOutlined, FavoriteBorder, Public, PersonOutlined, AddLocationAltOutlined, PhoneIphone, EmailOutlined, Facebook, Twitter, Instagram, YouTube } from "@mui/icons-material"
+import { getCurrentUsername } from "../../services/api"; 
+
+const username = getCurrentUsername();
 
 export const navlink = [
   {
@@ -16,6 +19,10 @@ export const navlink = [
     {
     url: "/score",
     text: "Score",
+  },
+  {
+    url: "/register",
+    text: "Register",
   },
  
 

@@ -48,6 +48,8 @@ public List<Book> loadBooksFromExternal(String query) {
                 : 0;
         String coverUrl = doc.has("cover_i") ? "https://covers.openlibrary.org/b/id/" + doc.getInt("cover_i") + "-M.jpg" : null;
 
+        if (coverUrl == null) continue;
+        
         Book book = new Book(title, author, publishYear, coverUrl, null);
         bookRepository.save(book);
         loadedBooks.add(book);
