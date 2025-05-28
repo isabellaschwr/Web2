@@ -195,3 +195,22 @@ Visit in your browser:
 ```
 http://localhost:8080/shelves/isabella
 ```
+
+
+## Testing Frontend and Backend together
+### Starting Backend
+
+1. Open a terminal.
+2. Navigate to `/mybooks/`. (cd mybooks)
+3. Run the server:
+   ```bash
+   ./mvnw spring-boot:run
+   ```
+### Starting Frontend
+1. Open a second terminal.
+2. Navigate to `/frontend/` (cd frontend)
+3. Run the server:
+   ```bash
+   npm start
+   ```
+
