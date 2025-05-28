@@ -82,6 +82,7 @@ export const Home = () => {
       <About />
       <Readlist />
       <Score />
+      
     </>
   );
 };

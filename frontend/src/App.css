@@ -383,6 +383,40 @@ footer i {
   margin-top: 10px;              
 }
 
+/*Register */
+.register {
+  background: rgba(0, 0, 0, 0.6);
+  width: 500px;
+  height: 300px;
+  padding: 20px;
+  border-radius: 16px;
+  box-shadow: 0 0 15px rgba(0, 0, 0, 0.3);
+  backdrop-filter: blur(4px);
+}
+
+.register input,
+.register button {
+  width: 100%;
+  padding: 10px;
+  font-size: 14px;
+  border-radius: 8px;
+  box-sizing: border-box;
+  margin-bottom: 12px;
+  border: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

@@ -13,8 +13,16 @@ export const navlink = [
     text: "About",
   },
    {
+    url: "/books",
+    text: "Books",
+  },
+   {
     url: "/readlist",
     text: "Readlist",
+  },
+     {
+    url: "/review",
+    text: "Review",
   },
     {
     url: "/score",
