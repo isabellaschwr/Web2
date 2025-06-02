@@ -57,7 +57,7 @@ export const Review = () => {
   return (
     <section className="review">
       <div className="container">
-        <Heading title="📚 Buch bewerten & Reviews lesen" />
+        <Heading title=" Buch bewerten & Reviews lesen" />
 
         <div className="my-6">
           <input

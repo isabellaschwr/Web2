@@ -325,6 +325,10 @@ footer i {
   width: calc(100% + 20px);
 }
 
+
+
+
+
 /* Score */
 
 .with-score {
@@ -405,23 +409,113 @@ footer i {
   border: none;
 }
 
+/*Books */
+.top-letter-bar {
+  position: sticky;
+  top: 0;
+  background-color: var(--secondaryBackground);
+  z-index: 10;
+  padding: 1rem;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.41rem;
+  border-bottom: 1px solid white;
+}
+
+.letter-button {
+  padding: 0.5rem 1rem;
+  border-radius: 10px;
+  border: none;
+  background-color: #eee;
+  color: #333;
+  cursor: pointer;
+}
+
+.letter-button.active {
+  background-color: var(--primaryColor);
+  color: #fff;
+}
+
+.book-section {
+  padding: 4rem;
+  background-color: var(--primaryBackground);
+}
+
+.book-grid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 2rem;
+  width: 100%;
+  align-items: stretch; 
+}
 
 
+.book-card {
+  width: 220px;
+  height: 100%;
+  height: 550px; 
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  padding: 1rem;
+  border-radius: 8px;
+  background-color: var(--secondaryBackground);
+  border: 1px solid #ccc;
+}
 
 
+.book-card img {
+  width: 100%;
+  height: 250px; 
+  object-fit: cover;
+  border-radius: 6px;
+  margin-bottom: 1rem;
+}
 
 
+.button-row {
+  display: flex;
+  justify-content: center;
+  gap: 0.5rem;
+  margin-top: auto;
+}
+
+.add-readlist-button,
+.read-visual-button {
+  padding: 0.4rem 0.6rem;
+  font-size: 0.85rem;
+  border-radius: 5px;
+  flex: 0 0 auto;        
+  min-width: 90px; 
+   border: 1.5px solid white;    
+}
+
+.add-readlist-button {
+  background-color: #bf5732;
+  color: white;
+}
+
+.read-visual-button {
+  background-color: #28a745;
+  color: white;
+}
 
 
+.search-bar {
+  padding: 1rem;
+  background-color: #f1f1f1;
+  text-align: center;
+  border-bottom: 1px solid #ccc;
+}
 
-
-
-
-
-
-
-
-
-
-
+.search-bar input {
+  padding: 0.5rem 1rem;
+  width: 60%;
+  max-width: 400px;
+  font-size: 1rem;
+  border: 1px solid #f1f1f1;
+  border-radius: 8px;
+  background-color: var(--primaryBackground);
+  color: #f1f1f1;
+}
 
