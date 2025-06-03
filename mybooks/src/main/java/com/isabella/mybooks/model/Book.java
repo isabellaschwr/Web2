@@ -17,7 +17,7 @@ public class Book {
     private int publishYear;
     private String coverUrl;
     private String description;
-    private String genre; // NEW: Genre of the book (e.g., "Fantasy", "Science Fiction")
+    private String genre; 
 
     public Book() {}
 
