@@ -13,7 +13,7 @@ const home = [
     name: "Literatur-Archiv",
     post: "Readinglists",
     design: "Reviews",
-    desc: "Entdecke die Welt der Literatur neu.",
+    desc: "Entdecke Klassiker wieder neu.",
   },
 ];
 
@@ -52,9 +52,7 @@ export const Home = () => {
               />
             </h1>
             <p data-aos="fade-left">{val.desc}</p>
-            <button className="primaryBtn" data-aos="fade-up-right">
-              go to score
-            </button>
+            <button onClick={() => history.push("/Readlist")}>go to readlist</button>
           </div>
         ))}
       </section>

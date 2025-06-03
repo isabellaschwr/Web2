@@ -9,6 +9,7 @@ export const Books = () => {
   const [searchTerm, setSearchTerm] = useState("");
   const [highlightedBooks, setHighlightedBooks] = useState([]);
 
+
   useEffect(() => {
     fetchBooks()
       .then(setBooks)
@@ -27,16 +28,16 @@ export const Books = () => {
     return matchesLetter;
   });
 
-  const handleAddToReadlist = async (bookTitle) => {
+  const handleAddToReadlist = async (bookTitle, bookId) => {
     const username = getCurrentUsername();
     if (!username) {
-      alert("Bitte zuerst registrieren oder einloggen.");
+      alert("Bitte zuerst registrieren um Zugriff bekommen.");
       return;
     }
 
     try {
       await addToShelf(username, bookTitle, "read");
-      alert(`„${bookTitle}“ wurde zur Readlist hinzugefügt.`);
+      setReadlistBooks((prev) => [...prev, bookId]); 
     } catch (error) {
       console.error("Fehler beim Hinzufügen zur Readlist:", error);
       alert("Fehler beim Hinzufügen.");
@@ -46,14 +47,13 @@ export const Books = () => {
   const handleMarkAsFinished = async (bookTitle, bookId) => {
   const username = getCurrentUsername();
   if (!username) {
-    alert("Zuerst einloggen.");
+    alert("Bitte zuerst registrieren um Zugriff bekommen.");
     return;
   }
 
   try {
     await addToShelf(username, bookTitle, "finished"); 
     setHighlightedBooks((prev) => [...prev, bookId]);  
-    alert(`„${bookTitle}“ wurde als 'gelesen' markiert.`);
   } catch (error) {
     console.error("Fehler beim Aktualisieren:", error);
     alert("Fehler beim Markieren");
@@ -100,14 +100,15 @@ export const Books = () => {
                 <p>{book.author}</p>
                 <div className="button-row">
                   <button
-                    onClick={() => handleAddToReadlist(book.title)}
+                    onClick={() => handleAddToReadlist(book.title, book.id)}
                     className="add-readlist-button"
                   >
                     +
                   </button>
                   <button
                     className="read-visual-button"
-                    onClick={() => handleMarkAsFinished(book.id)}
+                    onClick={() => handleMarkAsFinished(book.title, book.id)}
+
                   >
                     ✓
                   </button>

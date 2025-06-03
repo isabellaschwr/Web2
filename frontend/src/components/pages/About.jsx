@@ -23,8 +23,8 @@ export const About = () => {
               <p>{val.desc1}</p>
               <p>{val.desc2}</p>
               <button onClick={() => history.push("/readlist")}>Readlist</button>
-              <button className="primaryBtn" onClick={() => history.push("/score")}>
-                Score
+              <button className="primaryBtn" onClick={() => history.push("/books")}>
+                Books
               </button>
             </div>
           </React.Fragment>

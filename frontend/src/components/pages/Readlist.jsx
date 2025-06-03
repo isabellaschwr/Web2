@@ -8,13 +8,13 @@ export const Readlist = () => {
 
   useEffect(() => {
     if (!username) {
-      console.warn("No username found. Please log in.");
+      console.warn("Kein Username, Sie müssen sich zuerst einloggen.");
       return;
     }
 
     fetchShelf(username)
       .then(setReadlist)
-      .catch((err) => console.error("Failed to load shelf:", err));
+      .catch((err) => console.error("Fehlschalgen vom Laden:", err));
   }, [username]);
 
   return (
@@ -38,11 +38,11 @@ export const Readlist = () => {
               <li
                 key={entry.id}
                 style={{
-                  backgroundColor: entry.shelfType === "finished" ? "#e6f9e6" : "transparent",
-                  border: entry.shelfType === "finished" ? "2px solid #4caf50" : "1px solid gray",
+                  backgroundColor: entry.shelfType === "finished" ? " #4caf50" : "transparent",
+                  border: entry.shelfType === "finished" ? "2px #4caf50" : "1px solid gray",
                   padding: "0.5rem 1rem",
                   borderRadius: "8px",
-                  marginBottom: "0.5rem",
+                  marginBottom: "0.5rem", 
                   color: "white",
                 }}
               >
