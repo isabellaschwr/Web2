@@ -1,8 +1,6 @@
 import React, { useEffect, useState } from "react";
 import { Heading } from "../common/Heading";
 import { fetchShelf, getCurrentUsername } from "../../services/api";
-import Books from "./Books";
-
 
 export const Readlist = () => {
   const [readlist, setReadlist] = useState([]);
@@ -24,20 +22,32 @@ export const Readlist = () => {
       className="about"
       style={{
         backgroundColor: "black",
-        height: "100vh",
+        minHeight: "100vh",
         color: "white",
         padding: "2rem",
       }}
     >
       <div className="readlist-box1">
-        <Heading title={`${username}'s Readlist`} />
+        <Heading title={` ${username}'s Readlist`} />
+
         {readlist.length === 0 ? (
           <p>Keine Bücher hinzugefügt...</p>
         ) : (
-          <ul>
+          <ul style={{ listStyle: "none", padding: 0 }}>
             {readlist.map((entry) => (
-              <li key={entry.id}>
-                {entry.bookTitle} — <i>{entry.shelfType}</i>
+              <li
+                key={entry.id}
+                style={{
+                  backgroundColor: entry.shelfType === "finished" ? "#e6f9e6" : "transparent",
+                  border: entry.shelfType === "finished" ? "2px solid #4caf50" : "1px solid gray",
+                  padding: "0.5rem 1rem",
+                  borderRadius: "8px",
+                  marginBottom: "0.5rem",
+                  color: "white",
+                }}
+              >
+                <strong>{entry.bookTitle}</strong> —{" "}
+                <i style={{ color: "#ccc" }}>{entry.shelfType}</i>
               </li>
             ))}
           </ul>
@@ -48,3 +58,4 @@ export const Readlist = () => {
 };
 
 export default Readlist;
+

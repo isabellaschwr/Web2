@@ -6,7 +6,7 @@ import { Home } from "../home/Home";
 import { About } from "./About";
 import { Readlist } from "./Readlist";
 import { Review} from "./Review";
-import { Score } from "./Score";
+{/*import { Score } from "./Score"; */}
 import { Register } from "./Register";
 import { Books } from "./Books";
 

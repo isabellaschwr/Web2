@@ -10,7 +10,7 @@ const username = getCurrentUsername();
 const home = [
   {
     text: "Willkommen bei",
-    name: "Literatur-Score",
+    name: "Literatur-Archiv",
     post: "Readinglists",
     design: "Reviews",
     desc: "Entdecke die Welt der Literatur neu.",

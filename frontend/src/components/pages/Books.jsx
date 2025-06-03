@@ -43,9 +43,24 @@ export const Books = () => {
     }
   };
 
-  const handleHighlight = (bookId) => {
-    setHighlightedBooks((prev) => [...prev, bookId]);
-  };
+  const handleMarkAsFinished = async (bookTitle, bookId) => {
+  const username = getCurrentUsername();
+  if (!username) {
+    alert("Zuerst einloggen.");
+    return;
+  }
+
+  try {
+    await addToShelf(username, bookTitle, "finished"); 
+    setHighlightedBooks((prev) => [...prev, bookId]);  
+    alert(`„${bookTitle}“ wurde als 'gelesen' markiert.`);
+  } catch (error) {
+    console.error("Fehler beim Aktualisieren:", error);
+    alert("Fehler beim Markieren");
+  }
+};
+
+
 
   return (
     <>
@@ -92,7 +107,7 @@ export const Books = () => {
                   </button>
                   <button
                     className="read-visual-button"
-                    onClick={() => handleHighlight(book.id)}
+                    onClick={() => handleMarkAsFinished(book.id)}
                   >
                     ✓
                   </button>
