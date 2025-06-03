@@ -2,6 +2,9 @@
 
 ## Project Structure
 
+# Frontend: Sophie Lazarjan
+# Backend: Isabella Schwarz
+
 ```text
 WEB2/
 ├── frontend/                     # Frontend client

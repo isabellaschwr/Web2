@@ -38,7 +38,7 @@ public List<Book> loadBooksFromExternal(String query) {
 
     List<Book> loadedBooks = new ArrayList<>();
 
-    for (int i = 0; i < Math.min(10, docs.length()); i++) {  // Limit to first 10
+    for (int i = 0; i < Math.min(50, docs.length()); i++) {  // Limit to first 10
         JSONObject doc = docs.getJSONObject(i);
         String title = doc.optString("title");
         JSONArray authorsArray = doc.optJSONArray("author_name");

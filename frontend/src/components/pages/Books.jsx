@@ -40,7 +40,6 @@ export const Books = () => {
       setReadlistBooks((prev) => [...prev, bookId]); 
     } catch (error) {
       console.error("Fehler beim Hinzufügen zur Readlist:", error);
-      alert("Fehler beim Hinzufügen.");
     }
   };
 
