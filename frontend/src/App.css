@@ -519,3 +519,9 @@ footer i {
   color: #f1f1f1;
 }
 
+.book-card.highlighted {
+  border: 2px solid #7de980;
+  background-color:  #065409;
+}
+
+

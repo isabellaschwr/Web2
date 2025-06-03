@@ -1,6 +1,8 @@
 import React, { useEffect, useState } from "react";
 import { Heading } from "../common/Heading";
 import { fetchShelf, getCurrentUsername } from "../../services/api";
+import Books from "./Books";
+
 
 export const Readlist = () => {
   const [readlist, setReadlist] = useState([]);
@@ -18,14 +20,17 @@ export const Readlist = () => {
   }, [username]);
 
   return (
-    <section className="about" style={{
-      backgroundColor: "black",
-      height: "100vh",
-      color: "white",
-      padding: "2rem"
-    }}>
+    <section
+      className="about"
+      style={{
+        backgroundColor: "black",
+        height: "100vh",
+        color: "white",
+        padding: "2rem",
+      }}
+    >
       <div className="readlist-box1">
-        <Heading title={`📚 ${username}'s Readlist`} />
+        <Heading title={`${username}'s Readlist`} />
         {readlist.length === 0 ? (
           <p>Keine Bücher hinzugefügt...</p>
         ) : (

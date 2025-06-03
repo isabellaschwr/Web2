@@ -1,4 +1,4 @@
-import React from "react";
+
 import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
 import Header from "../common/Header";
 import Footer from "../common/Footer";
@@ -9,9 +9,8 @@ import { Review} from "./Review";
 import { Score } from "./Score";
 import { Register } from "./Register";
 import { Books } from "./Books";
-import { getCurrentUsername } from "../../services/api"; 
 
-const username = getCurrentUsername();
+
 
 const Pages = () => {
   return (
@@ -23,7 +22,7 @@ const Pages = () => {
         <Route exact path='/books' component={Books} />
         <Route exact path='/readlist' component={Readlist} />
         <Route exact path='/review' component={Review} />
-        <Route exact path='/score' component={Score} />
+        {/*<Route exact path='/score' component={Score} /> */}
         <Route exact path='/register' component={Register} />
 
       </Switch>

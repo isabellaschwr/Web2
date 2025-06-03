@@ -24,10 +24,10 @@ export const navlink = [
     url: "/review",
     text: "Review",
   },
-    {
+   /* {
     url: "/score",
     text: "Score",
-  },
+  }, */
   {
     url: "/register",
     text: "Register",
@@ -47,8 +47,8 @@ const home = [
 export const about = [
   {
     desc: "Diese Website stellt unterschiedliche Bücher mit verschiedenen Genre zur Verfügung. Sie besitzen die Möglichkeit durch Bücher zu stöbern und interessante Literaturen in Ihre persönliche Leseliste hinzuzufügen.",
-    desc1: "Ein Ziel unserer Website ist es nicht nur ihre Lesefreude zu festigen, sondern auch ihr Wissen zu erweitern. Es soll dazu ermutigt werden sich für diverse Kategoreien zu interessieren. Gelesene Bücher werden mit einem Score angezeigt: desto mehr Bücher Sie von einer Kategorien lesen, desto höher wird Ihr Score. ",
-    desc2: "Somit besitzen Sie zu jeder Zeit einen Überblick über ihr Allgemeinwissen :)"
+    desc1: "Zusätzlich können persönliche Reviews zu den Büchern abgegeben werden und ebenfalls mit Sternen von 1-5 gerankt werden.",
+    desc2: "Somit bekommen Sie als Nutzer unserer Website einen guten Überblick über die Bücher, die sie gelesen haben und welche Genre oder Autoren sie am liebsten Lesen"
   },
 ]
 

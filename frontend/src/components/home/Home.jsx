@@ -1,10 +1,8 @@
 import React from "react";
 import { About } from "../pages/About";
 import { Readlist } from "../pages/Readlist";
-import { Score } from "../pages/Score";
+import { Register } from "../pages/Register";
 import Typewriter from "typewriter-effect"; 
-import { useEffect, useState } from "react";
-import { fetchBooks } from "../../services/api";
 import { getCurrentUsername } from "../../services/api"; 
 
 const username = getCurrentUsername();
@@ -14,7 +12,7 @@ const home = [
     text: "Willkommen bei",
     name: "Literatur-Score",
     post: "Readinglists",
-    design: "tracking your knowledge",
+    design: "Reviews",
     desc: "Entdecke die Welt der Literatur neu.",
   },
 ];
@@ -63,7 +61,7 @@ export const Home = () => {
 
       <About />
       <Readlist />
-      <Score />
+      <Register />
       
     </>
   );

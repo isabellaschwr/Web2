@@ -26,14 +26,14 @@ export async function saveToShelf(entry) {
   return await response.json();
 }
 export async function addToShelf(username, bookTitle, shelfType = "read") {
-    const response = await fetch(`http://localhost:8080/shelves?username=${username}`, {
-      method: "POST",
-      headers: {
-        "Content-Type": "application/json",
-      },
-      body: JSON.stringify({ bookTitle, shelfType }),
-    });
-  
+  const response = await fetch(`http://localhost:8080/shelves?username=${username}`, {
+    method: "POST",
+    headers: {
+      "Content-Type": "application/json",
+    },
+    body: JSON.stringify({ bookTitle, shelfType }),
+  });
+
     if (!response.ok) {
       throw new Error("Failed to add book to shelf");
     }
