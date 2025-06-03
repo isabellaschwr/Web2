@@ -57,9 +57,9 @@ export const Review = () => {
   return (
     <section className="review">
       <div className="container">
-        <Heading title=" Buch bewerten & Reviews lesen" />
+        <Heading title=" Buch bewerten:" />
 
-        <div className="my-6">
+        <div className="search-bar2">
           <input
             type="text"
             value={bookTitle}
@@ -70,9 +70,9 @@ export const Review = () => {
 
           {bookTitle && (
             <div className="reviews">
-              <h2 className="text-xl font-semibold mb-2">🔍 Reviews zu: „{bookTitle}“</h2>
+              <h2 className="text-xl font-semibold mb-2"> Reviews zu: '{bookTitle}'</h2>
               {reviews.length === 0 ? (
-                <p className="text-gray-500">Noch keine Bewertungen vorhanden.</p>
+                <p className="text-gray-500">Noch keine Bewertungen abgegeben.</p>
               ) : (
                 <ul className="space-y-4">
                   {reviews.map((r) => (
@@ -90,7 +90,7 @@ export const Review = () => {
 
         {bookTitle && (
           <form onSubmit={handleSubmit} className="border p-4 rounded shadow mt-6">
-            <h3 className="text-lg font-semibold mb-2">📝 Eigene Review schreiben</h3>
+            <h3 className="text-lg font-semibold mb-2"> Review schreiben</h3>
 
             <label className="block mb-2">Bewertung (1–5 Sterne):</label>
             <select
@@ -108,7 +108,7 @@ export const Review = () => {
             <textarea
               value={reviewText}
               onChange={(e) => setReviewText(e.target.value)}
-              placeholder="Deine Meinung zum Buch..."
+              placeholder="Ihre Meinung zum Buch..."
               className="border p-2 w-full rounded mb-4"
               rows={4}
               required

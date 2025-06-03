@@ -525,3 +525,26 @@ footer i {
 }
 
 
+/*Reviews */
+
+
+.search-bar2 {
+  padding: 1rem;
+  background-color: #552a2a;
+  text-align: center;
+  border-bottom: 1px solid #ccc;
+  border-radius: 8px;;
+}
+
+
+.search-bar2 input {
+  padding: 0.5rem 1rem;
+  width: 100%;
+  max-width: 400px;
+  font-size: 1rem;
+  border: 1px solid #482323;
+  border-radius: 8px;
+  background-color: var(--primaryBackground);
+  color: white;
+}
+
