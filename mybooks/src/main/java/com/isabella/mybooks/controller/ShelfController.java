@@ -28,7 +28,7 @@ public class ShelfController {
     @GetMapping("/{username}")
     public List<ShelfEntry> getShelfForUser(@PathVariable String username) {
         if (username == null || username.trim().isEmpty()) {
-            throw new IllegalArgumentException("Username cannot be empty.");
+            throw new IllegalArgumentException("Login first");
         }
         return shelfEntryService.getShelfForUser(username);
     }
