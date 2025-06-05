@@ -52,7 +52,6 @@ export const Home = () => {
               />
             </h1>
             <p data-aos="fade-left">{val.desc}</p>
-            <button onClick={() => history.push("/Readlist")}>go to readlist</button>
           </div>
         ))}
       </section>

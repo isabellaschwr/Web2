@@ -1,9 +1,10 @@
 # Book Platform
 
-## Project Structure
-
 # Frontend: Sophie Lazarjan
 # Backend: Isabella Schwarz
+
+## Project Structure
+
 
 ```text
 WEB2/
