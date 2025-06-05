@@ -35,15 +35,6 @@ WEB2/
 └── README.md                                 # Overview and instructions
 ```
 
-### How to Run the Backend
-
-1. Open a terminal.
-2. Navigate to `/mybooks/`.
-3. Run:
-   ```bash
-   ./mvnw spring-boot:run
-
-
 ## Git
 
 
