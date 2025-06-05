@@ -139,7 +139,7 @@ Origin ist der für die Remote-Connection und master ist der Branch, zu dem gepu
 
 ### Testing the API
 
-> Make sure the server is running. Open a **new terminal** for these commands.
+Make sure the server is running. Open a new terminal for these commands.
 
 #### Add a User
 ```bash
