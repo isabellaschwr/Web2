@@ -31,11 +31,7 @@ WEB2/
 │   │   │   │   └── MybooksApplication.java   # Main application entry point
 │   │   │   └── resources/
 │   │   │       └── application.properties    # Backend configuration (e.g., database connection)
-│   │   └── test/                             # Automated tests
 │   ├── pom.xml                               # Maven dependencies and project configuration
-│   └── README.md                             # Setup and usage instructions for the backend
-├── data/                                     # Shared static data
-│   └── book_data.json
 └── README.md                                 # Overview and instructions
 ```
 
@@ -92,13 +88,6 @@ WEB2/
     git remote add origin https://github.com/isabellaschwr/Web2.git
     ```
 
-1. Server starten:
-
-    ```bash
-    node server.js
-    ```
-
-1. `http://localhost:3000` im Browser
 
 ## Pushing to master
 
